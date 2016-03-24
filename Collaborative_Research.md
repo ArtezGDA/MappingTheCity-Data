@@ -7,4 +7,9 @@
 	- Shirin
 	- Patrick
 
+- Team 2:
+	- Noa
+	- Heike
+	- Luc
+
 ## Afternoon Group 2A
