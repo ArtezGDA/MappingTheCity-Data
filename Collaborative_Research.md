@@ -28,3 +28,26 @@
 	- Angela
 
 ## Afternoon Group 2A
+
+- Team 1:
+	- Bas
+	- Max
+	- Nicole
+
+- Team 2:
+	- Nikki
+	- Lola
+	- Isabel
+
+- Team 3:
+	- Reinier
+	- Jeanine 
+	- Leonie
+
+- Team 4:
+	- Martijn
+	- Niels
+	- Marianne
+
+	
+	
