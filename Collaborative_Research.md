@@ -25,7 +25,7 @@
 - Team 5:
 	- Nikki
 	- Jasmijn
-	- Angela
+	- Anne
 
 ## Afternoon Group 2A
 
