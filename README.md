@@ -22,7 +22,7 @@ For each research topic the following file structure should be created
 		- a how to install and use of these tools
 		- a list of contributers and authors of these tools (your names)
 	- Folder with the `Source_Data`
-		- Source data as `.csv` file
+		- Source data as `.csv`, database, json or text file
 		- Make sure the file is not ridiciculous large > 5 MB. If it is don't include it, just link to it.
 	- python scripts to scrape and groom the data
 	- Results as .json file
