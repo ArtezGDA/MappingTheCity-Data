@@ -2,17 +2,17 @@
 
 ## Morning Group 2B
 
-- Team 1: 
+- Team 1: **Primaries in the United States, historic and current**
 	- Kimberley
 	- Jesse
 	- Patrick
 
-- Team 2:
+- Team 2: **Sister cities of Arnhem**
 	- Noa
 	- Heike
 	- Luc
 	
-- Team 3:
+- Team 3: ****
 	- Lydienne
 	- Esmee
 	- Angela
