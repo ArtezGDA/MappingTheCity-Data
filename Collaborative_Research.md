@@ -29,22 +29,22 @@
 
 ## Afternoon Group 2A
 
-- Team 1:
+- Team 1: **Charging poles of electric vehicles**
 	- Bas
 	- Max
 	- Nicole
 
-- Team 2:
+- Team 2: **Crime data in NewYork**
 	- Nikki
 	- Lola
 	- Isabel
 
-- Team 3:
+- Team 3: **Internet data streams and 3G/4G Antennas**
 	- Reinier
 	- Jeanine 
 	- Leonie
 
-- Team 4:
+- Team 4: **Labor strikes and accidents in mainland China**
 	- Martijn
 	- Niels
 	- Marianne

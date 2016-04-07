@@ -16,8 +16,14 @@ table = soup.findAll(“table”)
 new.table = soup.find_all("table", class_="responsive airport-history-summary-table")
 
 Structure of Json file
-[{“header”:
-					{”fact 1”:”max”, “avg”, “min”, “sum”},
-					{”fact 2”:”max”, “avg”, “min”, “sum”}
-					{”fact 3”:”max”, “avg”, “min”, “sum”}}
-]
+[
+{“percipitation”:
+	{	“min”: “xy”,
+		“max”: “xy”,
+		“avg”: “xy”
+	},
+{“snow dept”:
+	{	“min”: “xy”,
+		“max”: “xy”,
+		“avg”: “xy”
+	},
