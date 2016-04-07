@@ -15,10 +15,13 @@ def main():
 
         trs = table.find_all("tr")
 
-        for tr in trs:
+        #for tr in trs:
             # for each row of current table, write it using | between cells
-            print '|'.join([x.get_text().replace('\n','') for x in tr.find_all('td')])
-
+            #print '|'.join([x.get_text().replace('\n','') for x in tr.find_all('td')])
+    header = trs[2].find_all("span")
+    print header[0]
+    print header[1]
+    print header[2]
 
 if __name__ == "__main__":
     main()
