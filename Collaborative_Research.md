@@ -12,17 +12,17 @@
 	- Heike
 	- Luc
 	
-- Team 3: ****
+- Team 3: **Stolen Artworks in the Netherlands**
 	- Lydienne
 	- Esmee
 	- Angela
 
-- Team 4:
+- Team 4: **Weather of Philadelphia**
 	- Bella
 	- Sietske
 	- Shirin
 
-- Team 5:
+- Team 5: **Streetnames sorted by type**
 	- Nikki
 	- Jasmijn
 	- Anne
