@@ -25,10 +25,6 @@ Team 4: Shirin, Bella, Sietske
 9. **Real Estate:** https://www.opendataphilly.org/dataset?groups=real-estate-land-records-group
 10. **History:** https://www.opendataphilly.org/dataset?groups=real-estate-land-records-group&groups=arts-culture-history-group
 
-###Analysis data
-![image](analysisdata.png)
-
-
 ###Scrapping History
 
 Original url: [Philadephia weather](https://www.wunderground.com/history/airport/KPHL/2016/1/1/MonthlyHistory.html?&reqdb.zip=&reqdb.magic=&reqdb.wmo=&MR=1)
