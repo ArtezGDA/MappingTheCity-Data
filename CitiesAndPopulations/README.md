@@ -130,5 +130,9 @@ Despite the efforts to create this list and scrape the cities, not all the citie
 - Ecuador is empty (scraping the list of cities should also attempt to parse `ul` and `ol` inside a div (maybe only with `class_="div-col"`))
 - Gibraltar is empty (should have a list of one city: Gibraltrar)
 - ... more countries are empty
+- Fix Tehran (`<span style="display:none" class="sortkey">7,006,884,678,200,000,000♠</span>`) and similar
+- Remove Guangdong (and other provinces)
+- Remove Bihar (and other states)
+
 
 ##### Authored by Dirk van Oosterbosch
