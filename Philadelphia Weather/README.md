@@ -29,8 +29,7 @@ Team 4: Shirin, Bella, Sietske
 ![image](analysisdata.png)
 
 
-###Data scraping
-**The Weather in Philadephia**
+###Scrapping History
 
 Original url: [Philadephia weather](https://www.wunderground.com/history/airport/KPHL/2016/1/1/MonthlyHistory.html?&reqdb.zip=&reqdb.magic=&reqdb.wmo=&MR=1)
 
