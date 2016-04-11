@@ -10,15 +10,21 @@ def main():
 		citiesData = json.load(inputFile)
 	print "Analyzing %d countries" % (len(citiesData))
 	emptyCitiesCountry = []
-	for country in citiesData:
+	for i, country in enumerate(citiesData):
 		if country.has_key('cities'):
 			if not country['cities']:
-				emptyCitiesCountry.append(country['country'])
+				emptyCountryDict = {}
+				emptyCountryDict['index'] = i
+				emptyCountryDict['country'] = country['country']
+				emptyCitiesCountry.append(emptyCountryDict)
 		else:
-			emptyCitiesCountry.append(country['country'])
+			emptyCountryDict = {}
+			emptyCountryDict['index'] = i
+			emptyCountryDict['country'] = country['country']
+			emptyCitiesCountry.append(emptyCountryDict)
 	print "There are %d countries without cities:" % (len(emptyCitiesCountry))
 	for emptyCountry in emptyCitiesCountry:
-		print "\t- %s" % emptyCountry
+		print "  %d: \t%s" % (emptyCountry['index'], emptyCountry['country'])
 	
 if __name__ == '__main__':
 	main()

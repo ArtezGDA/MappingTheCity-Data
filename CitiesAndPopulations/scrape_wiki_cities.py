@@ -40,7 +40,7 @@ def main():
 	#
 	# Then continue getting the cities
 	numberOfCities = 0
-	pBarCountries = tqdm(citiesData, leave=True, nested=True)
+	pBarCountries = tqdm(citiesData[0:1], leave=True, nested=True)
 	for c in pBarCountries:
 		# citiesList must not be an "" empty string
 		country = c['country']
@@ -74,15 +74,20 @@ def main():
 						possibleCityLinks.append(allLinks)		
 			else:
 				# Find all links in list items
-				div = soup.find('div', id="mw-content-text")
-				# Search all unordered lists
-				for ul in div.findAll('ul', recursive=False):
-					for link in ul.findAll('a'):
-						possibleCityLinks.append([link])
-				# Search all ordered lists		  
-				for ol in div.findAll('ol', recursive=False):
-					for link in ol.findAll('a'):
-						possibleCityLinks.append([link])
+				# First collect all possible container divs
+				containerDivs = [soup.find('div', id="mw-content-text")]
+				# Sub divs with multi-column lists
+				containerDivs += soup.findAll('div', class_="div-col")
+				# Search all divs
+				for div in containerDivs:
+					# Search all unordered lists
+					for ul in div.findAll('ul', recursive=False):
+						for link in ul.findAll('a'):
+							possibleCityLinks.append([link])
+					# Search all ordered lists		  
+					for ol in div.findAll('ol', recursive=False):
+						for link in ol.findAll('a'):
+							possibleCityLinks.append([link])
 			# Find first valid link
 			pBarCities = tqdm(possibleCityLinks, leave=True, nested=True)
 			for allLinks in pBarCities:
