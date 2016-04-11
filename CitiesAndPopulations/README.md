@@ -50,6 +50,13 @@ https://en.wikipedia.org/wiki/Lists_of_cities_by_country
                              |
      +-----------------------+
      |
+     v
+ +---+-----------------------+
+ |                           |			Manual fixing some countries.
+ |  patch < countries.patch  |			Redo these changes by applying
+ |                           |			the patch.
+ +---+-----------------------+
+     |
      |          ╔══════════════════════════╗
      |          ║                          ║
      +---------->  scrape_wiki_cities.py   ║
@@ -123,7 +130,6 @@ And because the results of that research were copied into this repository, the o
 
 Despite the efforts to create this list and scrape the cities, not all the cities will be included in this list. The following countries and issues should be looked after to see if the data can be improved:
 
-- Brazil (list of cities should maybe be this one instead https://en.wikipedia.org/wiki/List_of_municipalities_of_Brazil)
 - Barbados is has an empty cities list
 - Akrotiri and Dhekelia is empty
 - Dominica is empty
