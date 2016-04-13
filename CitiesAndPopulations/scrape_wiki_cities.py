@@ -16,6 +16,7 @@ def appendLinkToCities(link, cityNameList, cityDictList):
 			# Check if this possible city has a coordinate
 			try:
 				p = wikipedia.page(cityName, auto_suggest=False)
+				# Get the Coordinates 
 				coord = p.coordinates
 				cityDict = {}
 				cityDict['name'] = cityName
@@ -25,7 +26,9 @@ def appendLinkToCities(link, cityNameList, cityDictList):
 				cityDictList.append(cityDict)
 				cityNameList.append(cityName)
 				return True
-			except (KeyError, wikipedia.exceptions.DisambiguationError):
+			except KeyError:
+				return False
+			except wikipedia.exceptions.DisambiguationError:
 				return False
 	return False
 
@@ -38,9 +41,17 @@ def main():
 	   citiesData = json.load(inputFile)
 	print "Processing %d countries" % (len(citiesData))
 	#
+	# Open the partial json file (Or create an empty one)
+	partialJsonFile = "cities_part.json"
+	try:
+		with open(partialJsonFile, 'r') as inputFile:
+			partialData = json.load(inputFile)
+	except IOError:
+		partialData = []
+	#
 	# Then continue getting the cities
 	numberOfCities = 0
-	pBarCountries = tqdm(citiesData[0:1], leave=True, nested=True)
+	pBarCountries = tqdm(citiesData[:], leave=True, nested=True)
 	for c in pBarCountries:
 		# citiesList must not be an "" empty string
 		country = c['country']
@@ -100,6 +111,15 @@ def main():
 			#
 			# Let's append it to the dictionary c, we already had
 			c['cities'] = cityDicts
+			# Save to the partial json file
+			partialData.append(c)
+			with open(partialJsonFile, 'w') as outputFile:
+				json.dump(partialData, outputFile, indent=2)
+		else:
+			# Add the empty country (with no citiesList) to the partial json
+			partialData.append(c)
+			with open(partialJsonFile, 'w') as outputFile:
+				json.dump(partialData, outputFile, indent=2)
 	# Save a file, with all cities by countries
 	with open("cities.json", 'w') as outputFile:
 	   json.dump(citiesData, outputFile, indent=2)
