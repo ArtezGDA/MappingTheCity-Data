@@ -1,0 +1,38 @@
+diff --git a/CitiesAndPopulations/cities.json b/CitiesAndPopulations/cities.json
+index 92df7a9..46a7b8a 100644
+--- a/CitiesAndPopulations/cities.json
++++ b/CitiesAndPopulations/cities.json
+@@ -63760,7 +63760,15 @@
+     "citiesList": "List of cities in Ghana"
+   }, 
+   {
+-    "country": "Gibraltar", 
++    "country": "Gibraltar",
++    "cities": [
++      {
++        "lat": 36.143,
++        "url": "https://en.wikipedia.org/wiki/Gibraltar",
++        "lon": -5.353,
++        "name": "Gibraltar"
++      }
++    ],
+     "citiesList": ""
+   }, 
+   {
+@@ -87151,7 +87159,15 @@
+     "citiesList": "List of cities in Moldova"
+   }, 
+   {
+-    "country": "Monaco", 
++    "country": "Monaco",
++    "cities": [
++      {
++        "lat": 43.73333333,
++        "url": "https://en.wikipedia.org/wiki/Monaco",
++        "lon": 7.41666667,
++        "name": "Monaco"
++      }
++    ],
+     "citiesList": ""
+   }, 
+   {
