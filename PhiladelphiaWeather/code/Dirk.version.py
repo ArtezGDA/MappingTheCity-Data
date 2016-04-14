@@ -3,16 +3,20 @@
 
 from bs4 import BeautifulSoup
 import urllib
+import json
 
 def main():
-    """weather scraper"""
+    # weatherData = weather_philadelphia_data #Json beginns here
+    # with open(jsonfile, 'w') as outputFile:
+    #     json.dump(weatherData, outputFile)
+    # #scrapping beginns here
     r = urllib.urlopen("https://www.wunderground.com/history/airport/KPHL/2016/1/1/MonthlyHistory.html?&reqdb.zip=&reqdb.magic=&reqdb.wmo=&MR=1").read()
     soup = BeautifulSoup(r, "html.parser")
     tables = soup.find_all("table", class_="responsive airport-history-summary-table")
 
+    weatherdata = []
     scrapedData = {}
     for table in tables:
-        print 'Weather Philadelphia'
 
         for tr in table.find_all("tr"):
             firstTd = tr.find("td")
@@ -22,7 +26,6 @@ def main():
                 maxVal = tds[1].find("span", class_="wx-value")
                 avgVal = tds[2].find("span", class_="wx-value")
                 minVal = tds[3].find("span", class_="wx-value")
-                print maxVal, avgVal, minVal
                 if maxVal:
                     values['max'] = maxVal.text
                 if avgVal:
@@ -34,13 +37,10 @@ def main():
                     if sumVal:
                         values['sum'] = sumVal.text
                 scrapedData[firstTd.text] = values
-            # for each row of current table, write it using | between cells
-            #print '|'.join([x.get_text().replace('\n','') for x in tr.find_all('td')])
-            # header = trs[2].find_all("span")
-            # print header[0]
-            # print header[1]
-            # print header[2]
-    print scrapedData
+                weatherdata.append(scrapedData)
 
+    with open ("january_2016.json", 'w' ) as outFile:
+        json.dump(weatherdata, outFile, indent=2)
+print "done"
 if __name__ == "__main__":
     main()
