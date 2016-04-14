@@ -137,14 +137,17 @@ And because the results of that research were copied into this repository, the o
 
 Despite the efforts to create this list and scrape the cities, not all the cities will be included in this list. The following countries and issues should be looked after to see if the data can be improved:
 
-- Barbados is has an empty cities list
+- Kenya is has an empty cities list
 - Akrotiri and Dhekelia is empty
 - Dominica is empty
 - Gibraltar is empty (should have a list of one city: Gibraltrar)
 - ... more countries are empty
 - Fix Tehran (`<span style="display:none" class="sortkey">7,006,884,678,200,000,000♠</span>`) and similar
-- Remove Guangdong (and other provinces)
-- Remove Bihar (and other states)
+- Better analysis of categories to exclude:
+    - Remove Guangdong (and other provinces)
+    - Remove Bihar (and other states)
+    - Remove Guangxi (and other autonomous regions)
+    - Remove "District", "Division of ..."
 
 
 ##### Authored by Dirk van Oosterbosch

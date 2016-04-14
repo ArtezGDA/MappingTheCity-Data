@@ -23,7 +23,7 @@ def main():
 		partialData = []
 	#
 	# Exlude list of categories which are not cities
-	excludeCategories = ("State", "Province")
+	excludeCategories = ("State", "Province", "Autonomous region")
 	excludedPages = []
 	#
 	# The citiesData is a nested list of countries with cities
