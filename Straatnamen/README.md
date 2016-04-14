@@ -2,12 +2,16 @@
 # Straatnamen
 # Anne Nikki Jasmijn
 
-## info
-[sorces] () (Straatnamen/sorces van sites.rtf) <br>
-[straatnamen in lijst] () (Straatnamen/straatnamen.rtf) <br>
+## Sorces
+
+http://data.amsterdam.nl/dataset/bijzonder_vervoer
+http://plotdevice.io/tut/Libraries
+http://plotdevice.io/lib/Graph
+http://plotdevice.io/lib/Database#createdatabase
 
 
 ## json files
+[simpel] () (Straatnamen/straatnamen.json) <br>
 [simpel] () (Straatnamen/straatnamen.json) <br>
 [deluxe] () (Straatnamen/straatnamendeluxe.json) <br>
 
@@ -15,6 +19,11 @@
 
 ## terminal scrape historie
 [terminal] () (Straatnamen/terminalscrape.rtf) <br>
+
+## Python opbouw schets
+[schets] () (Straatnamen/) <br>
+
+
 
 
 
