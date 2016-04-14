@@ -17,7 +17,7 @@ A list of cities that through their sister-cities can all be traced back to Arnh
 
 [All cities found](arnhem_tree_Thu-Apr-14-2016-100114-GMT0200-CESTunique.txt)
 
-A recursive node.js code that scrapes sister-cities and their respective siter-cities, continuing until it can only find cities it has already found. Starting at Arnhem.
+A recursive node.js code that scrapes cities and their respective sister-cities, continuing until it can only find cities it has already found. Starting at Arnhem.
 
 [Scraping File](arnhemscrape/arnhemscrape1.js)
 
@@ -27,7 +27,7 @@ Cities (text) and geographical data.
 ####Tools:
 **Node.js**
 
-Modules: request, cheerio, geocode
+modules installed: request, cheerio, geocoder, fs
 
 ####How to install tools
 [Install Node](https://nodejs.org/en/)
