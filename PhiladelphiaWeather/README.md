@@ -25,7 +25,7 @@ Team 4: Shirin, Bella, Sietske
 9. **Real Estate:** https://www.opendataphilly.org/dataset?groups=real-estate-land-records-group
 10. **History:** https://www.opendataphilly.org/dataset?groups=real-estate-land-records-group&groups=arts-culture-history-group
 
-###Scrapping History
+###Scraping History
 
 Original url: [Philadephia weather](https://www.wunderground.com/history/airport/KPHL/2016/1/1/MonthlyHistory.html?&reqdb.zip=&reqdb.magic=&reqdb.wmo=&MR=1)
 
@@ -47,4 +47,14 @@ soup.findAll("table”)
 table = soup.findAll(“table”)
 new.table = soup.find_all("table", class_="responsive airport-history-summary-table")
 
+<<<<<<< HEAD:PhiladelphiaWeather/README.md
 [Python Script](Shirin/Count.py)<br>
+=======
+Structure of Json file
+[{“header”:
+					{”fact 1”:”max”, “avg”, “min”, “sum”},
+					{”fact 2”:”max”, “avg”, “min”, “sum”}
+					{”fact 3”:”max”, “avg”, “min”, “sum”}}
+]
+```
+>>>>>>> origin/master:PhiladelphiaWeather/README.md
