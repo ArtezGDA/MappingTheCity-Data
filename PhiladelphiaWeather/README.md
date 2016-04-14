@@ -47,6 +47,9 @@ soup.findAll("table”)
 table = soup.findAll(“table”)
 new.table = soup.find_all("table", class_="responsive airport-history-summary-table")
 
+<<<<<<< HEAD:PhiladelphiaWeather/README.md
+[Python Script](Shirin/Count.py)<br>
+=======
 Structure of Json file
 [{“header”:
 					{”fact 1”:”max”, “avg”, “min”, “sum”},
@@ -54,3 +57,4 @@ Structure of Json file
 					{”fact 3”:”max”, “avg”, “min”, “sum”}}
 ]
 ```
+>>>>>>> origin/master:PhiladelphiaWeather/README.md

@@ -1,0 +1,614 @@
+[
+  {
+    "Cooling Degree Days (base 65)": {}, 
+    "Gust Wind": {
+      "max": "79", 
+      "avg": "42", 
+      "min": "27"
+    }, 
+    "Min Temperature": {
+      "max": "6", 
+      "avg": "-3", 
+      "min": "-11"
+    }, 
+    "Heating Degree Days (base 65)": {}, 
+    "Dew Point": {
+      "max": "14", 
+      "avg": "-7", 
+      "min": "-21"
+    }, 
+    "Growing Degree Days (base 50)": {}, 
+    "Snowdepth": {
+      "max": "46", 
+      "avg": "8", 
+      "min": "0"
+    }, 
+    "Sea Level Pressure": {
+      "max": "1038", 
+      "avg": "1017", 
+      "min": "993"
+    }, 
+    "Max Temperature": {
+      "max": "18", 
+      "avg": "6", 
+      "min": "-2"
+    }, 
+    "Precipitation": {
+      "max": "35.6", 
+      "sum": "66.80", 
+      "avg": "2.5", 
+      "min": "0.0"
+    }, 
+    "Wind": {
+      "max": "61", 
+      "avg": "16", 
+      "min": "0"
+    }, 
+    "Mean Temperature": {
+      "max": "12", 
+      "avg": "1", 
+      "min": "-6"
+    }
+  }, 
+  {
+    "Cooling Degree Days (base 65)": {}, 
+    "Gust Wind": {
+      "max": "79", 
+      "avg": "42", 
+      "min": "27"
+    }, 
+    "Min Temperature": {
+      "max": "6", 
+      "avg": "-3", 
+      "min": "-11"
+    }, 
+    "Heating Degree Days (base 65)": {}, 
+    "Dew Point": {
+      "max": "14", 
+      "avg": "-7", 
+      "min": "-21"
+    }, 
+    "Growing Degree Days (base 50)": {}, 
+    "Snowdepth": {
+      "max": "46", 
+      "avg": "8", 
+      "min": "0"
+    }, 
+    "Sea Level Pressure": {
+      "max": "1038", 
+      "avg": "1017", 
+      "min": "993"
+    }, 
+    "Max Temperature": {
+      "max": "18", 
+      "avg": "6", 
+      "min": "-2"
+    }, 
+    "Precipitation": {
+      "max": "35.6", 
+      "sum": "66.80", 
+      "avg": "2.5", 
+      "min": "0.0"
+    }, 
+    "Wind": {
+      "max": "61", 
+      "avg": "16", 
+      "min": "0"
+    }, 
+    "Mean Temperature": {
+      "max": "12", 
+      "avg": "1", 
+      "min": "-6"
+    }
+  }, 
+  {
+    "Cooling Degree Days (base 65)": {}, 
+    "Gust Wind": {
+      "max": "79", 
+      "avg": "42", 
+      "min": "27"
+    }, 
+    "Min Temperature": {
+      "max": "6", 
+      "avg": "-3", 
+      "min": "-11"
+    }, 
+    "Heating Degree Days (base 65)": {}, 
+    "Dew Point": {
+      "max": "14", 
+      "avg": "-7", 
+      "min": "-21"
+    }, 
+    "Growing Degree Days (base 50)": {}, 
+    "Snowdepth": {
+      "max": "46", 
+      "avg": "8", 
+      "min": "0"
+    }, 
+    "Sea Level Pressure": {
+      "max": "1038", 
+      "avg": "1017", 
+      "min": "993"
+    }, 
+    "Max Temperature": {
+      "max": "18", 
+      "avg": "6", 
+      "min": "-2"
+    }, 
+    "Precipitation": {
+      "max": "35.6", 
+      "sum": "66.80", 
+      "avg": "2.5", 
+      "min": "0.0"
+    }, 
+    "Wind": {
+      "max": "61", 
+      "avg": "16", 
+      "min": "0"
+    }, 
+    "Mean Temperature": {
+      "max": "12", 
+      "avg": "1", 
+      "min": "-6"
+    }
+  }, 
+  {
+    "Cooling Degree Days (base 65)": {}, 
+    "Gust Wind": {
+      "max": "79", 
+      "avg": "42", 
+      "min": "27"
+    }, 
+    "Min Temperature": {
+      "max": "6", 
+      "avg": "-3", 
+      "min": "-11"
+    }, 
+    "Heating Degree Days (base 65)": {}, 
+    "Dew Point": {
+      "max": "14", 
+      "avg": "-7", 
+      "min": "-21"
+    }, 
+    "Growing Degree Days (base 50)": {}, 
+    "Snowdepth": {
+      "max": "46", 
+      "avg": "8", 
+      "min": "0"
+    }, 
+    "Sea Level Pressure": {
+      "max": "1038", 
+      "avg": "1017", 
+      "min": "993"
+    }, 
+    "Max Temperature": {
+      "max": "18", 
+      "avg": "6", 
+      "min": "-2"
+    }, 
+    "Precipitation": {
+      "max": "35.6", 
+      "sum": "66.80", 
+      "avg": "2.5", 
+      "min": "0.0"
+    }, 
+    "Wind": {
+      "max": "61", 
+      "avg": "16", 
+      "min": "0"
+    }, 
+    "Mean Temperature": {
+      "max": "12", 
+      "avg": "1", 
+      "min": "-6"
+    }
+  }, 
+  {
+    "Cooling Degree Days (base 65)": {}, 
+    "Gust Wind": {
+      "max": "79", 
+      "avg": "42", 
+      "min": "27"
+    }, 
+    "Min Temperature": {
+      "max": "6", 
+      "avg": "-3", 
+      "min": "-11"
+    }, 
+    "Heating Degree Days (base 65)": {}, 
+    "Dew Point": {
+      "max": "14", 
+      "avg": "-7", 
+      "min": "-21"
+    }, 
+    "Growing Degree Days (base 50)": {}, 
+    "Snowdepth": {
+      "max": "46", 
+      "avg": "8", 
+      "min": "0"
+    }, 
+    "Sea Level Pressure": {
+      "max": "1038", 
+      "avg": "1017", 
+      "min": "993"
+    }, 
+    "Max Temperature": {
+      "max": "18", 
+      "avg": "6", 
+      "min": "-2"
+    }, 
+    "Precipitation": {
+      "max": "35.6", 
+      "sum": "66.80", 
+      "avg": "2.5", 
+      "min": "0.0"
+    }, 
+    "Wind": {
+      "max": "61", 
+      "avg": "16", 
+      "min": "0"
+    }, 
+    "Mean Temperature": {
+      "max": "12", 
+      "avg": "1", 
+      "min": "-6"
+    }
+  }, 
+  {
+    "Cooling Degree Days (base 65)": {}, 
+    "Gust Wind": {
+      "max": "79", 
+      "avg": "42", 
+      "min": "27"
+    }, 
+    "Min Temperature": {
+      "max": "6", 
+      "avg": "-3", 
+      "min": "-11"
+    }, 
+    "Heating Degree Days (base 65)": {}, 
+    "Dew Point": {
+      "max": "14", 
+      "avg": "-7", 
+      "min": "-21"
+    }, 
+    "Growing Degree Days (base 50)": {}, 
+    "Snowdepth": {
+      "max": "46", 
+      "avg": "8", 
+      "min": "0"
+    }, 
+    "Sea Level Pressure": {
+      "max": "1038", 
+      "avg": "1017", 
+      "min": "993"
+    }, 
+    "Max Temperature": {
+      "max": "18", 
+      "avg": "6", 
+      "min": "-2"
+    }, 
+    "Precipitation": {
+      "max": "35.6", 
+      "sum": "66.80", 
+      "avg": "2.5", 
+      "min": "0.0"
+    }, 
+    "Wind": {
+      "max": "61", 
+      "avg": "16", 
+      "min": "0"
+    }, 
+    "Mean Temperature": {
+      "max": "12", 
+      "avg": "1", 
+      "min": "-6"
+    }
+  }, 
+  {
+    "Cooling Degree Days (base 65)": {}, 
+    "Gust Wind": {
+      "max": "79", 
+      "avg": "42", 
+      "min": "27"
+    }, 
+    "Min Temperature": {
+      "max": "6", 
+      "avg": "-3", 
+      "min": "-11"
+    }, 
+    "Heating Degree Days (base 65)": {}, 
+    "Dew Point": {
+      "max": "14", 
+      "avg": "-7", 
+      "min": "-21"
+    }, 
+    "Growing Degree Days (base 50)": {}, 
+    "Snowdepth": {
+      "max": "46", 
+      "avg": "8", 
+      "min": "0"
+    }, 
+    "Sea Level Pressure": {
+      "max": "1038", 
+      "avg": "1017", 
+      "min": "993"
+    }, 
+    "Max Temperature": {
+      "max": "18", 
+      "avg": "6", 
+      "min": "-2"
+    }, 
+    "Precipitation": {
+      "max": "35.6", 
+      "sum": "66.80", 
+      "avg": "2.5", 
+      "min": "0.0"
+    }, 
+    "Wind": {
+      "max": "61", 
+      "avg": "16", 
+      "min": "0"
+    }, 
+    "Mean Temperature": {
+      "max": "12", 
+      "avg": "1", 
+      "min": "-6"
+    }
+  }, 
+  {
+    "Cooling Degree Days (base 65)": {}, 
+    "Gust Wind": {
+      "max": "79", 
+      "avg": "42", 
+      "min": "27"
+    }, 
+    "Min Temperature": {
+      "max": "6", 
+      "avg": "-3", 
+      "min": "-11"
+    }, 
+    "Heating Degree Days (base 65)": {}, 
+    "Dew Point": {
+      "max": "14", 
+      "avg": "-7", 
+      "min": "-21"
+    }, 
+    "Growing Degree Days (base 50)": {}, 
+    "Snowdepth": {
+      "max": "46", 
+      "avg": "8", 
+      "min": "0"
+    }, 
+    "Sea Level Pressure": {
+      "max": "1038", 
+      "avg": "1017", 
+      "min": "993"
+    }, 
+    "Max Temperature": {
+      "max": "18", 
+      "avg": "6", 
+      "min": "-2"
+    }, 
+    "Precipitation": {
+      "max": "35.6", 
+      "sum": "66.80", 
+      "avg": "2.5", 
+      "min": "0.0"
+    }, 
+    "Wind": {
+      "max": "61", 
+      "avg": "16", 
+      "min": "0"
+    }, 
+    "Mean Temperature": {
+      "max": "12", 
+      "avg": "1", 
+      "min": "-6"
+    }
+  }, 
+  {
+    "Cooling Degree Days (base 65)": {}, 
+    "Gust Wind": {
+      "max": "79", 
+      "avg": "42", 
+      "min": "27"
+    }, 
+    "Min Temperature": {
+      "max": "6", 
+      "avg": "-3", 
+      "min": "-11"
+    }, 
+    "Heating Degree Days (base 65)": {}, 
+    "Dew Point": {
+      "max": "14", 
+      "avg": "-7", 
+      "min": "-21"
+    }, 
+    "Growing Degree Days (base 50)": {}, 
+    "Snowdepth": {
+      "max": "46", 
+      "avg": "8", 
+      "min": "0"
+    }, 
+    "Sea Level Pressure": {
+      "max": "1038", 
+      "avg": "1017", 
+      "min": "993"
+    }, 
+    "Max Temperature": {
+      "max": "18", 
+      "avg": "6", 
+      "min": "-2"
+    }, 
+    "Precipitation": {
+      "max": "35.6", 
+      "sum": "66.80", 
+      "avg": "2.5", 
+      "min": "0.0"
+    }, 
+    "Wind": {
+      "max": "61", 
+      "avg": "16", 
+      "min": "0"
+    }, 
+    "Mean Temperature": {
+      "max": "12", 
+      "avg": "1", 
+      "min": "-6"
+    }
+  }, 
+  {
+    "Cooling Degree Days (base 65)": {}, 
+    "Gust Wind": {
+      "max": "79", 
+      "avg": "42", 
+      "min": "27"
+    }, 
+    "Min Temperature": {
+      "max": "6", 
+      "avg": "-3", 
+      "min": "-11"
+    }, 
+    "Heating Degree Days (base 65)": {}, 
+    "Dew Point": {
+      "max": "14", 
+      "avg": "-7", 
+      "min": "-21"
+    }, 
+    "Growing Degree Days (base 50)": {}, 
+    "Snowdepth": {
+      "max": "46", 
+      "avg": "8", 
+      "min": "0"
+    }, 
+    "Sea Level Pressure": {
+      "max": "1038", 
+      "avg": "1017", 
+      "min": "993"
+    }, 
+    "Max Temperature": {
+      "max": "18", 
+      "avg": "6", 
+      "min": "-2"
+    }, 
+    "Precipitation": {
+      "max": "35.6", 
+      "sum": "66.80", 
+      "avg": "2.5", 
+      "min": "0.0"
+    }, 
+    "Wind": {
+      "max": "61", 
+      "avg": "16", 
+      "min": "0"
+    }, 
+    "Mean Temperature": {
+      "max": "12", 
+      "avg": "1", 
+      "min": "-6"
+    }
+  }, 
+  {
+    "Cooling Degree Days (base 65)": {}, 
+    "Gust Wind": {
+      "max": "79", 
+      "avg": "42", 
+      "min": "27"
+    }, 
+    "Min Temperature": {
+      "max": "6", 
+      "avg": "-3", 
+      "min": "-11"
+    }, 
+    "Heating Degree Days (base 65)": {}, 
+    "Dew Point": {
+      "max": "14", 
+      "avg": "-7", 
+      "min": "-21"
+    }, 
+    "Growing Degree Days (base 50)": {}, 
+    "Snowdepth": {
+      "max": "46", 
+      "avg": "8", 
+      "min": "0"
+    }, 
+    "Sea Level Pressure": {
+      "max": "1038", 
+      "avg": "1017", 
+      "min": "993"
+    }, 
+    "Max Temperature": {
+      "max": "18", 
+      "avg": "6", 
+      "min": "-2"
+    }, 
+    "Precipitation": {
+      "max": "35.6", 
+      "sum": "66.80", 
+      "avg": "2.5", 
+      "min": "0.0"
+    }, 
+    "Wind": {
+      "max": "61", 
+      "avg": "16", 
+      "min": "0"
+    }, 
+    "Mean Temperature": {
+      "max": "12", 
+      "avg": "1", 
+      "min": "-6"
+    }
+  }, 
+  {
+    "Cooling Degree Days (base 65)": {}, 
+    "Gust Wind": {
+      "max": "79", 
+      "avg": "42", 
+      "min": "27"
+    }, 
+    "Min Temperature": {
+      "max": "6", 
+      "avg": "-3", 
+      "min": "-11"
+    }, 
+    "Heating Degree Days (base 65)": {}, 
+    "Dew Point": {
+      "max": "14", 
+      "avg": "-7", 
+      "min": "-21"
+    }, 
+    "Growing Degree Days (base 50)": {}, 
+    "Snowdepth": {
+      "max": "46", 
+      "avg": "8", 
+      "min": "0"
+    }, 
+    "Sea Level Pressure": {
+      "max": "1038", 
+      "avg": "1017", 
+      "min": "993"
+    }, 
+    "Max Temperature": {
+      "max": "18", 
+      "avg": "6", 
+      "min": "-2"
+    }, 
+    "Precipitation": {
+      "max": "35.6", 
+      "sum": "66.80", 
+      "avg": "2.5", 
+      "min": "0.0"
+    }, 
+    "Wind": {
+      "max": "61", 
+      "avg": "16", 
+      "min": "0"
+    }, 
+    "Mean Temperature": {
+      "max": "12", 
+      "avg": "1", 
+      "min": "-6"
+    }
+  }
+]
