@@ -16,7 +16,7 @@ http://plotdevice.io/lib/Database#createdatabase
 
 ## json files
 [simpel] () (Straatnamen/straatnamen.json) <br>
-[simpel] () (Straatnamen/straatnamen.json) <br>
+[simpel] () (Straatnamen/straatnamenamsterdam.json) <br>
 [deluxe] () (Straatnamen/straatnamendeluxe.json) <br>
 
 <br><br>
