@@ -4,7 +4,11 @@
 
 ## Sorces
 
-http://data.amsterdam.nl/dataset/bijzonder_vervoer
+Input sorces:
+http://data.amsterdam.nl/dataset/straatnamenboek_Amsterdam
+http://nl.wikipedia.org/wiki/lijst_van_straten_in_Amsterdam
+
+Code sorces:
 http://plotdevice.io/tut/Libraries
 http://plotdevice.io/lib/Graph
 http://plotdevice.io/lib/Database#createdatabase
