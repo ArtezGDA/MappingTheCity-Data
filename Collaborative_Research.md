@@ -2,7 +2,7 @@
 
 ## Morning Group 2B
 
-- Team 1: **Primaries in the United States, historic and current**
+- Team 1: **Elections in the Netherlands, historic and current**
 	- Kimberley
 	- Jesse
 	- Patrick
