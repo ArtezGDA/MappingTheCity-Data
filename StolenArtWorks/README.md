@@ -7,9 +7,10 @@ As source is the following url used:
 
 - http://www.gestolenkunst.nl/gestolen%20overzicht.htm
 
-In total the scraping script analyzed **143** stolen art works, found the date, place, from who, what and the images off the art works.
+In total the scraping script analyzed **143** stolen art works; found the date, place, from who, what and the images off the art works.
 
-- Code source:
+Code source:
+- http://codereview.stackexchange.com/questions/60769/scrape-an-html-table-with-python
 
 ### Results
 
