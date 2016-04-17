@@ -35,99 +35,13 @@ For each stolen artwork there are the following keys:
 Not all keys will be present for the Extra information.  
 `Extra information` can be an empty string or it stands after (`\r\n`) 
 
-Some of the `Date` are not complete, linke only a year date.
+Some of the `Date` are not complete, like only a year date.
 
-### Process
+### Process scraping
 
 ```
-https://en.wikipedia.org/wiki/Lists_of_cities_by_country
-     +
-     |
-     |         ╔════════════════════════════╗
-     |         ║                            ║
-     +--------->  scrape_wiki_countries.py  ║
-               ║                            ║
-               ╚════════════════════════════╝
-                             |
-                             |
-                             v
-                  +----------+--------+\
-                  |                   | \
-                  |   countries.json  +--\
-                  |                      |
-                  +----------+-----------+
-                             |
-     +-----------------------+
-     |
-     |          ╔══════════════════════════╗
-     |          ║                          ║
-     +---------->  scrape_wiki_cities.py   ║
-                ║                          ║
-                ╚════════════╤═════════════╝
-                             |
-                             |
-                             v
-                    +--------+-------+\
-                    |                | \
-                    |   cities.json  +--\
-                    |                   |
-                    +--------+----------+
-                             |
-     +-----------------------+
-     |
-     |      ╔══════════════════════════════════╗
-     |      ║                                  ║
-     +------>  scrape_wiki_city_population.py  ║
-            ║                                  ║
-            ╚════════════════╤═════════════════╝
-                             |
-                             |
-                             v
-               +-------------+-----------+\
-               |                         | \
-               |  city_populations.json  +--\
-               |                            |
-               +-------------+--------------+
-                             |
-     +-----------------------+
-     |
-     |          ╔══════════════════════════╗
-     |          ║                          ║
-     +---------->  analyze_populations.py  ║
-     |          ║                          ║
-     |          ╚═════════╤════════════════╝
-     |                    |
-     |                    |     +-----------------------------+
-     |                    |     |                             |
-     |      ╔═════════════v═════v══════════════╗              |
-     |      ║                                  ║           Iterate
-     +------>  analyze_populations_filter.py   ║            until
-     |      ║                                  ║          satisfied
-     |      ╚════════════════╤═════════════════╝              ^
-     |                       |                                |
-     |                       +--------------------------------+
-     |
-     |          ╔══════════════════════════╗
-     |          ║                          ║
-     +---------->  filter_populations.py   ║
-                ║                          ║
-                ╚════════════╤═════════════╝
-                             |
-                             |
-                             v
-             +---------------+--------------+\
-             |                              | \
-             |   population_of_cities.json  +--\
-             |                                 |
-             +---------------------------------+
+
 ```	
-
-### More information
-
-While creating and debuggin this scraping script, detailed notes were taken for lecturing purposes. Read these [Lecture Notes](https://github.com/ArtezGDA/Course-Material/blob/master/Lesson_09_Scraping_Notes.md) to learn more about the evolution of this code.
-
-And because the results of that research were copied into this repository, the original commits are missing here. To find out and read the original commits, please refer to the [original repository](https://github.com/ArtezGDA/Course-Material/tree/master/ScrapingLecture)
-
 
 ##License (MIT License)
 
