@@ -7,7 +7,7 @@ import json
 
 def main():
     """artnapping"""
-    url = 'http://www.gestolenkunst.nl/gestolen%20overzicht.htm'
+    url = 'http://www.gestolenkunst.nl/gestolen%20overzicht.htm' # change to whatever your url is
     soup = BeautifulSoup(urllib2.urlopen(url), "html.parser")
 
     artworks = []
