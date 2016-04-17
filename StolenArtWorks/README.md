@@ -10,7 +10,12 @@ As source is the following url used:
 In total the scraping script analyzed **143** stolen art works; found the date, place, from who, what and the images off the art works.
 
 Code source:
+
 - http://codereview.stackexchange.com/questions/60769/scrape-an-html-table-with-python
+- http://codereview.stackexchange.com/questions/106457/a-web-crawler-for-scraping-images-from-stock-photo-websites
+- http://codereview.stackexchange.com/questions/99300/scraping-a-table-from-texas-dept-of-criminal-justice-website
+- http://stackoverflow.com/questions/32343976/python-beautiful-soup-webscraping-pandas-dataframe
+- http://stackoverflow.com/questions/36424527/how-to-web-scrape-images-that-are-in-a-link-in-a-table
 
 ### Results
 
