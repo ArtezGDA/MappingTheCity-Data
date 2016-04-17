@@ -1,5 +1,5 @@
 # Stolen artworks
-Lydienne, Esmee en Angela
+Lydienne, Esmee and Angela
 
 ## Data collection of all the stolen artworks in the Netherlands.
 
