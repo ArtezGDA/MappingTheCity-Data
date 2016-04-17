@@ -13,7 +13,7 @@ In total the scraping script analyzed **143** stolen art works, found the date, 
 
 ### Results
 
-The result of all the scraping is a map off Images called **`myimages`** and JSON file called **`stolen _artworks.json`**.[JSON file](stolen_artworks.json)
+The result of all the scraping is a map off Images called **`myimages`** and JSON file called **`stolen _artworks.json`**. [JSON file](stolen_artworks.json)
 
 ###### The image map is a map with *stolen artworks images*. 
 
