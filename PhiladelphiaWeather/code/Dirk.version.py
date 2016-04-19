@@ -15,8 +15,7 @@ def main():
     tables = soup.find_all("table", class_="responsive airport-history-summary-table")
 
     weatherdata = []
-    scrapedData = {}
-    for table in tables:
+    for table in tables: #reason for it to do it 12x
 
         for tr in table.find_all("tr"):
             firstTd = tr.find("td")
@@ -36,11 +35,14 @@ def main():
                     sumVal = tds[4].find("span", class_="wx-value")
                     if sumVal:
                         values['sum'] = sumVal.text
+                scrapedData = {}
                 scrapedData[firstTd.text] = values
                 weatherdata.append(scrapedData)
-
+        break
     with open ("january_2016.json", 'w' ) as outFile:
         json.dump(weatherdata, outFile, indent=2)
+
+
 print "done"
 if __name__ == "__main__":
     main()
