@@ -4,7 +4,7 @@ void setup() {
   size(841,594);
 
 JSONArray jsonArray = loadJSONArray("january_2016.json");
-JSONObject jsonObject = jsonArray.getJSONObject(0); 
+JSONObject jsonObject = jsonObject.getJSONObject(0); 
 JSONObject maxTemperature = json.getJSONObject("Max Temperature");
 int max = maxTemperature.getInt("max");
 
