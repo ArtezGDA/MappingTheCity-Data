@@ -11,7 +11,7 @@ First of we wanted to do something with all the mobile data traffic and ended up
 
 When we received an answer from this company they wanted something in return. So the first thing that came up was creating the posters and handing it over to them. Unfortunately we agreed not to do it. 
 
-We found another paga/database of all the celltowers in the Netherlands. We came across the website "antennebureau.nl". On this same page there was an .ODS file(a file that works with Open Office). We had to download [Open Office](https://www.openoffice.org) to open this specific file.
+We found another page/database of all the celltowers in the Netherlands. We came across the website "antennebureau.nl". On this same page there was an .ODS file. We had to download [Open Office](https://www.openoffice.org) to open this specific file.
 
 We had to convert this data from the .ODS file to use it in a .JSON file. Reinier found a online converter named [Mr Data Converter](https://shancarter.github.io/mr-data-converter/). With this converter we could change the data from the .ODS file into data for a .JSON file.
 
