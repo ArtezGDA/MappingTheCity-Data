@@ -1,35 +1,53 @@
 #Celltowers
+Reinier, Leonie, Jeanine
 
-team: Reinier, Leonie, Jeanine
+### Process of scraping
+First of we wanted to do something with all the mobile data traffic and ended up with all the celltowers of the Netherlands. We informed a company how they could assist us with receiving al this data about these towers. When we speak of data we mean:
+
+- Location
+- Type
+- Coordinates
+- Height
+
+When we received an answer from this company they wanted something in return. So the first thing that came up was creating the posters and handing it over to them. Unfortunately we agreed not to do it. 
+
+We found another paga/database of all the celltowers in the Netherlands. We came across the website "antennebureau.nl". On this same page there was an .ODS file(a file that works with Open Office). We had to download [Open Office](https://www.openoffice.org) to open this specific file.
+
+We had to convert this data from the .ODS file to use it in a .JSON file. Reinier found a online converter named [Mr Data Converter](https://shancarter.github.io/mr-data-converter/). With this converter we could change the data from the .ODS file into data for a .JSON file.
+
+After we created this .JSON file we came across another problem. The data of the coordinates was really messy and the data was not really useable. After we discussed this we had to change the file in a better way. We had to split up the pieces and make some of the data into floats so the terminal doesn't read it as text but as digits. 
+
+When we did this we had converted 1 line of data and we had 41373 more lines to come. It was almost impossible for us to do this line by line. So had to make some of converter. 
+
+Unfortunately we didnt have the knowlegde to create some sort off converting tool. We spoke to another student and he helped us out to create the tool to complete our task.
+
+Last but probably not least of our problems we thought the file was still messy because all of this data was on 1 line. To solve we found this Sublime Text 2 plugin called [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson). This little plugin gave the file a better overview of all this data.
 
 ###Data sources
 
-http://www.antennebureau.nl/onderwerpen/algemeen/antenneregister
+[Antenne Bureau](http://www.antennebureau.nl/onderwerpen/algemeen/antenneregister) is the website we used for all data.
 
-We used this website as a source for our data. 
+####Additional sources
+- [Antenne Register](http://www.antenneregister.nl/)
+- [GSMMasten](http://www.gsmmasten.nl/)
+- [Ertyu](http://www.ertyu.org/steven_nikkel/cancellsites.html)
+- [Data Overheid](https://data.overheid.nl/data/dataset/roet-ec-2014)
+- [Data Overheid Standaarden](https://data.overheid.nl/data/dataset?theme_facet=http%3A%2F%2Fstandaarden.overheid.nl%2Fowms%2Fterms%2FNatuur_en_milieu)
 
-This source contains all the coordinates of the celltowers in Holland. 
+
+
 
 ###Json File
 
 Our json file contains the following information
 
--	city 
--	type: the type of celltower
--	coordinates_nb: lattitude
--	coordinates_ol: lottitude 
--	x
--	y
--	ant_height: the height of the celltower
-
-
-### Process of scraping
-
-We downloaded a .ods file wich we converted this one to a json file. 
-First we changed the names that where used to define the information from Dutch to English. 
-Then we cleaned up the notation. The way the coordinates where notated where messy so we startet with splitting the different coordinates so the terminal doesn't read it as text but as digits.
-Now we are able to calculate the information we have. 
-The next step will be creating a code that applies this specefic code to every line of the json file. 
+-	**city** - Location
+-	**type** - Type celltower
+-	**coordinates_la** - lattitude
+-	**coordinates_lo** - longitude 
+-	**x** - x position
+-	**y** - y position
+-	**ant_height** - the height of the antenna
 
 ###The MIT License (MIT)
 
