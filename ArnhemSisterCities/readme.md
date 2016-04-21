@@ -19,7 +19,9 @@ A list of cities that through their sister-cities can all be traced back to Arnh
 
 A recursive node.js code that scrapes cities and their respective sister-cities, continuing until it can only find cities it has already found. Starting at Arnhem.
 
-[Scraping File](arnhemscrape/arnhemscrape1.js)
+[Scraping File](arnhemscrape/arnhemscrape.js)
+
+[json File](arnhemtree_Wed-Apr-20-2016-193817-GMT0200-CEST.json)
 
 
 ####Structure
