@@ -1,14 +1,14 @@
 [
-   {  
+  {  
 
-	  "co2_uitstoot_gecombineerd": "175",
-      "co2_uitstoot_gecombineerd": "113",
-      "co2_uitstoot_gecombineerd": "99",
-      "co2_uitstoot_gecombineerd": "189",
-      "co2_uitstoot_gecombineerd": "232",
-      "co2_uitstoot_gecombineerd": "236",
-      "co2_uitstoot_gecombineerd": "237",
-      "co2_uitstoot_gecombineerd": "247",
+	  "co2_uitstoot_gecombineerd": 175,
+      "co2_uitstoot_gecombineerd": 113,
+      "co2_uitstoot_gecombineerd":  99,
+      "co2_uitstoot_gecombineerd": 189,
+      "co2_uitstoot_gecombineerd": 232,
+      "co2_uitstoot_gecombineerd": 236,
+      "co2_uitstoot_gecombineerd": 237,
+      "co2_uitstoot_gecombineerd": 247,
       "co2_uitstoot_gecombineerd": "183",
       "co2_uitstoot_gecombineerd": "99",
       "co2_uitstoot_gecombineerd": "178",
@@ -594,6 +594,6 @@
       "co2_uitstoot_gecombineerd": "124",
       "co2_uitstoot_gecombineerd": "171",
 
- }
+      }
 
 ]
