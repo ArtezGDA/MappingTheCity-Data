@@ -1,12 +1,14 @@
 JSONObject json;
 int max;
+int minMin;
+
 void setup() {
   size(841,594);
 
 JSONArray jsonArray = loadJSONArray("january_2016.json");
-JSONObject jsonObject = jsonObject.getJSONObject(0); 
-JSONObject maxTemperature = json.getJSONObject("Max Temperature");
-int max = maxTemperature.getInt("max");
+JSONObject jsonObject = jsonArray.getJSONObject(0); 
+JSONObject maxTemperature = jsonObject.getJSONObject("Max Temperature");
+max = maxTemperature.getInt("max");
 
   print(max);
 }
@@ -17,9 +19,9 @@ void draw(){
   text("Max Temperature",841/4, 594/2+100);
 
   ellipseMode(RADIUS);
-  ellipse(841/4, 594/2, 10*2, 10*2); // max
-  ellipse(841/4, 594/2, 5*2, 5*2); //avg
-  ellipse(841/4, 594/2, 2*2, 2*2); //min
+  ellipse(841/4, 594/2, max, max); // max
+  //ellipse(841/4, 594/2, 5*2, 5*2); //avg
+  //ellipse(841/4, 594/2, 2*2, 2*2); //min
   
   //Mean Temperature
   textAlign(CENTER);
