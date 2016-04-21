@@ -15,13 +15,19 @@ We found another paga/database of all the celltowers in the Netherlands. We came
 
 We had to convert this data from the .ODS file to use it in a .JSON file. Reinier found a online converter named [Mr Data Converter](https://shancarter.github.io/mr-data-converter/). With this converter we could change the data from the .ODS file into data for a .JSON file.
 
+[First .JSON](masten.JSON) [Second .JSON](masten2.JSON)
+
 After we created this .JSON file we came across another problem. The data of the coordinates was really messy and the data was not really useable. After we discussed this we had to change the file in a better way. We had to split up the pieces and make some of the data into floats so the terminal doesn't read it as text but as digits. 
 
-When we did this we had converted 1 line of data and we had 41373 more lines to come. It was almost impossible for us to do this line by line. So had to make some of converter. 
+When we did this we had converted 1 line of data and we had 41373 more lines to come. It was almost impossible for us to do this line by line. So had to make some of converter.
+
+[Converter](converter.py) 
 
 Unfortunately we didnt have the knowlegde to create some sort off converting tool. We spoke to another student and he helped us out to create the tool to complete our task.
 
 Last but probably not least of our problems we thought the file was still messy because all of this data was on 1 line. To solve we found this Sublime Text 2 plugin called [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson). This little plugin gave the file a better overview of all this data.
+
+[Final .JSON](masten3.JSON)
 
 ###Data sources
 
