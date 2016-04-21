@@ -2,1567 +2,1567 @@
   {
     "land": "Nederland",
     "plaats": [
-    {
-      "datumString": "11-08-2015",
-      "link": "images/2015/eindhoven/eindhoven.htm",
-      "titel": "bronzen beeld ( 3 fazanten) gestolen, kunstenaar \r\n\tJacques Germans",
-      "plaatsNaam": "Eindhoven",
-      "lat": 51.43,
-      "lon": 5.47,
+      {
+        "datumString": "11-08-2015",
+        "link": "images/2015/eindhoven/eindhoven.htm",
+        "titel": "bronzen beeld ( 3 fazanten) gestolen, kunstenaar \r\n\tJacques Germans",
+        "plaatsNaam": "Eindhoven",
+        "lat": 51.43,
+        "lon": 5.47,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "01-01-1952",
+        "link": "images/2015/rtl4/rtl4_schilderij%20gezocht.htm",
+        "titel": "schilderij: \r\n\tZelfportret van Wijnand Adriaan van Houweninge van Sprang, help mee met \r\n\tterugvinden! RTL4 maakt hier een uitzending over.",
+        "plaatsNaam": "onbekend",
+        "fromWho": "in opracht van RTL 4"
+      },
+      {
+        "datumString": "01-01-2015",
+        "link": "images/2015/doetinchem/doetinchem.htm",
+        "titel": "bronzen monument - kunstenaar Marga Bles",
+        "plaatsNaam": "Doetinchem",
+        "lat": 51.96,
+        "lon": 6.29,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "21-10-2014",
+        "link": "images/2014/emmeloord/emmeloord.htm",
+        "titel": "Uit tuin gestolen bronzen beeld, zittende vrouw op \r\n\tstoel",
+        "plaatsNaam": "Emmeloord",
+        "lat": 52.71,
+        "lon": 5.75,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "22-08-2014",
+        "link": "images/2014/heelsum/heelsum.htm",
+        "titel": "bronzen beeld van Pauline Hazeu gestolen",
+        "plaatsNaam": "Oosterbeek",
+        "lat": 51.98,
+        "lon": 5.84,
+        "fromWho": "beeldentuin"
+      },
+      {
+        "datumString": "27-06-2014",
+        "link": "images/2014/blaricum/blaricum.htm",
+        "titel": "schilderij gestolen van Andrew Hall",
+        "plaatsNaam": "Blaricum",
+        "lat": 52.27,
+        "lon": 5.24,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "10-04-2014",
+        "link": "images/2014/hilversum/hilversum.htm",
+        "titel": "gestolen uit auto postbezorger \r\n\tbronzen beeld van \n\r\n\tKunstenaar: Ottmar Obermaier",
+        "plaatsNaam": "Hilversum",
+        "lat": 52.22,
+        "lon": 5.17,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "05-04-2014",
+        "link": "images/2014/kerkrade/kerkrade.htm",
+        "titel": "bronzen beeld van Willemijn Heijboer",
+        "plaatsNaam": "Kerkrade",
+        "lat": 50.86,
+        "lon": 6.06,
+        "fromWho": "botanische tuin"
+      },
+      {
+        "datumString": "06-08-2013",
+        "link": "images/2013/heerhugowaard/artfarm.htm",
+        "titel": "2 bronzen beelden gestolen van kunstenaars Greetje de \r\n\tVries en Jeanette Jansen",
+        "plaatsNaam": "Heerhugowaard",
+        "lat": 52.65,
+        "lon": 4.82,
+        "fromWho": "particulier bezit"
+      },
+      {
+        "datumString": "15-01-2013",
+        "link": "images/2013/sittard/sittard.htm",
+        "titel": "bronzen beeld van Sjra Schoffelen gestolen",
+        "plaatsNaam": "Sittard",
+        "lat": 50.99,
+        "lon": 5.87,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "01-01-2013",
+        "link": "images/2013/rotterdam/rotterdan.htm",
+        "titel": "12 schilderijen gestolen --> beloning uitgeloofd voor \r\n  terugvinden van de schilderijen",
+        "plaatsNaam": "Rotterdam",
+        "lat": 51.90,
+        "lon": 4.45,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "05-01-2013",
+        "link": "images/2013/epe/epe.htm",
+        "titel": "Bronzen klomp gestolen",
+        "plaatsNaam": "Epe",
+        "lat": 52.34,
+        "lon": 5.98,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "27-12-2012",
+        "link": "images/2013/beek/beek.htm",
+        "titel": "2 Bronzen beelden gestolen, kunstenaars: Jo Ramakers en \r\n  Wim Steins",
+        "plaatsNaam": "Beek",
+        "lat": 50.94,
+        "lon": 5.79,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "12-10-2012",
+        "link": "images/2012/utrecht/utrecht.htm",
+        "titel": "Diverse bronzen objecten gestolen van kunstenaar Anja \r\n  Roemer",
+        "plaatsNaam": "Utrecht",
+        "lat": 52.08,
+        "lon": 5.10,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "14-6-2012",
+        "link": "images/2012/amsterdam/amsterdam.htm",
+        "titel": "4 glassculpturen gestolen. Kunstenaars: Ola H\u00f6glund en \r\n  Marie Simberg-H\u00f6glund",
+        "plaatsNaam": "Amsterdam",
+        "lat": 52.37,
+        "lon": 4.89,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "01-06-2012",
+        "link": "images/2012/zwijndrecht/zwijdrecht.htm",
+      "titel": "bronzen beeld Le Couple van kunstenaar Godfried \r\n  Pieters gestolen",
+        "plaatsNaam": "Zwijndrecht",
+        "lat": 51.81,
+        "lon": 4.62,
+        "fromWho": "Noordpark"
+      },
+      {
+        "datumString": "20-03-2012",
+        "link": "images/2012/de_bilt/bakker.htm",
+        "titel": "3 bronzen beelden gestolen van Jits Bakker met een \r\n waarde van 350.000 euro!",
+        "plaatsNaam": "de Bilt",
+        "lat": 52.10,
+        "lon": 5.18,
+        "fromWho": "Museum beeldenpark Beelden op Beerschoten"
+      },
+      {
+        "datumString": "10-01-2012",
+        "link": "images/2012/zutphen/zutphen.htm",
+        "titel": "Bronzen beeld gestolen van Kunstenaar Nicky Dijkstra.\r\n Teruggevonden op 1 febr 2012 !!",
+        "plaatsNaam": "Zutphen",
+        "lat": 52.13,
+        "lon": 6.20,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "22-01-2012",
+        "link": "images/2012/rheden/carmiggelt.htm",
+        "titel": "Twee bronzen beelden gestolen: Simon en Tiny \r\n Carmiggelt in De Steeg. \r\n  Weer gevonden op 25/1 en daders aangehouden/. beelden kapot helaas",
+        "plaatsNaam": "Rheden",
+        "lat": 52.00,
+        "lon": 6.03,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "18-01-2012",
+        "link": "images/2012/dieren/dieren.htm",
+        "titel": "bronzen paard\u00a0 gestolen, kunstenaar Henk G\u00f6bel.\r\n Op 25/1 -12 teruggevonden . Daders \r\n aangehouden en beeld helaas kapot.",
+        "plaatsNaam": "Dieren",
+        "lat": 52.04,
+        "lon": 6.10,
+        "fromWho": "gemeente Rheden"
+      },
+      {
+        "datumString": "25-11-2011",
+        "link": "images/2011/denhaag/denhaag.htm",
+        "titel": "2 bronzen beelden uit Den Haag gestolen",
+        "plaatsNaam": "Den Haag",
+        "lat": 52.07,
+        "lon": 4.30,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "12-11-2011",
+        "link": "images/2011/rotterdam/bronzenbeeld_rotterdam.htm",
+        "titel": "bronzen beeld gevonden bij metaalhandelaar",
+        "plaatsNaam": "Rotterdam",
+        "lat": 51.92,
+        "lon": 4.47,
+        "fromWho": "inmiddels opgelost !"
+      },
+      {
+        "datumString": "19-11-2011",
+        "link": "images/2011/utrecht/utrecht.htm",
+        "titel": "Bronzen beeld gestolen van begraafplaats",
+        "plaatsNaam": "Utrecht",
+        "N.B.": "52.08",
+        "O.L.": "5.09",
+        "fromWho": "begraafplaats, partic"
+      },
+      {
+        "datumString": "01-08-2011",
+        "link": "images/2012/denhaag/denhaag.htm",
+        "titel": "4 schilderijen van Maris, Mauve, Bosboom en Diaz \r\n gestolen. 25-06-2012: Het \r\n    schilderij van Diaz is inmiddels terug!\u00a0 20 aug: rest van de \r\n  schilderijen zijn terug!",
+        "plaatsNaam": "Den Haag",
+        "lat": 52.07,
+        "lon": 4.30,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "22-08-2011",
+        "link": "images/2011/oosterbeek/oosterbeek.htm",
+        "titel": "4 \r\n    bronzen beelden van Marian Spekreijse gestolen.Inmiddels \r\n weer terug via politie op 14/9/11",
+        "plaatsNaam": "Oosterbeek",
+        "lat": 51.98,
+        "lon": 5.84,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "06-08-2011",
+        "link": "images/2011/teruggevonden_alkmaar/sumo_worstelaar_brons.htm",
+        "titel": "Bronzen \r\n    beeld gevonden in Alkmaar. Eigenaar\r\n \n\n\n= opgespoord !!",
+        "plaatsNaam": "Alkmaar",
+        "lat": 52.63,
+        "lon": 4.75,
+        "fromWho": "teruggevonden"
+      },
+      {
+        "datumString": "29-05-2011",
+        "link": "images/2011/vlierden/vlierden.htm",
+        "titel": "Bronzen beeld van Joep Coppens gestolen",
+        "plaatsNaam": "Vlierden",
+        "lat": 51.44,
+        "lon": 5.76,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "18-04-2011",
+        "link": "images/2011/bergen/bergen.htm",
+        "titel": "Bronzen beeld gestolen, kunstenaar Marjolijn de Bruin",
+        "plaatsNaam": "Bergen",
+        "lat": 52.67,
+        "lon": 4.70,
+        "fromWho": "begraafplaats - partic."
+      },
+      {
+        "datumString": "01-12-2010",
+        "link": "images/2011/alkmaar/mca.htm",
+        "titel": "2 iconen gestolen uit het MCA",
+        "plaatsNaam": "Alkmaar",
+        "lat": 52.63,
+        "lon": 4.75,
+        "fromWho": "MCA- Kunstenaar"
+      },
+      {
+        "datumString": "05-12-2010",
+        "link": "images/2010/hendrik_ido_ambacht/hendrik-ido-ambacht.htm",
+        "titel": "bronzen beeld van Marcus Ravenswaay gestolen",
+        "plaatsNaam": "Hendrik-Ido-Ambacht",
+        "lat": 51.84,
+        "lon": 4.63,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "01-08-2010",
+        "link": "images/2010/nijmegen/nijmegen.htm",
+        "titel": "3 bronzen beelden van: Nic Jonk, Jan de Graaf en Bart \r\n  Welten",
+        "plaatsNaam": "Nijmegen",
+        "lat": 51.81,
+        "lon": 5.83,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "15-10-2010",
+        "link": "images/2010/heesch",
+        "titel": "3 bronzen beelden gestolen van Jet van Zijl",
+        "plaatsNaam": "Heesch",
+        "lat": 51.73,
+        "lon": 5.26,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "01-08-2010",
+        "link": "images/2010/boxie/boxie_gestolen_powerbook.htm",
+        "titel": "gepimpte powerbook van Boxie gestolen",
+        "plaatsNaam": "Hoorn",
+        "lat": 52.64,
+        "lon": 5.06,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "01-08-2010",
+        "link": "images/2010/ijmuiden/ijmuiden_nic_jonk.htm",
+        "titel": "bronzen beeld gestolen. Kunstenaar Nic Jonk",
+        "plaatsNaam": "IJmuiden",
+        "lat": 52.45,
+        "lon": 4.60,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "01-08-2010",
+        "titel": "Het beeld is inmiddels weer terug bij de \r\n eigenaar",
+        "plaatsNaam": "Groningen",
+        "lat": 53.21,
+        "lon": 6.56,
+        "fromWho": "teruggevonden bij oudijzerboer \r\n !!"
+      },
+      {
+        "datumString": "01-07-2010",
+        "link": "images/2010/jitsbakker/bakkerjuli2010.htm",
+        "titel": "bronzen beeld gestolen Jits Bakker : profeet",
+        "plaatsNaam": "Heelsum",
+        "lat": 51.98,
+        "lon": 5.75,
+        "fromWho": "begraafplaats"
+      },
+      {
+        "datumString": "28-06-2010",
+        "link": "images/2010/gouda/gouda.htm",
+        "titel": "3 schilderijen gestolen, kunstenaar de Visser",
+        "plaatsNaam": "Gouda",
+        "lat": 52.01,
+        "lon": 4.71,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "23-05-2009",
+        "link": "images/2010/enschede/enschede.htm",
+        "titel": "2 bronzen beelden gestolen van Jet van der Tol",
+        "plaatsNaam": "Enschede",
+        "fromWho": "galerie"
+      },
+      {
+        "datumString": "05-03-2010",
+      "link": "images/2010/someren/someren.htm",
+        "titel": "bronzen beeld van kunstenaar Jac van Someren",
+        "plaatsNaam": "Megem [ gem Oss]",
+        "lat": 51.82,
+        "lon": 5.56,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "03-03-2010",
+        "link": "images/2010/jitsbakker/jitsbakker_steltloper_maart2010.htm",
+        "titel": "bronzen beeld de steltloper gestolen, kunstenaar Jits \r\n  Bakker",
+        "plaatsNaam": "Terborg",
+        "lat": 51.92,
+        "lon": 6.35,
+        "fromWho": "school de Rietborg"
+      },
+      {
+        "datumString": "30-10-2009",
+        "link": "images/2009/hogeweg/hogeweg.htm",
+        "titel": "2 bronzen beelden gestolen \n1 weer terecht! onthoofd!",
+        "plaatsNaam": "Prov Utrecht",
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "12-10-2009",
+        "link": "images/2009/wildevuur/wildevuur.htm",
+        "titel": "bronzen beeld van Jan de Graaf gestolen",
+        "plaatsNaam": "Hooghalen",
+        "fromWho": "galerie Wildevuur"
+      },
+      {
+        "datumString": "28-10-2009",
+        "link": "images/2009/bad-nieuweschans/heus.htm",
+        "titel": "Glaspaneel gestolen van \n\nTanja de Heus",
+        "plaatsNaam": "Bad Nieuweschans",
+        "lat": 53.16,
+        "lon": 7.18,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "15-06-2009",
+        "link": "images/2009/darp/kneulman.htm",
+        "titel": "bronzen beeld van Carel Kneulman gestolen",
+        "plaatsNaam": "Darp",
+        "lat": 52.77,
+        "lon": 6.2,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "15-05-2009",
+        "link": "images/2009/keramikos/keramikos.htm",
+        "titel": "raku mandarijneend van Elisabeth Leyen gestolen",
+        "plaatsNaam": "Haarlem",
+        "lat": 52.38,
+        "lon": 4.64,
+        "fromWho": "Keramikos"
+      },
+      {
+        "datumString": "19-02-2009",
+        "link": "images/2009/maasbracht/maasbracht.htm",
+        "titel": "2 schilderijen gestolen",
+        "plaatsNaam": "Maasbracht",
+        "lat": 51.14,
+        "lon": 5.88,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "26-02-2009",
+        "link": "teruggevonden.htm",
+        "titel": "schilderij gevonden, \r\n eigenaar gezocht!",
+        "plaatsNaam": "Rosmalen",
+        "lat": 51.71,
+        "lon": 5.36,
+        "fromWho": "gevonden in de berm"
+      },
+      {
+        "datumString": "07-11-2008",
+        "link": "images/2008/groet/groet.htm",
+        "titel": "bronzen beeld van Gerard van der \r\n Leeden",
+        "plaatsNaam": "Groet",
+        "lat": 52.72,
+        "lon": 4.66,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "28-09-2008",
+        "link": "images/2009/rotterdam/rotterdam.htm",
+        "titel": "2 \r\n    schilderijen van \n\n\nAntonie Johan de \r\n  Jonge",
+        "plaatsNaam": "Rotterdam",
+        "lat": 51.92,
+        "lon": 4.47,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "28-09-08",
+        "link": "images/2008/swifterband/swifterband.htm",
+        "titel": "bronzen beeld gestolen van Jits Bakker",
+        "plaatsNaam": "Dronten",
+        "lat": 52.53,
+        "lon": 5.72,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "27-09-2008",
+        "link": "images/2008/laren_snoek/laren_snoek.htm",
+        "titel": "bronzen beeld Marcus Ravenswaaij gestolen",
+        "plaatsNaam": "Laren",
+        "lat": 52.25,
+        "lon": 5.22,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "27-08-2008",
+        "link": "images/2008/beetsterzwaag/Beetsterzwaag.htm",
+        "titel": "3 bronzen beelden gestolen van Barbara Pijnappel",
+        "plaatsNaam": "Beetsterzwaag",
+        "lat": 53.05,
+        "lon": 6.07,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "17-08-2008",
+        "link": "images/2008/callantsoog/booghaard.htm",
+        "titel": "Beelden [keramiek en brons] gestolen van Marjolien \r\n Boerenboom en Shirley Weiffenbach",
+        "plaatsNaam": "Callanstoog",
+        "lat": 52.83,
+        "lon": 4.69,
+        "fromWho": "Beeldentuin de Booghaard"
+      },
+      {
+        "datumString": "14-08-2008",
+        "link": "images/2008/lelystad/lelystad.htm",
+        "titel": "bronzen beeld van Marie Jose Wessels gestolen",
+        "plaatsNaam": "Lelystad",
+        "lat": 52.52,
+        "lon": 5.46,
+        "fromWho": "golfbaan"
+      },
+      {
+        "datumString": "10-08-2008",
+        "link": "images/2008/amsterdam_kok/amsterdam_kok.htm",
+        "titel": "schilderij gestolen van Paul Kok",
+        "plaatsNaam": "Amsterdam",
+        "lat": 52.08,
+        "lon": 5.10,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "01-08-2008",
+        "link": "images/2008/lochem/lochem.htm",
+        "titel": "schilderij van Toon Klaver gestolen",
+        "plaatsNaam": "Lochem",
+        "lat": 52.16,
+        "lon": 6.41,
+        "fromWho": "expositie"
+      },
+      {
+        "datumString": "12-07-2008",
+        "link": "images/2008/liempde/liempde.htm",
+        "titel": "banner gestolen Griet Menschaert",
+        "plaatsNaam": "Liempde",
+        "lat": 51.56,
+        "lon": 5.37,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "21-06-2008",
+        "link": "images/2008/heerhugowaard/zande.htm",
+        "titel": "schilderij gestolen van Irma van de Zande",
+        "plaatsNaam": "Alkmaar",
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "22-05-2008",
+        "link": "images/2008/amsterdam_hatterman/amsterdam_hatterman.htm",
+        "titel": "schilderij van Robbert Doelwijt",
+        "plaatsNaam": "Amsterdam",
+        "lat": 52.08,
+        "lon": 5.10,
+        "fromWho": "galerie"
+      },
+      {
+      "datumString": "01-05-2008",
+        "link": "images/2008/delft/delft.htm",
+        "titel": "1 bronzen beeld van Annelies Pruisken, \n\ninmiddels \r\n terug bij eigenaar",
+        "plaatsNaam": "Delft",
+        "lat": 52.01,
+        "lon": 4.35,
+        "fromWho": ""
+      },
+      {
+        "datumString": "12 mei 08",
+        "link": "images/2008/sgraveland/sgraveland.htm",
+        "titel": "1 bronzen beeld van Theo Mackaay gestolen",
+        "plaatsNaam": "'s-Graveland",
+        "lat": 52.24,
+        "lon": 5.13,
+        "fromWho": "galerie"
+      },
+      {
+        "datumString": "08-03-2008",
+        "link": "images/2008/laren/laren110308.htm",
+        "titel": "1 bronzen beeld gestolen van \n\n\n\nKornelia Northolt",
+        "plaatsNaam": "Laren",
+        "fromWho": "galerie"
+      },
+      {
+        "datumString": "07-03-2008",
+        "link": "images/2008/alphen_ad_rijn/alphen_ad_rijn.htm",
+        "titel": "schilderij van Karel Appel gestolen",
+        "plaatsNaam": "Alphen ad Rijn",
+        "lat": 52.12,
+        "lon": 4.66,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "05-03-2008",
+        "link": "images/2008/hardinxveld/hardinxveld.htm",
+        "titel": "4 bronzen beelden gestolen - \r\n zeemeerminnen",
+        "plaatsNaam": "Hardinxveld",
+        "lat": 51.83,
+        "lon": 4.82,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "08-02-2008",
+        "link": "images/2008/denhaag_karres/denhaag_karres.htm",
+        "titel": "1 schilderij gestolen",
+        "plaatsNaam": "Den Haag",
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "19-01-2008",
+        "link": "images/2008/amsterdam_eijsenberger/amsterdam_eijs.htm",
+        "titel": "1 schilderij van Jean Girigori",
+        "plaatsNaam": "Amsterdam",
+        "lat": 52.08,
+        "lon": 5.10,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "07-01-2008",
+        "link": "images/2008/amsterdam/amsterdam.htm",
+        "titel": "5 schilderijen gestolen: Verwey-van Gessel - Feldmann",
+        "plaatsNaam": "Amsterdam",
+        "lat": 52.08,
+        "lon": 5.10,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "01-12-2007",
+        "link": "images/2008/denhaag/denhaag_brauw.htm",
+        "titel": "bronzen beeld van Ingrid Verheul",
+        "plaatsNaam": "Hoog Soeren\n(Apeldoorn)",
+        "lat": 52.21,
+        "lon": 5.87,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "01-10-2007",
+        "link": "images/2008/groenhart/groenhart.htm",
+        "titel": "2 schilderijen van Jan Groenhart",
+        "plaatsNaam": "Velsen",
+        "lat": 52.46,
+        "lon": 4.65,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "16-10-2007",
+        "link": "images/2007/aalsmeer/aalsmeer.htm",
+        "titel": "keramische tafel gestolen van Anneke Harting",
+        "plaatsNaam": "Aalsmeer",
+        "lat": 52.26,
+        "lon": 4.76,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "13-10-2007",
+        "link": "images/2007/delft/delft_klaus.htm",
+        "titel": "gestolen uit museum de telefooncel, object van Klaus",
+        "plaatsNaam": "Delft",
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "10-10-2007",
+        "link": "images/2007/malden/malden.htm",
+        "titel": "3 bronzen beelden van Elly van de Broek",
+        "plaatsNaam": "Malden",
+        "lat": 51.78,
+        "lon": 5.85,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "22-09-2007",
+        "link": "images/2007/sterksel/sterksel.htm",
+        "titel": "2 bronzen beelden gestolen, inmiddels \r\n  teruggevonden!",
+        "plaatsNaam": "Sterksel",
+        "lat": 51.35,
+        "lon": 5.61,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "28-08-2007",
+        "link": "images/2007/zeist/zeist_achmea.htm",
+        "titel": "Glazen object gestolen Iris Roskam bij kantoor Achmea",
+        "plaatsNaam": "Tilburg",
+        "lat": 51.56,
+        "lon": 5.08,
+        "fromWho": "achmea"
+      },
+      {
+        "datumString": "01-08-2007",
+        "link": "images/2007/maaseik_laar/maaseik.htm",
+        "titel": "bronzen beeld van Ronald van Laar gestolen",
+        "plaatsNaam": "Maaseik",
+        "lat": 51.97,
+        "lon": 5.78,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "04-08-2007",
+        "link": "images/2007/meerssen/meerssen.htm",
+        "titel": "12 bronzen beelden gestolen van div kunstenaars",
+        "plaatsNaam": "Meerssen",
+        "lat": 50.88,
+        "lon": 5.75,
+        "fromWho": "kunstenaars"
+      },
+      {
+        "datumString": "04-08-2007",
+        "link": "images/2007/lisse/lisse.htm",
+        "titel": "Schilderij gestolen",
+        "plaatsNaam": "Lisse",
+        "lat": 52.25,
+        "lon": 4.55,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "03-08-2007",
+        "link": "images/2007/kortenhoef/kortenhoef.htm",
+        "titel": "Schilderij\u00a0 Willem Noordijk vermist",
+        "plaatsNaam": "Kortenhoef",
+        "lat": 52.22,
+        "lon": 5.09,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "25-07-2007",
+        "link": "images/2007/schijndel/schijndel.htm",
+        "titel": "5 bronzen beelden uit museumtuin van Gert vd Woude gestolen",
+        "plaatsNaam": "Schijndel",
+        "lat": 51.61,
+        "lon": 5.43,
+        "fromWho": "museum"
+      },
+      {
+        "datumString": "25-07-2007",
+        "link": "images/2007/alkmaar/smit.htm",
+        "titel": "Glazen beeldje gestolen",
+        "plaatsNaam": "Alkmaar",
+        "fromWho": "particulier"
+      },
+      {
+      "datumString": "23-06-2007",
+        "link": "images/2007/heerlen/heerlen.htm",
+        "titel": "Bronzen beeld gestolen \n\n\u00a0van\r\n  Leny Franken",
+        "plaatsNaam": "Heerlen",
+        "lat": 50.88,
+        "lon": 5.97,
+        "fromWho": "glaspaleis"
+      },
+      {
+        "datumString": "11-05-2007",
+        "link": "images/2007/tiel/kaayk.htm",
+        "titel": "9 objecten in kunsthars gestolen van Coen en Guusje \r\n  Kaayk",
+        "plaatsNaam": "Tiel",
+        "lat": 51.88,
+        "lon": 5.42,
+        "fromWho": "kunstenaars"
+      },
+      {
+        "datumString": "25-03-2007",
+        "link": "images/2007/arnhem/arnhem.htm",
+        "titel": "Bronzen beeld Joris Verdonkschot gestolen",
+        "plaatsNaam": "Arnhem",
+        "lat": 51.98,
+        "lon": 5.89,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "23-03-2007",
+        "link": "images/2007/amsterdam_noort/amsterdam_noort.htm",
+        "titel": "3 schilderijen van AC van Noort",
+        "plaatsNaam": "Amsterdam",
+        "lat": 51.43,
+        "lon": 5.62,
+        "fromWho": "kunsthandel"
+      },
+      {
+        "datumString": "21-03-2007",
+        "link": "teruggevonden/hhw07/hhw.htm",
+        "titel": "Recherche heeft bronzen hond aangetroffen en zoekt eigenaar\n[ gevonden 23/03/07] Eigenaar gevonden !",
+        "plaatsNaam": "Heerhugowaard",
+        "fromWho": "inmiddels opgelost!"
+      },
+      {
+        "datumString": "07-02-2007",
+        "link": "images/2007/sgravenhage/sgravenhage.htm",
+        "titel": "5 schilderijen gestolen",
+        "plaatsNaam": "'s Gravenhage",
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "18-01-2007",
+        "link": "teruggevonden/gooi_en_vechtstreek/gooienvechtstreek.htm",
+        "titel": "Recherche heeft beelden gevonden bij verdachte  . Klik hier voor meer info!",
+        "plaatsNaam": "Gooi en Vechtstreek",
+        "lat": 52.20,
+        "lon": 5.21,
+        "fromWho": "eigenaar gezocht!"
+      },
+      {
+        "datumString": "15-01-2007",
+        "link": "images/2007/hazelaar/hazelaar.htm",
+        "titel": "4 bronzen beelden gestolen",
+        "plaatsNaam": "Soest",
+        "lat": 52.16,
+        "lon": 5.30,
+        "fromWho": "Beeldentuin/galerie"
+      },
+      {
+        "datumString": "13-01-2007",
+        "link": "images/2007/putte-stabroek/putte_stabroek.htm",
+        "titel": "1 bronzen beeld van Hans Hermes",
+        "plaatsNaam": "Putte-Stabroek",
+        "lat": 51.35,
+        "lon": 4.39,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "12-01-2007",
+        "link": "images/2007/maarssen/maarssen_beeldentuin.htm",
+        "titel": "8 bronzen beelden gestolen uit beeldentuin",
+        "plaatsNaam": "Maarssen",
+        "fromWho": "beeldentuin"
+      },
+      {
+        "datumString": "12-01-2007",
+        "link": "images/2007/huizen/huizen_gemeente.htm",
+        "titel": "5 bronzen beelden gestolen",
+        "plaatsNaam": "Huizen",
+        "lat": 52.29,
+        "lon": 5.23,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "08-01-2007",
+        "link": "images/2007/Maastricht_laar/maastricht_laar.htm",
+        "titel": "bronzen beeld gestolen van Ronald van Laar",
+        "plaatsNaam": "Maastricht",
+        "lat": 50.85,
+        "lon": 5.69,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "07-01-2007",
+        "link": "images/2007/bilthoven/bilthoven_v.htm",
+        "titel": "4 Bronzen beelden van Carla Wiersma en 1 van Rijkel \r\n  Dijkstra",
+        "plaatsNaam": "Bilthoven",
+        "lat": 52.13,
+        "lon": 5.21,
+        "fromWho": "beeldentuin"
+      },
+      {
+        "datumString": "07-01-2007",
+        "link": "images/2007/sypesteyn/sypesteyn.htm",
+        "titel": "Bronzen beeld van Leontine Sies bij kasteel museum \r\n Sypesteyn gestolen",
+        "plaatsNaam": "Loosdrecht",
+        "lat": 52.19,
+        "lon": 5.09,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "07-01-2007",
+        "link": "images/2007/hulzen/hulzen.htm",
+        "titel": "3 bronzen beelden van Gerard van Hulzen gestolen",
+        "plaatsNaam": "Uithoorn",
+        "lat": 52.24,
+        "lon": 4.83,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "07-01-2007",
+        "link": "images/2007/huizen_limieten/huizen_limieten.htm",
+        "titel": "6 loden beelden en 2 vazen",
+        "plaatsNaam": "Huizen",
+        "lat": 52.29,
+        "lon": 5.24,
+        "fromWho": "kwekerij"
+      },
+      {
+        "datumString": "04-01-2007",
+        "link": "images/2007/elburg/elburg_galerie.htm",
+        "titel": "11 Bronzen beelden gestolen",
+        "plaatsNaam": "Elburg",
+        "lat": 52.44,
+        "lon": 5.83,
+        "fromWho": "galerie"
+      },
+      {
+        "datumString": "03-01-2007",
+        "link": "images/2007/hasselt/schildwacht_hasselt.htm",
+        "titel": "Bronzen beeld \"schildwacht\"van Cees Willemsen gestolen",
+        "plaatsNaam": "Hasselt",
+        "lat": 50.93,
+        "lon": 5.32,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "29-12-2006",
+        "link": "images/2006/woerden/woerden.htm",
+        "titel": "Bronzen beeld van Marie Jose Wessels gestolen",
+        "plaatsNaam": "Woerden",
+        "fromWho": "ziekenhuis"
+      },
+      {
+        "datumString": "25-12-2006",
+        "link": "images/2006/amsterdam_slotervaart/sheils.htm",
+        "titel": "10 schilderijen van James Sheils gestolen",
+        "plaatsNaam": "Amsterdam",
+        "lat": 51.43,
+        "lon": 5.62,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "24-12-2006",
+        "link": "images/2006/recr_klepperstee_ouddorp/klepperstee_ouddorp.htm",
+        "titel": "Bronzen beeld van Iris \n\n\n\u00a0le R\u00fctte",
+        "plaatsNaam": "Ouddorp",
+        "lat": 51.90,
+        "lon": 3.93,
+        "fromWho": "recr.park"
+      },
+      {
+        "datumString": "17-12-2006",
+        "link": "images/2007/erichem/krol.htm",
+        "titel": "2 bronzen beelden gestolen van Lia Krol",
+        "plaatsNaam": "Erichem",
+        "lat": 51.90,
+        "lon": 5.34,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "30-11-2006",
+        "link": "images/2006/someren/someren.htm",
+        "titel": "Bronzen beeld van Jac van Someren gestolen",
+        "plaatsNaam": "Best",
+        "lat": 51.50,
+        "lon": 5.39,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "04-11-2006",
+        "link": "images/2006/sliedrecht/sliedrecht_jitsbakker.htm",
+        "titel": "Bronzen beeld van Jits Bakker gestolen",
+        "plaatsNaam": "Sliedrecht",
+        "lat": 51.82,
+        "lon": 4.77,
+        "fromWho": "Gemeente"
+      },
+      {
+        "datumString": "12-11-2006",
+        "link": "images/2006/blank/blank_2006.htm",
+        "titel": "Bronzen beeld van Hans Blank, unicum",
+        "plaatsNaam": "Den Haag",
+        "fromWho": "galerie"
+      },
+      {
+        "datumString": "28-10-2006",
+        "link": "images/2006/kemps_eindhoven/kemps_eindhoven.htm",
+        "titel": "Bronzen beeld van Jannelies Raaijmakers",
+        "plaatsNaam": "Eindhoven",
+        "lat": 51.44,
+        "lon": 5.46,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "26-10-2006",
+        "link": "images/2006/schoorl/begraafplaats_diels.htm",
+        "titel": "2 Grafmonumenten gestolen, brons en koper",
+        "plaatsNaam": "Schoorl",
+        "lat": 52.70,
+        "lon": 4.70,
+        "fromWho": "begraafplaats"
+      },
+      {
+        "datumString": "08-10-2006",
+        "link": "images/2006/bloemendaal/bloemendaal.htm",
+        "titel": "Bronzen gans gestolen",
+        "plaatsNaam": "Bloemendaal",
+        "lat": 52.40,
+        "lon": 4.61,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "09-10-2006",
+        "link": "images/2010/zwolle/zwolle_leeser.htm",
+        "titel": "Bronzen beeld van kunstenaar Titus Leeser gestolen",
+        "plaatsNaam": "Zwolle",
+        "lat": 52.51,
+        "lon": 6.08,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "06-10-2006",
+        "link": "images/2006/vinkeveen/vinkeveen_jozefschool.htm",
+        "titel": "Bronzen beeld gestolen Jozefschool",
+        "plaatsNaam": "Vinkeveen",
+        "lat": 52.21,
+        "lon": 4.93,
+        "fromWho": "school"
+      },
+      {
+        "datumString": "21-09-2006",
+        "link": "images/2006/gemeente_bergen/gemeente_bergen.htm",
+        "titel": "Bronzen beeld, gemaakt door Ellen de Groot. \n\r\n  Teruggevonden 1 febr 2007 !!",
+        "plaatsNaam": "Bergen NH",
+        "lat": 52.67,
+        "lon": 4.70,
+        "fromWho": "Gemeente Bergen"
+      },
+      {
+        "datumString": "15-09-2006",
+        "link": "images/2006/alphen_ad_rijn/alphenadrijn.htm",
+        "titel": "Bronzen beeld gestolen, kunstenaar \n\n\n\nNelson Caririlho",
+        "plaatsNaam": "Alphen a/d Rijn",
+        "fromWho": "Particulier"
+      },
+      {
+        "datumString": "08-09-2006",
+        "link": "images/2006/Nieuwegein/nieuwegein.htm",
+        "titel": "bronzen ooievaar gestolen",
+        "plaatsNaam": "Nieuwegein",
+        "lat": 52.02,
+        "lon": 5.08,
+        "fromWho": "bedrijf"
+      },
+      {
+        "datumString": "01-08-2006",
+        "link": "images/2006/alkmaar_lange/lange.htm",
+        "titel": "sieraden gestolen van edelsmid Marc Lange",
+        "plaatsNaam": "Alkmaar",
+        "lat": 52.63,
+        "lon": 4.75,
+        "fromWho": "Edelsmid"
+      },
+      {
+        "datumString": "01-08-2006",
+        "link": "images/2006/janneman/janneman.htm",
+        "titel": "Sieraden van Ron en Mildred Janneman",
+        "plaatsNaam": "Callantsoog e.o",
+        "lat": 52.83,
+        "lon": 4.69,
+        "fromWho": "kunstenaar / galerie"
+      },
+      {
+        "datumString": "02-07-2006",
+        "link": "images/2006/schoffelen/schoffelen.htm",
+        "titel": "Bronzen beeld van 450 kg gestolen van Sjra Schoffelen",
+        "plaatsNaam": "Sittard",
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "02-07-2006",
+        "link": "images/2006/keuenhof_ede/keuenhof.htm",
+        "titel": "12 bronzen beelden van Jissy Keuenhof\n\nInmiddels 8 beelden \r\n    teruggevonden !\nklik hier",
+        "plaatsNaam": "Ede",
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "10-05-2006",
+        "link": "images/2006/rucphen/rucphen.htm",
+        "titel": "24 bronzen beelden gestolen \r\n  waarvan 11 van Lia Krol / Jaap Paasman en 4 van Fransje Povel",
+        "plaatsNaam": "Rucphen",
+        "lat": 51.53,
+        "lon": 4.55,
+        "fromWho": "galerie"
+      },
+      {
+        "datumString": "11-05-2006",
+        "link": "images/2006/lemberger_amsterdam/lemberger.htm",
+        "titel": "2 schilderijen en veel \r\n zilverwerk",
+        "plaatsNaam": "Amstedam",
+        "lat": 51.43,
+        "lon": 5.62,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "01-03-2006",
+        "link": "images/2006/bronckhorst/bronckhorst.htm",
+        "titel": "Caarte van de Groote Emmer anno 1727",
+        "plaatsNaam": "Bronckhorst",
+        "lat": 52.30,
+        "lon": 6.18,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "06-01-2006",
+        "link": "images/2006/arnhem_peja/peja.htm",
+        "titel": "Bronzen beeld gestolen bij Peja",
+        "plaatsNaam": "Arnhem",
+        "fromWho": "bedrijf"
+      },
+      {
+        "datumString": "08-11-2005",
+        "link": "images/2005/klomp/klomp.htm",
+        "titel": "2 bronzen beelden",
+        "plaatsNaam": "Schiedam",
+        "lat": 51.91,
+        "lon": 4.39,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "20-10-2005",
+        "link": "images/2005/kalverda/kalverda.htm",
+        "titel": "2 beelden van Alie Kalverda",
+        "plaatsNaam": "Aardenburg",
+        "lat": 51.27,
+        "lon": 3.44,
+        "fromWho": "galerie"
+      },
+      {
+        "datumString": "15-10-2005",
+        "link": "images/2005/schellekens/schellekens.htm",
+        "titel": "2 beelden gestolen van Loes Schellekens",
+        "plaatsNaam": "'s-Gravenhage",
+        "fromWho": "galerie"
+      },
+      {
+        "datumString": "04-09-2005",
+        "link": "images/2005/beeldhouwwinkel/beeldhouwwinkel.htm",
+        "titel": "3 beelden",
+        "plaatsNaam": "Amsterdam",
+        "lat": 51.43,
+        "lon": 5.62,
+        "fromWho": "Beeldhouwwinkel"
+      },
+      {
+        "datumString": "20-08-2005",
+        "link": "images/2005/huisman/huisman.htm",
+        "titel": "1 afrikaans beeld",
+        "plaatsNaam": "Oosterhout",
+        "lat": 51.64,
+        "lon": 4.85,
       "fromWho": "particulier"
-    },
-    {
-      "datumString": "01-01-1952",
-      "link": "images/2015/rtl4/rtl4_schilderij%20gezocht.htm",
-      "titel": "schilderij: \r\n\tZelfportret van Wijnand Adriaan van Houweninge van Sprang, help mee met \r\n\tterugvinden! RTL4 maakt hier een uitzending over.",
-      "plaatsNaam": "onbekend",
-      "fromWho": "in opracht van RTL 4"
-    },
-    {
-      "datumString": "01-01-2015",
-      "link": "images/2015/doetinchem/doetinchem.htm",
-      "titel": "bronzen monument - kunstenaar Marga Bles",
-      "plaatsNaam": "Doetinchem",
-      "lat": 51.96,
-      "lon": 6.29,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "21-10-2014",
-      "link": "images/2014/emmeloord/emmeloord.htm",
-      "titel": "Uit tuin gestolen bronzen beeld, zittende vrouw op \r\n\tstoel",
-      "plaatsNaam": "Emmeloord",
-      "lat": 52.71,
-      "lon": 5.75,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "22-08-2014",
-      "link": "images/2014/heelsum/heelsum.htm",
-      "titel": "bronzen beeld van Pauline Hazeu gestolen",
-      "plaatsNaam": "Oosterbeek",
-      "lat": 51.98,
-      "lon": 5.84,
-      "fromWho": "beeldentuin"
-    },
-    {
-      "datumString": "27-06-2014",
-      "link": "images/2014/blaricum/blaricum.htm",
-      "titel": "schilderij gestolen van Andrew Hall",
-      "plaatsNaam": "Blaricum",
-      "lat": 52.27,
-      "lon": 5.24,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "10-04-2014",
-      "link": "images/2014/hilversum/hilversum.htm",
-      "titel": "gestolen uit auto postbezorger \r\n\tbronzen beeld van \n\r\n\tKunstenaar: Ottmar Obermaier",
-      "plaatsNaam": "Hilversum",
-      "lat": 52.22,
-      "lon": 5.17,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "05-04-2014",
-      "link": "images/2014/kerkrade/kerkrade.htm",
-      "titel": "bronzen beeld van Willemijn Heijboer",
-      "plaatsNaam": "Kerkrade",
-      "lat": 50.86,
-      "lon": 6.06,
-      "fromWho": "botanische tuin"
-    },
-    {
-      "datumString": "06-08-2013",
-      "link": "images/2013/heerhugowaard/artfarm.htm",
-      "titel": "2 bronzen beelden gestolen van kunstenaars Greetje de \r\n\tVries en Jeanette Jansen",
-      "plaatsNaam": "Heerhugowaard",
-      "lat": 52.65,
-      "lon": 4.82,
-      "fromWho": "particulier bezit"
-    },
-    {
-      "datumString": "15-01-2013",
-      "link": "images/2013/sittard/sittard.htm",
-      "titel": "bronzen beeld van Sjra Schoffelen gestolen",
-      "plaatsNaam": "Sittard",
-      "lat": 50.99,
-      "lon": 5.87,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "01-01-2013",
-      "link": "images/2013/rotterdam/rotterdan.htm",
-      "titel": "12 schilderijen gestolen --> beloning uitgeloofd voor \r\n  terugvinden van de schilderijen",
-      "plaatsNaam": "Rotterdam",
-      "lat": 51.90,
-      "lon": 4.45,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "05-01-2013",
-      "link": "images/2013/epe/epe.htm",
-      "titel": "Bronzen klomp gestolen",
-      "plaatsNaam": "Epe",
-      "lat": 52.34,
-      "lon": 5.98,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "27-12-2012",
-      "link": "images/2013/beek/beek.htm",
-      "titel": "2 Bronzen beelden gestolen, kunstenaars: Jo Ramakers en \r\n  Wim Steins",
-      "plaatsNaam": "Beek",
-      "lat": 50.94,
-      "lon": 5.79,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "12-10-2012",
-      "link": "images/2012/utrecht/utrecht.htm",
-      "titel": "Diverse bronzen objecten gestolen van kunstenaar Anja \r\n  Roemer",
-      "plaatsNaam": "Utrecht",
-      "lat": 52.08,
-      "lon": 5.10,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "14-6-2012",
-      "link": "images/2012/amsterdam/amsterdam.htm",
-      "titel": "4 glassculpturen gestolen. Kunstenaars: Ola H\u00f6glund en \r\n  Marie Simberg-H\u00f6glund",
-      "plaatsNaam": "Amsterdam",
-      "lat": 52.37,
-      "lon": 4.89,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "01-06-2012",
-      "link": "images/2012/zwijndrecht/zwijdrecht.htm",
-    "titel": "bronzen beeld Le Couple van kunstenaar Godfried \r\n  Pieters gestolen",
-      "plaatsNaam": "Zwijndrecht",
-      "lat": 51.81,
-      "lon": 4.62,
-      "fromWho": "Noordpark"
-    },
-    {
-      "datumString": "20-03-2012",
-      "link": "images/2012/de_bilt/bakker.htm",
-      "titel": "3 bronzen beelden gestolen van Jits Bakker met een \r\n waarde van 350.000 euro!",
-      "plaatsNaam": "de Bilt",
-      "lat": 52.10,
-      "lon": 5.18,
-      "fromWho": "Museum beeldenpark Beelden op Beerschoten"
-    },
-    {
-      "datumString": "10-01-2012",
-      "link": "images/2012/zutphen/zutphen.htm",
-      "titel": "Bronzen beeld gestolen van Kunstenaar Nicky Dijkstra.\r\n Teruggevonden op 1 febr 2012 !!",
-      "plaatsNaam": "Zutphen",
-      "lat": 52.13,
-      "lon": 6.20,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "22-01-2012",
-      "link": "images/2012/rheden/carmiggelt.htm",
-      "titel": "Twee bronzen beelden gestolen: Simon en Tiny \r\n Carmiggelt in De Steeg. \r\n  Weer gevonden op 25/1 en daders aangehouden/. beelden kapot helaas",
-      "plaatsNaam": "Rheden",
-      "lat": 52.00,
-      "lon": 6.03,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "18-01-2012",
-      "link": "images/2012/dieren/dieren.htm",
-      "titel": "bronzen paard\u00a0 gestolen, kunstenaar Henk G\u00f6bel.\r\n Op 25/1 -12 teruggevonden . Daders \r\n aangehouden en beeld helaas kapot.",
-      "plaatsNaam": "Dieren",
-      "lat": 52.04,
-      "lon": 6.10,
-      "fromWho": "gemeente Rheden"
-    },
-    {
-      "datumString": "25-11-2011",
-      "link": "images/2011/denhaag/denhaag.htm",
-      "titel": "2 bronzen beelden uit Den Haag gestolen",
-      "plaatsNaam": "Den Haag",
-      "lat": 52.07,
-      "lon": 4.30,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "12-11-2011",
-      "link": "images/2011/rotterdam/bronzenbeeld_rotterdam.htm",
-      "titel": "bronzen beeld gevonden bij metaalhandelaar",
-      "plaatsNaam": "Rotterdam",
-      "lat": 51.92,
-      "lon": 4.47,
-      "fromWho": "inmiddels opgelost !"
-    },
-    {
-      "datumString": "19-11-2011",
-      "link": "images/2011/utrecht/utrecht.htm",
-      "titel": "Bronzen beeld gestolen van begraafplaats",
-      "plaatsNaam": "Utrecht",
-      "N.B.": "52.08",
-      "O.L.": "5.09",
-      "fromWho": "begraafplaats, partic"
-    },
-    {
-      "datumString": "01-08-2011",
-      "link": "images/2012/denhaag/denhaag.htm",
-      "titel": "4 schilderijen van Maris, Mauve, Bosboom en Diaz \r\n gestolen. 25-06-2012: Het \r\n    schilderij van Diaz is inmiddels terug!\u00a0 20 aug: rest van de \r\n  schilderijen zijn terug!",
-      "plaatsNaam": "Den Haag",
-      "lat": 52.07,
-      "lon": 4.30,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "22-08-2011",
-      "link": "images/2011/oosterbeek/oosterbeek.htm",
-      "titel": "4 \r\n    bronzen beelden van Marian Spekreijse gestolen.Inmiddels \r\n weer terug via politie op 14/9/11",
-      "plaatsNaam": "Oosterbeek",
-      "lat": 51.98,
-      "lon": 5.84,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "06-08-2011",
-      "link": "images/2011/teruggevonden_alkmaar/sumo_worstelaar_brons.htm",
-      "titel": "Bronzen \r\n    beeld gevonden in Alkmaar. Eigenaar\r\n \n\n\n= opgespoord !!",
-      "plaatsNaam": "Alkmaar",
-      "lat": 52.63,
-      "lon": 4.75,
-      "fromWho": "teruggevonden"
-    },
-    {
-      "datumString": "29-05-2011",
-      "link": "images/2011/vlierden/vlierden.htm",
-      "titel": "Bronzen beeld van Joep Coppens gestolen",
-      "plaatsNaam": "Vlierden",
-      "lat": 51.44,
-      "lon": 5.76,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "18-04-2011",
-      "link": "images/2011/bergen/bergen.htm",
-      "titel": "Bronzen beeld gestolen, kunstenaar Marjolijn de Bruin",
-      "plaatsNaam": "Bergen",
-      "lat": 52.67,
-      "lon": 4.70,
-      "fromWho": "begraafplaats - partic."
-    },
-    {
-      "datumString": "01-12-2010",
-      "link": "images/2011/alkmaar/mca.htm",
-      "titel": "2 iconen gestolen uit het MCA",
-      "plaatsNaam": "Alkmaar",
-      "lat": 52.63,
-      "lon": 4.75,
-      "fromWho": "MCA- Kunstenaar"
-    },
-    {
-      "datumString": "05-12-2010",
-      "link": "images/2010/hendrik_ido_ambacht/hendrik-ido-ambacht.htm",
-      "titel": "bronzen beeld van Marcus Ravenswaay gestolen",
-      "plaatsNaam": "Hendrik-Ido-Ambacht",
-      "lat": 51.84,
-      "lon": 4.63,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "01-08-2010",
-      "link": "images/2010/nijmegen/nijmegen.htm",
-      "titel": "3 bronzen beelden van: Nic Jonk, Jan de Graaf en Bart \r\n  Welten",
-      "plaatsNaam": "Nijmegen",
-      "lat": 51.81,
-      "lon": 5.83,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "15-10-2010",
-      "link": "images/2010/heesch",
-      "titel": "3 bronzen beelden gestolen van Jet van Zijl",
-      "plaatsNaam": "Heesch",
-      "lat": 51.73,
-      "lon": 5.26,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "01-08-2010",
-      "link": "images/2010/boxie/boxie_gestolen_powerbook.htm",
-      "titel": "gepimpte powerbook van Boxie gestolen",
-      "plaatsNaam": "Hoorn",
-      "lat": 52.64,
-      "lon": 5.06,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "01-08-2010",
-      "link": "images/2010/ijmuiden/ijmuiden_nic_jonk.htm",
-      "titel": "bronzen beeld gestolen. Kunstenaar Nic Jonk",
-      "plaatsNaam": "IJmuiden",
-      "lat": 52.45,
-      "lon": 4.60,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "01-08-2010",
-      "titel": "Het beeld is inmiddels weer terug bij de \r\n eigenaar",
-      "plaatsNaam": "Groningen",
-      "lat": 53.21,
-      "lon": 6.56,
-      "fromWho": "teruggevonden bij oudijzerboer \r\n !!"
-    },
-    {
-      "datumString": "01-07-2010",
-      "link": "images/2010/jitsbakker/bakkerjuli2010.htm",
-      "titel": "bronzen beeld gestolen Jits Bakker : profeet",
-      "plaatsNaam": "Heelsum",
-      "lat": 51.98,
-      "lon": 5.75,
-      "fromWho": "begraafplaats"
-    },
-    {
-      "datumString": "28-06-2010",
-      "link": "images/2010/gouda/gouda.htm",
-      "titel": "3 schilderijen gestolen, kunstenaar de Visser",
-      "plaatsNaam": "Gouda",
-      "lat": 52.01,
-      "lon": 4.71,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "23-05-2009",
-      "link": "images/2010/enschede/enschede.htm",
-      "titel": "2 bronzen beelden gestolen van Jet van der Tol",
-      "plaatsNaam": "Enschede",
-      "fromWho": "galerie"
-    },
-    {
-      "datumString": "05-03-2010",
-    "link": "images/2010/someren/someren.htm",
-      "titel": "bronzen beeld van kunstenaar Jac van Someren",
-      "plaatsNaam": "Megem [ gem Oss]",
-      "lat": 51.82,
-      "lon": 5.56,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "03-03-2010",
-      "link": "images/2010/jitsbakker/jitsbakker_steltloper_maart2010.htm",
-      "titel": "bronzen beeld de steltloper gestolen, kunstenaar Jits \r\n  Bakker",
-      "plaatsNaam": "Terborg",
-      "lat": 51.92,
-      "lon": 6.35,
-      "fromWho": "school de Rietborg"
-    },
-    {
-      "datumString": "30-10-2009",
-      "link": "images/2009/hogeweg/hogeweg.htm",
-      "titel": "2 bronzen beelden gestolen \n1 weer terecht! onthoofd!",
-      "plaatsNaam": "Prov Utrecht",
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "12-10-2009",
-      "link": "images/2009/wildevuur/wildevuur.htm",
-      "titel": "bronzen beeld van Jan de Graaf gestolen",
-      "plaatsNaam": "Hooghalen",
-      "fromWho": "galerie Wildevuur"
-    },
-    {
-      "datumString": "28-10-2009”,
-      "link": "images/2009/bad-nieuweschans/heus.htm",
-      "titel": "Glaspaneel gestolen van \n\nTanja de Heus",
-      "plaatsNaam": "Bad Nieuweschans",
-      "lat": 53.16,
-      "lon": 7.18,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "15-06-2009",
-      "link": "images/2009/darp/kneulman.htm",
-      "titel": "bronzen beeld van Carel Kneulman gestolen",
-      "plaatsNaam": "Darp",
-      "lat": 52.77,
-      "lon": 6.2”,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "15-05-2009",
-      "link": "images/2009/keramikos/keramikos.htm",
-      "titel": "raku mandarijneend van Elisabeth Leyen gestolen",
-      "plaatsNaam": "Haarlem",
-      "lat": 52.38,
-      "lon": 4.64,
-      "fromWho": "Keramikos"
-    },
-    {
-      "datumString": "19-02-2009”,
-      "link": "images/2009/maasbracht/maasbracht.htm",
-      "titel": "2 schilderijen gestolen",
-      "plaatsNaam": "Maasbracht",
-      "lat": 51.14,
-      "lon": 5.88,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "26-02-2009",
-      "link": "teruggevonden.htm",
-      "titel": "schilderij gevonden, \r\n eigenaar gezocht!",
-      "plaatsNaam": "Rosmalen",
-      "lat": 51.71,
-      "lon": 5.36,
-      "fromWho": "gevonden in de berm"
-    },
-    {
-      "datumString": "07-11-2008",
-      "link": "images/2008/groet/groet.htm",
-      "titel": "bronzen beeld van Gerard van der \r\n Leeden",
-      "plaatsNaam": "Groet",
-      "lat": 52.72,
-      "lon": 4.66,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "28-09-2008",
-      "link": "images/2009/rotterdam/rotterdam.htm",
-      "titel": "2 \r\n    schilderijen van \n\n\nAntonie Johan de \r\n  Jonge",
-      "plaatsNaam": "Rotterdam",
-      "lat": 51.92,
-      "lon": 4.47,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "28-09-08",
-      "link": "images/2008/swifterband/swifterband.htm",
-      "titel": "bronzen beeld gestolen van Jits Bakker",
-      "plaatsNaam": "Dronten",
-      "lat": 52.53,
-      "lon": 5.72,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "27-09-2008",
-      "link": "images/2008/laren_snoek/laren_snoek.htm",
-      "titel": "bronzen beeld Marcus Ravenswaaij gestolen",
-      "plaatsNaam": "Laren",
-      "lat": 52.25,
-      "lon": 5.22,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "27-08-2008",
-      "link": "images/2008/beetsterzwaag/Beetsterzwaag.htm",
-      "titel": "3 bronzen beelden gestolen van Barbara Pijnappel",
-      "plaatsNaam": "Beetsterzwaag",
-      "lat": 53.05,
-      "lon": 6.07,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "17-08-2008",
-      "link": "images/2008/callantsoog/booghaard.htm",
-      "titel": "Beelden [keramiek en brons] gestolen van Marjolien \r\n Boerenboom en Shirley Weiffenbach",
-      "plaatsNaam": "Callanstoog",
-      "lat": 52.83,
-      "lon": 4.69,
-      "fromWho": "Beeldentuin de Booghaard"
-    },
-    {
-      "datumString": "14-08-2008",
-      "link": "images/2008/lelystad/lelystad.htm",
-      "titel": "bronzen beeld van Marie Jose Wessels gestolen",
-      "plaatsNaam": "Lelystad",
-      "lat": 52.52,
-      "lon": 5.46,
-      "fromWho": "golfbaan"
-    },
-    {
-      "datumString": "10-08-2008",
-      "link": "images/2008/amsterdam_kok/amsterdam_kok.htm",
-      "titel": "schilderij gestolen van Paul Kok",
-      "plaatsNaam": "Amsterdam",
-      "lat": 52.08,
-      "lon": 5.10,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "01-08-2008",
-      "link": "images/2008/lochem/lochem.htm",
-      "titel": "schilderij van Toon Klaver gestolen",
-      "plaatsNaam": "Lochem",
-      "lat": 52.16,
-      "lon": 6.41,
-      "fromWho": "expositie"
-    },
-    {
-      "datumString": "12-07-2008",
-      "link": "images/2008/liempde/liempde.htm",
-      "titel": "banner gestolen Griet Menschaert",
-      "plaatsNaam": "Liempde",
-      "lat": 51.56,
-      "lon": 5.37,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "21-06-2008",
-      "link": "images/2008/heerhugowaard/zande.htm",
-      "titel": "schilderij gestolen van Irma van de Zande",
-      "plaatsNaam": "Alkmaar",
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "22-05-2008",
-      "link": "images/2008/amsterdam_hatterman/amsterdam_hatterman.htm",
-      "titel": "schilderij van Robbert Doelwijt",
-      "plaatsNaam": "Amsterdam",
-      "lat": 52.08,
-      "lon": 5.10,
-      "fromWho": "galerie"
-    },
-    {
-    "datumString": "01-05-2008",
-      "link": "images/2008/delft/delft.htm",
-      "titel": "1 bronzen beeld van Annelies Pruisken, \n\ninmiddels \r\n terug bij eigenaar",
-      "plaatsNaam": "Delft",
-      "lat": 52.01,
-      "lon": 4.35,
-      "fromWho": ""
-    },
-    {
-      "datumString": "12 mei 08",
-      "link": "images/2008/sgraveland/sgraveland.htm",
-      "titel": "1 bronzen beeld van Theo Mackaay gestolen",
-      "plaatsNaam": "'s-Graveland",
-      "lat": 52.24,
-      "lon": 5.13,
-      "fromWho": "galerie"
-    },
-    {
-      "datumString": "08-03-2008",
-      "link": "images/2008/laren/laren110308.htm",
-      "titel": "1 bronzen beeld gestolen van \n\n\n\nKornelia Northolt",
-      "plaatsNaam": "Laren",
-      "fromWho": "galerie"
-    },
-    {
-      "datumString": "07-03-2008",
-      "link": "images/2008/alphen_ad_rijn/alphen_ad_rijn.htm",
-      "titel": "schilderij van Karel Appel gestolen",
-      "plaatsNaam": "Alphen ad Rijn",
-      "lat": 52.12,
-      "lon": 4.66,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "05-03-2008",
-      "link": "images/2008/hardinxveld/hardinxveld.htm",
-      "titel": "4 bronzen beelden gestolen - \r\n zeemeerminnen",
-      "plaatsNaam": "Hardinxveld",
-      "lat": 51.83,
-      "lon": 4.82,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "08-02-2008",
-      "link": "images/2008/denhaag_karres/denhaag_karres.htm",
-      "titel": "1 schilderij gestolen",
-      "plaatsNaam": "Den Haag",
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "19-01-2008",
-      "link": "images/2008/amsterdam_eijsenberger/amsterdam_eijs.htm",
-      "titel": "1 schilderij van Jean Girigori",
-      "plaatsNaam": "Amsterdam",
-      "lat": 52.08,
-      "lon": 5.10,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "07-01-2008",
-      "link": "images/2008/amsterdam/amsterdam.htm",
-      "titel": "5 schilderijen gestolen: Verwey-van Gessel - Feldmann",
-      "plaatsNaam": "Amsterdam",
-      "lat": 52.08,
-      "lon": 5.10,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "01-12-2007",
-      "link": "images/2008/denhaag/denhaag_brauw.htm",
-      "titel": "bronzen beeld van Ingrid Verheul",
-      "plaatsNaam": "Hoog Soeren\n(Apeldoorn)",
-      "lat": 52.21,
-      "lon": 5.87,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "01-10-2007",
-      "link": "images/2008/groenhart/groenhart.htm",
-      "titel": "2 schilderijen van Jan Groenhart",
-      "plaatsNaam": "Velsen",
-      "lat": 52.46,
-      "lon": 4.65,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "16-10-2007",
-      "link": "images/2007/aalsmeer/aalsmeer.htm",
-      "titel": "keramische tafel gestolen van Anneke Harting",
-      "plaatsNaam": "Aalsmeer",
-      "lat": 52.26,
-      "lon": 4.76,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "13-10-2007",
-      "link": "images/2007/delft/delft_klaus.htm",
-      "titel": "gestolen uit museum de telefooncel, object van Klaus",
-      "plaatsNaam": "Delft",
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "10-10-2007",
-      "link": "images/2007/malden/malden.htm",
-      "titel": "3 bronzen beelden van Elly van de Broek",
-      "plaatsNaam": "Malden",
-      "lat": 51.78,
-      "lon": 5.85,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "22-09-2007",
-      "link": "images/2007/sterksel/sterksel.htm",
-      "titel": "2 bronzen beelden gestolen, inmiddels \r\n  teruggevonden!",
-      "plaatsNaam": "Sterksel",
-      "lat": 51.35,
-      "lon": 5.61,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "28-08-2007",
-      "link": "images/2007/zeist/zeist_achmea.htm",
-      "titel": "Glazen object gestolen Iris Roskam bij kantoor Achmea",
-      "plaatsNaam": "Tilburg",
-      "lat": 51.56,
-      "lon": 5.08,
-      "fromWho": "achmea"
-    },
-    {
-      "datumString": "01-08-2007",
-      "link": "images/2007/maaseik_laar/maaseik.htm",
-      "titel": "bronzen beeld van Ronald van Laar gestolen",
-      "plaatsNaam": "Maaseik",
-      "lat": 51.97,
-      "lon": 5.78,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "04-08-2007",
-      "link": "images/2007/meerssen/meerssen.htm",
-      "titel": "12 bronzen beelden gestolen van div kunstenaars",
-      "plaatsNaam": "Meerssen",
-      "lat": 50.88,
-      "lon": 5.75,
-      "fromWho": "kunstenaars"
-    },
-    {
-      "datumString": "04-08-2007",
-      "link": "images/2007/lisse/lisse.htm",
-      "titel": "Schilderij gestolen",
-      "plaatsNaam": "Lisse",
-      "lat": 52.25,
-      "lon": 4.55,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "03-08-2007",
-      "link": "images/2007/kortenhoef/kortenhoef.htm",
-      "titel": "Schilderij\u00a0 Willem Noordijk vermist",
-      "plaatsNaam": "Kortenhoef",
-      "lat": 52.22,
-      "lon": 5.09,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "25-07-2007",
-      "link": "images/2007/schijndel/schijndel.htm",
-      "titel": "5 bronzen beelden uit museumtuin van Gert vd Woude gestolen",
-      "plaatsNaam": "Schijndel",
-      "lat": 51.61,
-      "lon": 5.43,
-      "fromWho": "museum"
-    },
-    {
-      "datumString": "25-07-2007",
-      "link": "images/2007/alkmaar/smit.htm",
-      "titel": "Glazen beeldje gestolen",
-      "plaatsNaam": "Alkmaar",
-      "fromWho": "particulier"
-    },
-    {
-    "datumString": "23-06-2007",
-      "link": "images/2007/heerlen/heerlen.htm",
-      "titel": "Bronzen beeld gestolen \n\n\u00a0van\r\n  Leny Franken",
-      "plaatsNaam": "Heerlen",
-      "lat": 50.88,
-      "lon": 5.97,
-      "fromWho": "glaspaleis"
-    },
-    {
-      "datumString": "11-05-2007",
-      "link": "images/2007/tiel/kaayk.htm",
-      "titel": "9 objecten in kunsthars gestolen van Coen en Guusje \r\n  Kaayk",
-      "plaatsNaam": "Tiel",
-      "lat": 51.88,
-      "lon": 5.42,
-      "fromWho": "kunstenaars"
-    },
-    {
-      "datumString": "25-03-2007",
-      "link": "images/2007/arnhem/arnhem.htm",
-      "titel": "Bronzen beeld Joris Verdonkschot gestolen",
-      "plaatsNaam": "Arnhem",
-      "lat": 51.98,
-      "lon": 5.89,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "23-03-2007",
-      "link": "images/2007/amsterdam_noort/amsterdam_noort.htm",
-      "titel": "3 schilderijen van AC van Noort",
-      "plaatsNaam": "Amsterdam",
-      "lat": 51.43,
-      "lon": 5.62,
-      "fromWho": "kunsthandel"
-    },
-    {
-      "datumString": "21-03-2007",
-      "link": "teruggevonden/hhw07/hhw.htm",
-      "titel": "Recherche heeft bronzen hond aangetroffen en zoekt eigenaar\n[ gevonden 23/03/07] Eigenaar gevonden !",
-      "plaatsNaam": "Heerhugowaard",
-      "fromWho": "inmiddels opgelost!"
-    },
-    {
-      "datumString": "07-02-2007",
-      "link": "images/2007/sgravenhage/sgravenhage.htm",
-      "titel": "5 schilderijen gestolen",
-      "plaatsNaam": "'s Gravenhage",
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "18-01-2007",
-      "link": "teruggevonden/gooi_en_vechtstreek/gooienvechtstreek.htm",
-      "titel": "Recherche heeft beelden gevonden bij verdachte  . Klik hier voor meer info!",
-      "plaatsNaam": "Gooi en Vechtstreek",
-      "lat": 52.20,
-      "lon": 5.21,
-      "fromWho": "eigenaar gezocht!"
-    },
-    {
-      "datumString": "15-01-2007",
-      "link": "images/2007/hazelaar/hazelaar.htm",
-      "titel": "4 bronzen beelden gestolen",
-      "plaatsNaam": "Soest",
-      "lat": 52.16,
-      "lon": 5.30,
-      "fromWho": "Beeldentuin/galerie"
-    },
-    {
-      "datumString": "13-01-2007",
-      "link": "images/2007/putte-stabroek/putte_stabroek.htm",
-      "titel": "1 bronzen beeld van Hans Hermes",
-      "plaatsNaam": "Putte-Stabroek",
-      "lat": 51.35,
-      "lon": 4.39,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "12-01-2007",
-      "link": "images/2007/maarssen/maarssen_beeldentuin.htm",
-      "titel": "8 bronzen beelden gestolen uit beeldentuin",
-      "plaatsNaam": "Maarssen",
-      "fromWho": "beeldentuin"
-    },
-    {
-      "datumString": "12-01-2007",
-      "link": "images/2007/huizen/huizen_gemeente.htm",
-      "titel": "5 bronzen beelden gestolen",
-      "plaatsNaam": "Huizen",
-      "lat": 52.29,
-      "lon": 5.23,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "08-01-2007",
-      "link": "images/2007/Maastricht_laar/maastricht_laar.htm",
-      "titel": "bronzen beeld gestolen van Ronald van Laar",
-      "plaatsNaam": "Maastricht",
-      "lat": 50.85,
-      "lon": 5.69,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "07-01-2007",
-      "link": "images/2007/bilthoven/bilthoven_v.htm",
-      "titel": "4 Bronzen beelden van Carla Wiersma en 1 van Rijkel \r\n  Dijkstra",
-      "plaatsNaam": "Bilthoven",
-      "lat": 52.13,
-      "lon": 5.21,
-      "fromWho": "beeldentuin"
-    },
-    {
-      "datumString": "07-01-2007",
-      "link": "images/2007/sypesteyn/sypesteyn.htm",
-      "titel": "Bronzen beeld van Leontine Sies bij kasteel museum \r\n Sypesteyn gestolen",
-      "plaatsNaam": "Loosdrecht",
-      "lat": 52.19,
-      "lon": 5.09,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "07-01-2007",
-      "link": "images/2007/hulzen/hulzen.htm",
-      "titel": "3 bronzen beelden van Gerard van Hulzen gestolen",
-      "plaatsNaam": "Uithoorn",
-      "lat": 52.24,
-      "lon": 4.83,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "07-01-2007",
-      "link": "images/2007/huizen_limieten/huizen_limieten.htm",
-      "titel": "6 loden beelden en 2 vazen",
-      "plaatsNaam": "Huizen",
-      "lat": 52.29,
-      "lon": 5.24,
-      "fromWho": "kwekerij"
-    },
-    {
-      "datumString": "04-01-2007",
-      "link": "images/2007/elburg/elburg_galerie.htm",
-      "titel": "11 Bronzen beelden gestolen",
-      "plaatsNaam": "Elburg",
-      "lat": 52.44,
-      "lon": 5.83,
-      "fromWho": "galerie"
-    },
-    {
-      "datumString": "03-01-2007",
-      "link": "images/2007/hasselt/schildwacht_hasselt.htm",
-      "titel": "Bronzen beeld \"schildwacht\"van Cees Willemsen gestolen",
-      "plaatsNaam": "Hasselt",
-      "lat": 50.93,
-      "lon": 5.32,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "29-12-2006",
-      "link": "images/2006/woerden/woerden.htm",
-      "titel": "Bronzen beeld van Marie Jose Wessels gestolen",
-      "plaatsNaam": "Woerden",
-      "fromWho": "ziekenhuis"
-    },
-    {
-      "datumString": "25-12-2006",
-      "link": "images/2006/amsterdam_slotervaart/sheils.htm",
-      "titel": "10 schilderijen van James Sheils gestolen",
-      "plaatsNaam": "Amsterdam",
-      "lat": 51.43,
-      "lon": 5.62,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "24-12-2006",
-      "link": "images/2006/recr_klepperstee_ouddorp/klepperstee_ouddorp.htm",
-      "titel": "Bronzen beeld van Iris \n\n\n\u00a0le R\u00fctte",
-      "plaatsNaam": "Ouddorp",
-      "lat": 51.90,
-      "lon": 3.93,
-      "fromWho": "recr.park"
-    },
-    {
-      "datumString": "17-12-2006",
-      "link": "images/2007/erichem/krol.htm",
-      "titel": "2 bronzen beelden gestolen van Lia Krol",
-      "plaatsNaam": "Erichem",
-      "lat": 51.90,
-      "lon": 5.34,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "30-11-2006",
-      "link": "images/2006/someren/someren.htm",
-      "titel": "Bronzen beeld van Jac van Someren gestolen",
-      "plaatsNaam": "Best",
-      "lat": 51.50,
-      "lon": 5.39,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "04-11-2006",
-      "link": "images/2006/sliedrecht/sliedrecht_jitsbakker.htm",
-      "titel": "Bronzen beeld van Jits Bakker gestolen",
-      "plaatsNaam": "Sliedrecht",
-      "lat": 51.82,
-      "lon": 4.77,
-      "fromWho": "Gemeente"
-    },
-    {
-      "datumString": "12-11-2006",
-      "link": "images/2006/blank/blank_2006.htm",
-      "titel": "Bronzen beeld van Hans Blank, unicum",
-      "plaatsNaam": "Den Haag",
-      "fromWho": "galerie"
-    },
-    {
-      "datumString": "28-10-2006",
-      "link": "images/2006/kemps_eindhoven/kemps_eindhoven.htm",
-      "titel": "Bronzen beeld van Jannelies Raaijmakers",
-      "plaatsNaam": "Eindhoven",
-      "lat": 51.44,
-      "lon": 5.46,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "26-10-2006",
-      "link": "images/2006/schoorl/begraafplaats_diels.htm",
-      "titel": "2 Grafmonumenten gestolen, brons en koper",
-      "plaatsNaam": "Schoorl",
-      "lat": 52.70,
-      "lon": 4.70,
-      "fromWho": "begraafplaats"
-    },
-    {
-      "datumString": "08-10-2006",
-      "link": "images/2006/bloemendaal/bloemendaal.htm",
-      "titel": "Bronzen gans gestolen",
-      "plaatsNaam": "Bloemendaal",
-      "lat": 52.40,
-      "lon": 4.61,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "09-10-2006",
-      "link": "images/2010/zwolle/zwolle_leeser.htm",
-      "titel": "Bronzen beeld van kunstenaar Titus Leeser gestolen",
-      "plaatsNaam": "Zwolle",
-      "lat": 52.51,
-      "lon": 6.08,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "06-10-2006",
-      "link": "images/2006/vinkeveen/vinkeveen_jozefschool.htm",
-      "titel": "Bronzen beeld gestolen Jozefschool",
-      "plaatsNaam": "Vinkeveen",
-      "lat": 52.21,
-      "lon": 4.93,
-      "fromWho": "school"
-    },
-    {
-      "datumString": "21-09-2006",
-      "link": "images/2006/gemeente_bergen/gemeente_bergen.htm",
-      "titel": "Bronzen beeld, gemaakt door Ellen de Groot. \n\r\n  Teruggevonden 1 febr 2007 !!",
-      "plaatsNaam": "Bergen NH",
-      "lat": 52.67,
-      "lon": 4.70,
-      "fromWho": "Gemeente Bergen"
-    },
-    {
-      "datumString": "15-09-2006",
-      "link": "images/2006/alphen_ad_rijn/alphenadrijn.htm",
-      "titel": "Bronzen beeld gestolen, kunstenaar \n\n\n\nNelson Caririlho",
-      "plaatsNaam": "Alphen a/d Rijn",
-      "fromWho": "Particulier"
-    },
-    {
-      "datumString": "08-09-2006",
-      "link": "images/2006/Nieuwegein/nieuwegein.htm",
-      "titel": "bronzen ooievaar gestolen",
-      "plaatsNaam": "Nieuwegein",
-      "lat": 52.02,
-      "lon": 5.08,
-      "fromWho": "bedrijf"
-    },
-    {
-      "datumString": "01-08-2006",
-      "link": "images/2006/alkmaar_lange/lange.htm",
-      "titel": "sieraden gestolen van edelsmid Marc Lange",
-      "plaatsNaam": "Alkmaar",
-      "lat": 52.63,
-      "lon": 4.75,
-      "fromWho": "Edelsmid"
-    },
-    {
-      "datumString": "01-08-2006",
-      "link": "images/2006/janneman/janneman.htm",
-      "titel": "Sieraden van Ron en Mildred Janneman",
-      "plaatsNaam": "Callantsoog e.o",
-      "lat": 52.83,
-      "lon": 4.69,
-      "fromWho": "kunstenaar / galerie"
-    },
-    {
-      "datumString": "02-07-2006",
-      "link": "images/2006/schoffelen/schoffelen.htm",
-      "titel": "Bronzen beeld van 450 kg gestolen van Sjra Schoffelen",
-      "plaatsNaam": "Sittard",
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "02-07-2006",
-      "link": "images/2006/keuenhof_ede/keuenhof.htm",
-      "titel": "12 bronzen beelden van Jissy Keuenhof\n\nInmiddels 8 beelden \r\n    teruggevonden !\nklik hier",
-      "plaatsNaam": "Ede",
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "10-05-2006",
-      "link": "images/2006/rucphen/rucphen.htm",
-      "titel": "24 bronzen beelden gestolen \r\n  waarvan 11 van Lia Krol / Jaap Paasman en 4 van Fransje Povel",
-      "plaatsNaam": "Rucphen",
-      "lat": 51.53,
-      "lon": 4.55,
-      "fromWho": "galerie"
-    },
-    {
-      "datumString": "11-05-2006",
-      "link": "images/2006/lemberger_amsterdam/lemberger.htm",
-      "titel": "2 schilderijen en veel \r\n zilverwerk",
-      "plaatsNaam": "Amstedam",
-      "lat": 51.43,
-      "lon": 5.62,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "01-03-2006",
-      "link": "images/2006/bronckhorst/bronckhorst.htm",
-      "titel": "Caarte van de Groote Emmer anno 1727",
-      "plaatsNaam": "Bronckhorst",
-      "lat": 52.30,
-      "lon": 6.18,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "06-01-2006",
-      "link": "images/2006/arnhem_peja/peja.htm",
-      "titel": "Bronzen beeld gestolen bij Peja",
-      "plaatsNaam": "Arnhem",
-      "fromWho": "bedrijf"
-    },
-    {
-      "datumString": "08-11-2005",
-      "link": "images/2005/klomp/klomp.htm",
-      "titel": "2 bronzen beelden",
-      "plaatsNaam": "Schiedam",
-      "lat": 51.91,
-      "lon": 4.39,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "20-10-2005",
-      "link": "images/2005/kalverda/kalverda.htm",
-      "titel": "2 beelden van Alie Kalverda",
-      "plaatsNaam": "Aardenburg",
-      "lat": 51.27,
-      "lon": 3.44,
-      "fromWho": "galerie"
-    },
-    {
-      "datumString": "15-10-2005",
-      "link": "images/2005/schellekens/schellekens.htm",
-      "titel": "2 beelden gestolen van Loes Schellekens",
-      "plaatsNaam": "'s-Gravenhage",
-      "fromWho": "galerie"
-    },
-    {
-      "datumString": "04-09-2005",
-      "link": "images/2005/beeldhouwwinkel/beeldhouwwinkel.htm",
-      "titel": "3 beelden",
-      "plaatsNaam": "Amsterdam",
-      "lat": 51.43,
-      "lon": 5.62,
-      "fromWho": "Beeldhouwwinkel"
-    },
-    {
-      "datumString": "20-08-2005",
-      "link": "images/2005/huisman/huisman.htm",
-      "titel": "1 afrikaans beeld",
-      "plaatsNaam": "Oosterhout",
-      "lat": 51.64,
-      "lon": 4.85,
-    "fromWho": "particulier"
-    },
-    {
-      "datumString": "13-08-2005",
-      "link": "images/2005/lith/lith.htm",
-      "titel": "5\u00a0bronzen portretten, 1\u00a0abstract van brons en 2\u00a0stenen \r\n    beelden.",
-      "plaatsNaam": "Flevoland",
-      "lat": 52.30,
-      "lon": 5.35,
-      "fromWho": "kunstenaar Nel van Lith"
-    },
-    {
-      "datumString": "02-08-2005",
-      "link": "images/2005/bergen/bergen_onna.htm",
-      "titel": "Bronzen beeld van Jos van Onna",
-      "plaatsNaam": "Bergen",
-      "fromWho": "Automuseum"
-    },
-    {
-      "datumString": "01-07-2005",
-      "link": "images/2005/emst_remeeus/emst.htm",
-      "titel": "schilderij gestolen uit galerie",
-      "plaatsNaam": "Emst",
-      "lat": 52.31,
-      "lon": 5.97,
-      "fromWho": "Joost Remeeus"
-    },
-    {
-      "datumString": "12-07-2005",
-      "link": "images/2005/water/water.htm",
-      "titel": "1 beeld gestolen",
-      "plaatsNaam": "Nijmegen",
-      "lat": 51.81,
-      "lon": 5.82,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "04-06-2005",
-      "link": "images/2005/maastricht_drielsma/maastricht_drielsma.htm",
-      "titel": "bronzen beeld gestolen van Appie Drielsma",
-      "plaatsNaam": "Maastricht",
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "17-04-2005",
-      "link": "images/2005/bosch/bosch.htm",
-      "titel": "1 bronzen beeld van Dineke Peereboom en glas/brons van \r\n Jelle Leek",
-      "plaatsNaam": "Enschede",
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "04-02-2005",
-      "link": "images/2005/fransen/fransen.htm",
-      "titel": "13 schilderijen - \n\r\n  inmiddels terug!",
-      "plaatsNaam": "Eindhoven",
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "13-12-2004",
-      "link": "images/vaart/vaart.htm",
-      "titel": "1 schilderij uit 1520 en div.",
-      "plaatsNaam": "Nijmegen",
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "22-11-2004",
-      "link": "images/2005/lammertink/lammertink.htm",
-      "titel": "div. beelden gestolen uit tuincentrum",
-      "plaatsNaam": "Ede",
-      "fromWho": "galerie"
-    },
-    {
-      "datumString": "01-11-2004",
-      "link": "images/brocke/brocke.htm",
-      "titel": "6 schildederijen in acryl en 7 panelen van Fred Brocke",
-      "plaatsNaam": "Heerhugowaard",
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "23-10-2004",
-      "link": "images/wood/wood.htm",
-      "titel": "Bronzen beeld van Annet Wood",
-      "plaatsNaam": "Bergen",
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "11-09-2004",
-      "link": "images/2005/klijzing/klijzing.htm",
-      "titel": "Bronzen beeld gestolen van Ellen Klijzing, uit galerie \r\n te A'dam",
-      "plaatsNaam": "Amsterdam",
-      "lat": 51.43,
-      "lon": 5.62,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "19-08-2004",
-      "link": "images/metalart/ponsioen.htm",
-      "titel": "zirkonium ring met diamanten",
-      "plaatsNaam": "Alkmaar",
-      "lat": 52.63,
-      "lon": 4.75,
-    "fromWho": "edelsmid Mireille Ponsioen"
-    },
-    {
-      "datumString": "21-08-2004",
-      "link": "images/harderwijk/harderwijk.htm",
-      "titel": "Hardstenen beeld gestolen uit modeltuin",
-      "plaatsNaam": "Veluwe",
-      "lat": 52.90,
-      "lon": 5.53,
-      "fromWho": "kunstenaar"
-    },
-    {
-      "datumString": "17-08-2004",
-      "link": "images/gulpen/gulpen.htm",
-      "titel": "Beeld van keramiek van L\u00e8on Sporck",
-      "plaatsNaam": "Gem.Gulpen-Wittem",
-      "lat": 50.49,
-      "lon": 5.54,
-      "fromWho": "galerie"
-    },
-    {
-      "datumString": "02-08-2004",
-      "link": "images/limburg/limburg.htm",
-      "titel": "2 bronzen beelden uit tuin",
-      "plaatsNaam": "zuid limburg",
-      "lat": 50.79,
-      "lon": 5.95,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "12-08-2004",
-      "link": "images/landgraaf/landgraaf.htm",
-      "titel": "1 bronzen beeld van Franco Adami",
-      "plaatsNaam": "Laren",
-      "fromWho": "Galerie Bianca Landgraaf"
-    },
-    {
-      "datumString": "02-06-2004",
-      "link": "images/pijnappel.htm",
-      "titel": "1 bronzen beeld [ paard ] gestolen tijdens expo bij \r\n  restaurant",
-      "plaatsNaam": "Wassenaar",
-      "lat": 52.140,
-      "lon": 4.39,
-      "fromWho": "Barbara Pijnappel"
-    },
-    {
-      "datumString": "1 juni 2004",
-      "link": "images/termaat/termaat.htm",
-      "titel": "1 vaas van Han Boerrigter [keramiek]",
-      "plaatsNaam": "Zelhem",
-      "lat": 52.00,
-      "lon": 6.34,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "31 mei 2004",
-      "link": "images/vries/vries.htm",
-      "titel": "2 bronzen beelden uit beeldentuin bij JC Lont \r\n  [droogbloemenboerderij] \n\r\n  Inmiddels teruggevonden!!",
-      "plaatsNaam": "Oude Niedorp",
-      "lat": 52.71,
-      "lon": 4.87,
-      "fromWho": "Greetje de Vries"
-    },
-    {
-      "datumString": "maart 2004",
-      "link": "images/hartigh/hartigh.htm",
-      "titel": "41 schilderijen, \r\n\tteruggevonden in 2014",
-      "plaatsNaam": "Zaandijk",
-      "lat": 52.47,
-      "lon": 4.80,
-      "fromWho": "particulier /\u00a0 verzamelaar"
-    },
-    {
-      "datumString": "17-03-2004",
-      "link": "images/hengelo/hengelo.htm",
-      "titel": "2 bronzen beelden uit beeldentuin",
-      "plaatsNaam": "Hengelo",
-      "lat": 52.25,
-      "lon": 6.79,
-      "fromWho": "Wim van Oostrom"
-    },
-    {
-      "datumString": "17-02-2004",
-      "link": "images/nijmegen/teunen/teunen.htm",
-      "titel": "1 bronzen beeld uit voortuin",
-      "plaatsNaam": "Nijmegen",
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "10-02-2004",
-      "link": "images/nijmegen/nijmegen.htm",
-      "titel": "5 schilderijen",
-      "plaatsNaam": "Nijmegen",
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "06-01-2004",
-      "link": "images/hollants/hollants_carla.htm",
-      "titel": "1 keramiek object gestolen bij droogboerderij JC Lont",
-      "plaatsNaam": "Oude Niedorp",
-      "fromWho": "Carla Hollants"
-    },
-    {
-      "datumString": "05-01-2004",
-      "link": "images/laren/laren_gils.htm",
-      "titel": "2 schilderijen uit woonhuis",
-      "plaatsNaam": "Laren",
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "16-12-2003",
-      "link": "images/2003/smakt/smakt.htm",
-      "titel": "2 schilderijen gestolen uit kapel",
-      "plaatsNaam": "Smakt",
-      "lat": 51.56,
-      "lon": 6.00,
-      "fromWho": "St. Jozefkapel"
-    },
-    {
-      "datumString": "01-12-2003",
-      "link": "images/koopman/koopman.htm",
-      "titel": "2 beelden van keramiek",
-      "plaatsNaam": "Oude Niedorp",
-      "fromWho": "Joop Koopman"
-    },
-    {
-      "datumString": "29-11-2003",
-      "link": "images/voorschoten/voorschoten.htm",
-      "titel": "grote hoeveelheid schilderijen, glas, bronzen beelden \r\n  en keramiek",
-      "plaatsNaam": "Voorschoten",
-      "lat": 52.12,
-      "lon": 4.44,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "19-11-2003",
-      "link": "images/hagen/hagen.htm",
-      "titel": "3 bronzen beelden",
-      "plaatsNaam": "Delden",
-      "lat": 52.26,
-      "lon": 6.70,
-      "fromWho": "Jeanette Hagen"
-    },
-    {
-      "datumString": "30-10-2003",
-      "link": "images/bakker/gestolen%20kunst%20Jits%20Bakker.htm",
-      "titel": "2 bronzen beelden uit beeldentuin",
-      "plaatsNaam": "de Bilt",
-      "lat": 52.10,
-      "lon": 5.17,
-      "fromWho": "Jits Bakker"
-    },
-    {
-      "datumString": "10-09-2003",
-      "link": "images/bliekendaal/bliekendaal.htm",
-      "titel": "1 beeld uit tuin",
-      "plaatsNaam": "de Bilt",
-      "lat": 52.10,
-      "lon": 5.17,
-      "fromWho": "Henk Bliekendaal"
-    },
-    {
-      "datumString": "15-07-2003",
-      "link": "images/2003/utrecht/utrecht.htm",
-      "titel": "3 schilderijen gestolen",
-      "plaatsNaam": "Utrecht",
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "30-06-2003",
-      "link": "images/davina/davina.htm",
-      "titel": "8 beelden,tijdens expositie gestolen",
-      "plaatsNaam": "Enschede",
-      "fromWho": "Lenie Davina Oude Vrielink"
-    },
-    {
-      "datumString": "29-05-2003",
-      "link": "images/janneman/janneman.htm",
-      "titel": "1 zilveren armband gestolen bij galerie",
-      "plaatsNaam": "Graft -de Rijp",
-      "lat": 52.55,
-      "lon": 4.84,
-      "fromWho": "Ron en Mildred Janneman"
-    },
-    {
-      "datumString": "25-05-2003",
-      "link": "images/dijk/dijk.htm",
-      "titel": "1 beeld, marmer, uit voortuin gestolen",
-      "plaatsNaam": "Zeist",
-      "lat": 52.09,
-      "lon": 5.23,
-      "fromWho": "Greet van Dijk"
-    },
-    {
-      "datumString": "24-04-2003",
-      "link": "images/clarissenbolwerk/havermans.htm",
-      "titel": "1 beeld van J.W. Havermans gestolen uit wijk",
-      "plaatsNaam": "Alkmaar",
-      "lat": 52.63,
-      "lon": 4.75,
-      "fromWho": "gemeente Alkmaar"
-    },
-    {
-      "datumString": "13-03-2003",
-      "link": "images/appelhof/appelhof.htm",
-      "titel": "2 bronzen beelden uit tuin gestolen",
-      "plaatsNaam": "Schoonebeek",
-      "lat": 52.66,
-      "lon": 6.88,
-      "fromWho": "Marian Appelhof"
-    },
-    {
-      "datumString": "03-02-2003",
-      "link": "images/blank/blank.htm",
-      "titel": "2 bronzen beelden tijdens expo bij gemeentehuis \r\n  gestolen [ geen foto]",
-      "plaatsNaam": "Midwoud",
-      "lat": 52.71,
-      "lon": 5.06,
-      "fromWho": "Hans Blank"
-    },
-    {
-      "datumString": "07-01-2003",
-      "link": "images/dussen/dussen.htm",
-      "titel": "3 beelden in aluminiumcement gestolen tijdens expo bij \r\n Intra",
-      "plaatsNaam": "Alkmaar",
-      "lat": 52.63,
-      "lon": 4.75,
-      "fromWho": "Ellen van der Dussen"
-    },
-    {
-      "datumString": "06-01-2003",
-      "link": "images/bakker/gestolen%20kunst%20Jits%20Bakker.htm",
-      "titel": "1 bronzen beeld uit beeldentuin gestolen",
-      "plaatsNaam": "de Bilt",
-      "lat": 52.10,
-      "lon": 5.17,
-      "fromWho": "Jits Bakker"
-    },
-    {
-      "datumString": "04-01-2003",
-      "link": "images/rijs/rijs.htm",
-      "titel": "1 object in keramiek uit etalage gestolen",
-      "plaatsNaam": "Alkmaar",
-      "lat": 52.36,
-      "lon": 6.66,
-      "fromWho": "Marly Rijs"
-    },
-    {
-      "datumString": "04-01-2003",
-      "link": "images/janssen",
-      "titel": "3 beelden in keramiek uit etalage gestolen",
-      "plaatsNaam": "Alkmaar",
-      "lat": 52.63,
-      "lon": 4.75,
-      "fromWho": "Marij Janssen"
-    },
-    {
-      "datumString": "06-12-2002",
-      "link": "images/bakker/gestolen%20kunst%20Jits%20Bakker.htm",
-      "titel": "12 bronzen\u00a0 beelden uit beeldentuin [aan huis]\u00a0 \r\n    gestolen",
-      "plaatsNaam": "de Bilt",
-      "lat": 52.10,
-      "lon": 5.17,
-      "fromWho": "Jits Bakker"
-    },
-    {
-      "datumString": "16-11-2002",
-      "link": "images/2002/nijssen/ouderamstel_nijssen.htm",
-      "titel": "Bronzen beeld van Rene Nijssen gestolen in \r\n gemeente Ouder Amstel",
-      "plaatsNaam": "Ouder Amstel",
-      "lat": 52.29,
-      "lon": 4.90,
-      "fromWho": "gemeente"
-    },
-    {
-      "datumString": "01-09-2002",
-      "link": "images/onna/onna.htm",
-      "titel": "1 bronzen beeld",
-      "plaatsNaam": "Alkmaar",
-      "fromWho": "Jos en Sylvia van Onna"
-    },
-    {
-      "datumString": "01-09-2002",
-      "link": "images/haring/haring.htm",
-      "titel": "2 grote schilderijen gestolen uit MCA",
-      "plaatsNaam": "Alkmaar",
-      "lat": 52.63,
-      "lon": 4.75,
-      "fromWho": "Kitty Haring"
-    },
-    {
-      "datumString": "08-07-2002",
-      "link": "images/dijk/dijk.htm",
-      "titel": "2 beelden",
-      "plaatsNaam": "Almelo",
-      "fromWho": "Greet van Dijk"
-    },
-    {
-      "datumString": "07-07-2002",
-      "link": "images/janneman/janneman.htm",
-      "titel": "Volledige collectie sieraden gestolen bij expo Audi \r\n  garage",
-      "plaatsNaam": "Amsterdam",
-      "lat": 51.43,
-      "lon": 5.62,
-      "fromWho": "Ron en Milred Janneman"
-    },
-    {
-      "datumString": "09-10-2001",
-      "link": "images/hessels/hessels.htm",
-      "titel": "3 schilderijen tijdens expo galerie Marianne Fakkers",
-      "plaatsNaam": "Alkmaar",
-      "lat": 52.63,
-      "lon": 4.75,
-      "fromWho": "Marijke Hessels"
-    },
-    {
-      "datumString": "01-07-2001",
-      "link": "images/onna/onna.htm",
-      "titel": "2 bronzen beelden tijdens expo",
-      "plaatsNaam": "den Burg",
-      "lat": 53.05,
-      "lon": 4.80,
-      "fromWho": "Jos en Sylvia van Onna"
-    },
-    {
-      "datumString": "01-01-1998",
-      "link": "images/2012/culemborg/culemborg_1998.htm",
-      "titel": "2 schilderijen verdwenen van NM Peeters",
-      "plaatsNaam": "Soesterberg+Rotterdam",
-      "lat": 52.12,
-      "lon": 5.28,
-      "fromWho": "N.M. Peeters"
-    },
-    {
-      "datumString": "06-03-1998",
-      "link": "images/1998/mierlo/mierlo.htm",
-      "titel": "schilderij van Jan Korthals",
-      "plaatsNaam": "Mierlo",
-      "lat": 51.43,
-      "lon": 5.62,
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "01-01-1995",
-      "link": "images/oud/wigbold/wigbold.htm",
-      "titel": "4 eigengemaakte klokken en 1 ventilator met lamp",
-      "plaatsNaam": "Amsterdam",
-      "lat": 51.43,
-      "lon": 5.62,
-      "fromWho": "Herman Wigbold"
-    },
-    {
-      "datumString": "01-01-1992",
-      "link": "images/oud/nijmegen/nijmegen.htm",
-      "titel": "schilderij gestolen te nijmegen",
-      "plaatsNaam": "Nijmegen",
-      "fromWho": "particulier"
-    },
-    {
-      "datumString": "01-01-1983",
-      "link": "images/oud/amsterdam_ommen/amstedam_ommen.htm",
-      "titel": "bronzen beeld gestolen \u201cDe Denker\" van Julien Monier",
-      "plaatsNaam": "Amsterdam",
-      "lat": 51.43,
-      "lon": 5.62,
-      "fromWho": "directiekantoor"
-    }
+      },
+      {
+        "datumString": "13-08-2005",
+        "link": "images/2005/lith/lith.htm",
+        "titel": "5\u00a0bronzen portretten, 1\u00a0abstract van brons en 2\u00a0stenen \r\n    beelden.",
+        "plaatsNaam": "Flevoland",
+        "lat": 52.30,
+        "lon": 5.35,
+        "fromWho": "kunstenaar Nel van Lith"
+      },
+      {
+        "datumString": "02-08-2005",
+        "link": "images/2005/bergen/bergen_onna.htm",
+        "titel": "Bronzen beeld van Jos van Onna",
+        "plaatsNaam": "Bergen",
+        "fromWho": "Automuseum"
+      },
+      {
+        "datumString": "01-07-2005",
+        "link": "images/2005/emst_remeeus/emst.htm",
+        "titel": "schilderij gestolen uit galerie",
+        "plaatsNaam": "Emst",
+        "lat": 52.31,
+        "lon": 5.97,
+        "fromWho": "Joost Remeeus"
+      },
+      {
+        "datumString": "12-07-2005",
+        "link": "images/2005/water/water.htm",
+        "titel": "1 beeld gestolen",
+        "plaatsNaam": "Nijmegen",
+        "lat": 51.81,
+        "lon": 5.82,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "04-06-2005",
+        "link": "images/2005/maastricht_drielsma/maastricht_drielsma.htm",
+        "titel": "bronzen beeld gestolen van Appie Drielsma",
+        "plaatsNaam": "Maastricht",
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "17-04-2005",
+        "link": "images/2005/bosch/bosch.htm",
+        "titel": "1 bronzen beeld van Dineke Peereboom en glas/brons van \r\n Jelle Leek",
+        "plaatsNaam": "Enschede",
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "04-02-2005",
+        "link": "images/2005/fransen/fransen.htm",
+        "titel": "13 schilderijen - \n\r\n  inmiddels terug!",
+        "plaatsNaam": "Eindhoven",
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "13-12-2004",
+        "link": "images/vaart/vaart.htm",
+        "titel": "1 schilderij uit 1520 en div.",
+        "plaatsNaam": "Nijmegen",
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "22-11-2004",
+        "link": "images/2005/lammertink/lammertink.htm",
+        "titel": "div. beelden gestolen uit tuincentrum",
+        "plaatsNaam": "Ede",
+        "fromWho": "galerie"
+      },
+      {
+        "datumString": "01-11-2004",
+        "link": "images/brocke/brocke.htm",
+        "titel": "6 schildederijen in acryl en 7 panelen van Fred Brocke",
+        "plaatsNaam": "Heerhugowaard",
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "23-10-2004",
+        "link": "images/wood/wood.htm",
+        "titel": "Bronzen beeld van Annet Wood",
+        "plaatsNaam": "Bergen",
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "11-09-2004",
+        "link": "images/2005/klijzing/klijzing.htm",
+        "titel": "Bronzen beeld gestolen van Ellen Klijzing, uit galerie \r\n te A'dam",
+        "plaatsNaam": "Amsterdam",
+        "lat": 51.43,
+        "lon": 5.62,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "19-08-2004",
+        "link": "images/metalart/ponsioen.htm",
+        "titel": "zirkonium ring met diamanten",
+        "plaatsNaam": "Alkmaar",
+        "lat": 52.63,
+        "lon": 4.75,
+      "fromWho": "edelsmid Mireille Ponsioen"
+      },
+      {
+        "datumString": "21-08-2004",
+        "link": "images/harderwijk/harderwijk.htm",
+        "titel": "Hardstenen beeld gestolen uit modeltuin",
+        "plaatsNaam": "Veluwe",
+        "lat": 52.90,
+        "lon": 5.53,
+        "fromWho": "kunstenaar"
+      },
+      {
+        "datumString": "17-08-2004",
+        "link": "images/gulpen/gulpen.htm",
+        "titel": "Beeld van keramiek van L\u00e8on Sporck",
+        "plaatsNaam": "Gem.Gulpen-Wittem",
+        "lat": 50.49,
+        "lon": 5.54,
+        "fromWho": "galerie"
+      },
+      {
+        "datumString": "02-08-2004",
+        "link": "images/limburg/limburg.htm",
+        "titel": "2 bronzen beelden uit tuin",
+        "plaatsNaam": "zuid limburg",
+        "lat": 50.79,
+        "lon": 5.95,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "12-08-2004",
+        "link": "images/landgraaf/landgraaf.htm",
+        "titel": "1 bronzen beeld van Franco Adami",
+        "plaatsNaam": "Laren",
+        "fromWho": "Galerie Bianca Landgraaf"
+      },
+      {
+        "datumString": "02-06-2004",
+        "link": "images/pijnappel.htm",
+        "titel": "1 bronzen beeld [ paard ] gestolen tijdens expo bij \r\n  restaurant",
+        "plaatsNaam": "Wassenaar",
+        "lat": 52.140,
+        "lon": 4.39,
+        "fromWho": "Barbara Pijnappel"
+      },
+      {
+        "datumString": "1 juni 2004",
+        "link": "images/termaat/termaat.htm",
+        "titel": "1 vaas van Han Boerrigter [keramiek]",
+        "plaatsNaam": "Zelhem",
+        "lat": 52.00,
+        "lon": 6.34,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "31 mei 2004",
+        "link": "images/vries/vries.htm",
+        "titel": "2 bronzen beelden uit beeldentuin bij JC Lont \r\n  [droogbloemenboerderij] \n\r\n  Inmiddels teruggevonden!!",
+        "plaatsNaam": "Oude Niedorp",
+        "lat": 52.71,
+        "lon": 4.87,
+        "fromWho": "Greetje de Vries"
+      },
+      {
+        "datumString": "maart 2004",
+        "link": "images/hartigh/hartigh.htm",
+        "titel": "41 schilderijen, \r\n\tteruggevonden in 2014",
+        "plaatsNaam": "Zaandijk",
+        "lat": 52.47,
+        "lon": 4.80,
+        "fromWho": "particulier /\u00a0 verzamelaar"
+      },
+      {
+        "datumString": "17-03-2004",
+        "link": "images/hengelo/hengelo.htm",
+        "titel": "2 bronzen beelden uit beeldentuin",
+        "plaatsNaam": "Hengelo",
+        "lat": 52.25,
+        "lon": 6.79,
+        "fromWho": "Wim van Oostrom"
+      },
+      {
+        "datumString": "17-02-2004",
+        "link": "images/nijmegen/teunen/teunen.htm",
+        "titel": "1 bronzen beeld uit voortuin",
+        "plaatsNaam": "Nijmegen",
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "10-02-2004",
+        "link": "images/nijmegen/nijmegen.htm",
+        "titel": "5 schilderijen",
+        "plaatsNaam": "Nijmegen",
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "06-01-2004",
+        "link": "images/hollants/hollants_carla.htm",
+        "titel": "1 keramiek object gestolen bij droogboerderij JC Lont",
+        "plaatsNaam": "Oude Niedorp",
+        "fromWho": "Carla Hollants"
+      },
+      {
+        "datumString": "05-01-2004",
+        "link": "images/laren/laren_gils.htm",
+        "titel": "2 schilderijen uit woonhuis",
+        "plaatsNaam": "Laren",
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "16-12-2003",
+        "link": "images/2003/smakt/smakt.htm",
+        "titel": "2 schilderijen gestolen uit kapel",
+        "plaatsNaam": "Smakt",
+        "lat": 51.56,
+        "lon": 6.00,
+        "fromWho": "St. Jozefkapel"
+      },
+      {
+        "datumString": "01-12-2003",
+        "link": "images/koopman/koopman.htm",
+        "titel": "2 beelden van keramiek",
+        "plaatsNaam": "Oude Niedorp",
+        "fromWho": "Joop Koopman"
+      },
+      {
+        "datumString": "29-11-2003",
+        "link": "images/voorschoten/voorschoten.htm",
+        "titel": "grote hoeveelheid schilderijen, glas, bronzen beelden \r\n  en keramiek",
+        "plaatsNaam": "Voorschoten",
+        "lat": 52.12,
+        "lon": 4.44,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "19-11-2003",
+        "link": "images/hagen/hagen.htm",
+        "titel": "3 bronzen beelden",
+        "plaatsNaam": "Delden",
+        "lat": 52.26,
+        "lon": 6.70,
+        "fromWho": "Jeanette Hagen"
+      },
+      {
+        "datumString": "30-10-2003",
+        "link": "images/bakker/gestolen%20kunst%20Jits%20Bakker.htm",
+        "titel": "2 bronzen beelden uit beeldentuin",
+        "plaatsNaam": "de Bilt",
+        "lat": 52.10,
+        "lon": 5.17,
+        "fromWho": "Jits Bakker"
+      },
+      {
+        "datumString": "10-09-2003",
+        "link": "images/bliekendaal/bliekendaal.htm",
+        "titel": "1 beeld uit tuin",
+        "plaatsNaam": "de Bilt",
+        "lat": 52.10,
+        "lon": 5.17,
+        "fromWho": "Henk Bliekendaal"
+      },
+      {
+        "datumString": "15-07-2003",
+        "link": "images/2003/utrecht/utrecht.htm",
+        "titel": "3 schilderijen gestolen",
+        "plaatsNaam": "Utrecht",
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "30-06-2003",
+        "link": "images/davina/davina.htm",
+        "titel": "8 beelden,tijdens expositie gestolen",
+        "plaatsNaam": "Enschede",
+        "fromWho": "Lenie Davina Oude Vrielink"
+      },
+      {
+        "datumString": "29-05-2003",
+        "link": "images/janneman/janneman.htm",
+        "titel": "1 zilveren armband gestolen bij galerie",
+        "plaatsNaam": "Graft -de Rijp",
+        "lat": 52.55,
+        "lon": 4.84,
+        "fromWho": "Ron en Mildred Janneman"
+      },
+      {
+        "datumString": "25-05-2003",
+        "link": "images/dijk/dijk.htm",
+        "titel": "1 beeld, marmer, uit voortuin gestolen",
+        "plaatsNaam": "Zeist",
+        "lat": 52.09,
+        "lon": 5.23,
+        "fromWho": "Greet van Dijk"
+      },
+      {
+        "datumString": "24-04-2003",
+        "link": "images/clarissenbolwerk/havermans.htm",
+        "titel": "1 beeld van J.W. Havermans gestolen uit wijk",
+        "plaatsNaam": "Alkmaar",
+        "lat": 52.63,
+        "lon": 4.75,
+        "fromWho": "gemeente Alkmaar"
+      },
+      {
+        "datumString": "13-03-2003",
+        "link": "images/appelhof/appelhof.htm",
+        "titel": "2 bronzen beelden uit tuin gestolen",
+        "plaatsNaam": "Schoonebeek",
+        "lat": 52.66,
+        "lon": 6.88,
+        "fromWho": "Marian Appelhof"
+      },
+      {
+        "datumString": "03-02-2003",
+        "link": "images/blank/blank.htm",
+        "titel": "2 bronzen beelden tijdens expo bij gemeentehuis \r\n  gestolen [ geen foto]",
+        "plaatsNaam": "Midwoud",
+        "lat": 52.71,
+        "lon": 5.06,
+        "fromWho": "Hans Blank"
+      },
+      {
+        "datumString": "07-01-2003",
+        "link": "images/dussen/dussen.htm",
+        "titel": "3 beelden in aluminiumcement gestolen tijdens expo bij \r\n Intra",
+        "plaatsNaam": "Alkmaar",
+        "lat": 52.63,
+        "lon": 4.75,
+        "fromWho": "Ellen van der Dussen"
+      },
+      {
+        "datumString": "06-01-2003",
+        "link": "images/bakker/gestolen%20kunst%20Jits%20Bakker.htm",
+        "titel": "1 bronzen beeld uit beeldentuin gestolen",
+        "plaatsNaam": "de Bilt",
+        "lat": 52.10,
+        "lon": 5.17,
+        "fromWho": "Jits Bakker"
+      },
+      {
+        "datumString": "04-01-2003",
+        "link": "images/rijs/rijs.htm",
+        "titel": "1 object in keramiek uit etalage gestolen",
+        "plaatsNaam": "Alkmaar",
+        "lat": 52.36,
+        "lon": 6.66,
+        "fromWho": "Marly Rijs"
+      },
+      {
+        "datumString": "04-01-2003",
+        "link": "images/janssen",
+        "titel": "3 beelden in keramiek uit etalage gestolen",
+        "plaatsNaam": "Alkmaar",
+        "lat": 52.63,
+        "lon": 4.75,
+        "fromWho": "Marij Janssen"
+      },
+      {
+        "datumString": "06-12-2002",
+        "link": "images/bakker/gestolen%20kunst%20Jits%20Bakker.htm",
+        "titel": "12 bronzen\u00a0 beelden uit beeldentuin [aan huis]\u00a0 \r\n    gestolen",
+        "plaatsNaam": "de Bilt",
+        "lat": 52.10,
+        "lon": 5.17,
+        "fromWho": "Jits Bakker"
+      },
+      {
+        "datumString": "16-11-2002",
+        "link": "images/2002/nijssen/ouderamstel_nijssen.htm",
+        "titel": "Bronzen beeld van Rene Nijssen gestolen in \r\n gemeente Ouder Amstel",
+        "plaatsNaam": "Ouder Amstel",
+        "lat": 52.29,
+        "lon": 4.90,
+        "fromWho": "gemeente"
+      },
+      {
+        "datumString": "01-09-2002",
+        "link": "images/onna/onna.htm",
+        "titel": "1 bronzen beeld",
+        "plaatsNaam": "Alkmaar",
+        "fromWho": "Jos en Sylvia van Onna"
+      },
+      {
+        "datumString": "01-09-2002",
+        "link": "images/haring/haring.htm",
+        "titel": "2 grote schilderijen gestolen uit MCA",
+        "plaatsNaam": "Alkmaar",
+        "lat": 52.63,
+        "lon": 4.75,
+        "fromWho": "Kitty Haring"
+      },
+      {
+        "datumString": "08-07-2002",
+        "link": "images/dijk/dijk.htm",
+        "titel": "2 beelden",
+        "plaatsNaam": "Almelo",
+        "fromWho": "Greet van Dijk"
+      },
+      {
+        "datumString": "07-07-2002",
+        "link": "images/janneman/janneman.htm",
+        "titel": "Volledige collectie sieraden gestolen bij expo Audi \r\n  garage",
+        "plaatsNaam": "Amsterdam",
+        "lat": 51.43,
+        "lon": 5.62,
+        "fromWho": "Ron en Milred Janneman"
+      },
+      {
+        "datumString": "09-10-2001",
+        "link": "images/hessels/hessels.htm",
+        "titel": "3 schilderijen tijdens expo galerie Marianne Fakkers",
+        "plaatsNaam": "Alkmaar",
+        "lat": 52.63,
+        "lon": 4.75,
+        "fromWho": "Marijke Hessels"
+      },
+      {
+        "datumString": "01-07-2001",
+        "link": "images/onna/onna.htm",
+        "titel": "2 bronzen beelden tijdens expo",
+        "plaatsNaam": "den Burg",
+        "lat": 53.05,
+        "lon": 4.80,
+        "fromWho": "Jos en Sylvia van Onna"
+      },
+      {
+        "datumString": "01-01-1998",
+        "link": "images/2012/culemborg/culemborg_1998.htm",
+        "titel": "2 schilderijen verdwenen van NM Peeters",
+        "plaatsNaam": "Soesterberg+Rotterdam",
+        "lat": 52.12,
+        "lon": 5.28,
+        "fromWho": "N.M. Peeters"
+      },
+      {
+        "datumString": "06-03-1998",
+        "link": "images/1998/mierlo/mierlo.htm",
+        "titel": "schilderij van Jan Korthals",
+        "plaatsNaam": "Mierlo",
+        "lat": 51.43,
+        "lon": 5.62,
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "01-01-1995",
+        "link": "images/oud/wigbold/wigbold.htm",
+        "titel": "4 eigengemaakte klokken en 1 ventilator met lamp",
+        "plaatsNaam": "Amsterdam",
+        "lat": 51.43,
+        "lon": 5.62,
+        "fromWho": "Herman Wigbold"
+      },
+      {
+        "datumString": "01-01-1992",
+        "link": "images/oud/nijmegen/nijmegen.htm",
+        "titel": "schilderij gestolen te nijmegen",
+        "plaatsNaam": "Nijmegen",
+        "fromWho": "particulier"
+      },
+      {
+        "datumString": "01-01-1983",
+        "link": "images/oud/amsterdam_ommen/amstedam_ommen.htm",
+        "titel": "bronzen beeld gestolen \u201cDe Denker\" van Julien Monier",
+        "plaatsNaam": "Amsterdam",
+        "lat": 51.43,
+        "lon": 5.62,
+        "fromWho": "directiekantoor"
+      }
     ],
     "plaatsLijst": "Lijst van plaatsen in Nederland"
   }
