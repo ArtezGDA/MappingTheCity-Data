@@ -44,7 +44,7 @@ As source for the ElectionData-Scraper-Wikipedia we used Wikipedia
 - https://nl.wikipedia.org/wiki/Tweede_Kamerverkiezingen_ (2012, 2010..)  
 
 ##Scraper
-
+[ElectionDataScraper](elections scraper.py)
 
 ```
 from bs4 import BeautifulSoup
@@ -115,6 +115,7 @@ Top Level of this JSON is a number of votes, followed by the number of seats aft
 These are also the keys we used in the pythonfile.
 
 ##JSONFILE
+[JSONFile](Elections Data.json)
 
 
 ```
