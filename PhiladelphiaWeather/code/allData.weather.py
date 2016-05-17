@@ -21,6 +21,7 @@ for y in range(1941, 2017):
             soup = BeautifulSoup(r, "html.parser")
             tables = soup.find_all("table", class_="responsive airport-history-summary-table")
 
+            weatherPerMonth = {}
             weatherdata = []
             for table in tables: #reason for it to do it 12x
 
@@ -46,15 +47,15 @@ for y in range(1941, 2017):
                          scrapedData[firstTd.text] = values
                          weatherdata.append(scrapedData)
                          break
-                         monthData = {}
-                         monthData['month'] = m
-                         monthData['weather'] = weatherPerMonth
-                         months.append(monthData)
-            yearData['months'] = months
-            allData.append(yearData)
+            monthData = {}
+            monthData['month'] = m
+            monthData['weather'] = weatherPerMonth
+            months.append(monthData)
+        yearData['months'] = months
+        allData.append(yearData)
 
-            with open ("allData_philly.json", 'w' ) as outFile:
-                json.dump(allData, outFile, indent=2)
+        with open ("allData_philly.json", 'w' ) as outFile:
+            json.dump(allData, outFile, indent=2)
 
 
 print "done"
