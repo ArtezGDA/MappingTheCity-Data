@@ -53,7 +53,7 @@ for y in range(1941, 2017):
             yearData['months'] = months
             allData.append(yearData)
 
-            with open ("%d_%d.json", 'w' ) as outFile:
+            with open ("allData_philly.json", 'w' ) as outFile:
                 json.dump(allData, outFile, indent=2)
 
 
