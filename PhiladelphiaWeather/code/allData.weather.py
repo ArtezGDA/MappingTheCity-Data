@@ -4,25 +4,27 @@ from bs4 import BeautifulSoup
 import urllib
 import json
 
-allData = []
-# this loops through all the Weather years
-for y in range(1941, 2017):
-    yearData = {}
-    yearData['year'] = y
-    months = []
-    for m in range(1, 13):
-        def main():
-        # weatherData = weather_philadelphia_data #Json beginns here
-        # with open(jsonfile, 'w') as outputFile:
-        #     json.dump(weatherData, outputFile)
-        # scrapping beginns here
+def main():
+    allData = []
+    # this loops through all the Weather years
+    for y in range(1941, 2017):
+        yearData = {}
+        yearData['year'] = y
+        months = []
+        for m in range(1, 13):
+            # weatherData = weather_philadelphia_data #Json beginns here
+            # with open(jsonfile, 'w') as outputFile:
+            #     json.dump(weatherData, outputFile)
+            # scrapping beginns here
             url = "https://www.wunderground.com/history/airport/KPHL/%d/%d/1/MonthlyHistory.html" % (y, m)
             r = urllib.urlopen(url).read()
+        
+            print "scrape %s" % (url)
+        
             soup = BeautifulSoup(r, "html.parser")
             tables = soup.find_all("table", class_="responsive airport-history-summary-table")
 
             weatherPerMonth = {}
-            weatherdata = []
             for table in tables: #reason for it to do it 12x
 
                 for tr in table.find_all("tr"):
@@ -43,10 +45,8 @@ for y in range(1941, 2017):
                              sumVal = tds[4].find("span", class_="wx-value")
                              if sumVal:
                                  values['sum'] = sumVal.text
-                         scrapedData = {}
-                         scrapedData[firstTd.text] = values
-                         weatherdata.append(scrapedData)
-                         break
+                         weatherPerMonth[firstTd.text] = values
+                break
             monthData = {}
             monthData['month'] = m
             monthData['weather'] = weatherPerMonth
@@ -54,10 +54,9 @@ for y in range(1941, 2017):
         yearData['months'] = months
         allData.append(yearData)
 
-        with open ("allData_philly.json", 'w' ) as outFile:
-            json.dump(allData, outFile, indent=2)
+    with open ("allData_philly.json", 'w' ) as outFile:
+        json.dump(allData, outFile, indent=2)
 
-
-print "done"
 if __name__ == "__main__":
     main()
+    print "done"
