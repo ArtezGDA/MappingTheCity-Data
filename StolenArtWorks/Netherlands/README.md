@@ -1,5 +1,5 @@
 # STOLEN ARTWORKS
-Lydienne Albertoe and Esmee Ellson.
+Lydienne Albertoe, Esmee Ellson and Angela ten Hag.
 
 ## Data collection of stolen artworks in the Netherlands.
 
