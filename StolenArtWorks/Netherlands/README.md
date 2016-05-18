@@ -1,13 +1,13 @@
-# Stolen artworks
-Lydienne, Esmee and Angela
+# STOLEN ARTWORKS
+Lydienne Albertoe and Esmee Ellson.
 
-## Data collection of all the stolen artworks in the Netherlands.
+## Data collection of stolen artworks in the Netherlands.
 
 As source is the following url used:
 
 - http://www.gestolenkunst.nl/gestolen%20overzicht.htm
 
-In total the scraping script analyzed **143** stolen art works; found the date, place, from who, what and the images off the art works.
+In total the scraping script analyzed **143** stolen art works; found the date, link, title, place, from who, what and the images of the art works.
 
 Code source:
 
@@ -16,12 +16,12 @@ Code source:
 - http://codereview.stackexchange.com/questions/99300/scraping-a-table-from-texas-dept-of-criminal-justice-website
 - http://stackoverflow.com/questions/32343976/python-beautiful-soup-webscraping-pandas-dataframe
 - http://stackoverflow.com/questions/36424527/how-to-web-scrape-images-that-are-in-a-link-in-a-table
-
+- 
 ### Results
 
-The result of all the scraping is a map off Images called **`myimages`** and JSON file called **`stolen _artworks.json`**. [JSON file](stolen_artworks.json)
+The result of all the scraping is a map off Images called **`myimages`** and JSON file called **`stolen_artworks.json`**. [JSON file](stolen_artworks.json)
 
-###### The image map is a map with *stolen artworks images*. 
+###### myimage map is a map with *stolen artworks images*. 
 
 Not all images are placed in the map because some images have the same name that gives errors. 
 
@@ -32,17 +32,16 @@ For each stolen artwork there are the following keys:
 - `Date`: the date off each stolen artwork.
 - `Link`: the image link of off each stolen artwork.
 - `Title`: What kind of artwork and the name who has made it.
-	- `Extra information`: if it's found back, how much it's worth or if the offender is arrested.
+	- `Extra information`: if it's found back, how much it's worth or if the offender is arrestes.
 - `Place`: the place where it is stolen and in there:
-	- `m` the coordinate x.
-	- `m` the coordinate y.
+ 	- `lon`: the coordinate x.
+	- `lat`: the coordinate y.
 - `FromWho`: from the person or company that the artwork belongs too.
 
-Not all keys will be present for the Extra information.  
-`Extra information` can be an empty string or it stands after (`\r\n`) 
+Not all keys will be present for the Extra information.
+`Extra information` can be an empty string or it stands after (\r\n)
 
 Some of the `Date` are not complete, like only a year date.
-
 ### Process scraping
 
 [Image](Artnapping-image.py)
@@ -126,7 +125,7 @@ if __name__ == "__main__":
 
 Apeace Leaflet is released under the MIT license.
 
-Copyright © 2016 Lydienne Albertoe, Esmee Ellson and Angela ten Nag.
+Copyright © 2016 Lydienne Albertoe and Esmee Ellson.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

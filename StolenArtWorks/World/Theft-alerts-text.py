@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#Theft-alerts-text
 
 import urllib2
 from bs4 import BeautifulSoup
@@ -6,11 +7,12 @@ import json
 
 theftalerts = []
 for i in range(1, 19):
-
+	# change to whatever your url is
 	connection = urllib2.urlopen("http://www.theft-alerts.com/index-%d.html" % i)
 
 	soup = BeautifulSoup(connection.read().replace("<br>","\n"), "html.parser")
 
+	# for the categories we wanted out the text
 	for sp in soup.select("table div.itemspacingmodified"):
 		theftDict = {}
 		for wd in sp.select("div.itemindentmodified"):
@@ -64,6 +66,8 @@ for i in range(1, 19):
 				pass
 		theftalerts.append(theftDict)
 
+#Shows the results
 print len(theftalerts)
+#Makes a json file in your map
 with open("theft-alerts.json", 'w') as outFile:
 	json.dump(theftalerts, outFile, indent=2)
