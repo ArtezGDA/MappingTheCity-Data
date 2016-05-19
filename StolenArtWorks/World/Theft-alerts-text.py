@@ -60,6 +60,16 @@ for i in range(1, 19):
 				ref = ref.strip()
 				ref = ref.strip("\n")
 				theftDict['ID'] = ref
+			elif text.startswith("Item"):
+				ref = text.split(":")[1]
+				ref = ref.strip()
+				ref = ref.strip("\n")
+				theftDict['Item'] = ref
+			elif text.startswith("STOLEN :"):
+				ref = text.split(":")[1]
+				ref = ref.strip()
+				ref = ref.strip("\n")
+				theftDict['STOLEN :'] = ref
 			else:
 				print text
 			if not text.startswith("Images :"):
