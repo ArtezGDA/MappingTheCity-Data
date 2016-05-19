@@ -34,7 +34,7 @@ y = 500
 for hour in HourOccurenceAndTheirCount:
     fontsize(5)
     text(hour['name'], x, y)
-    barHeight = 300 * hour['count'] / 220
+    barHeight = 300 * hour['count'] / 250
     rect(x, y - 20, 10, -barHeight)
     x = x + 20
     rect(x-20, y -20, 20, 1)
