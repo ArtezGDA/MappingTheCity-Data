@@ -19,10 +19,11 @@ def get_pages(start):
                 break
             yield [img["src"] for img in soup.select("div.itemspacingmodified a img")]
 # change to whatever your url is
-url = "http://www.theft-alerts.com/"
+url = ("http://www.theft-alerts.com/")
 #Shows the names link of the images
 for images in get_pages(url):
     print(images)
+images = img
 #Placed al the images in the map myImages
 with open("myimages/{}".format(img), "w") as f:
     f.write(urllib2.urlopen("{}/{}".format(url.rsplit("/", 1)[0], img)).read())

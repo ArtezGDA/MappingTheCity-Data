@@ -1,1927 +1,2304 @@
 [
   {
+    "stolen_artworks": "Nederland",
+    "plaats": [
+      {
     "Category": "GARDEN", 
+    "STOLEN": "CAST IRON GARDEN BENCH", 
     "nItemsStolen": "1", 
     "CrimeRef": "163-S-290416", 
-    "Item": "Four seater ornate, cast iron garden bench.", 
-    "Location": "UK > Shropshire", 
-    "ID": "94809", 
-    "STOLEN :": "CAST IRON GARDEN BENCH"
+    "Location": "UK > Shropshire > Latitude: 52.706366, Longitude: -2.741785", 
+    "Lat":52.706366,
+    "Lon":-2.741785,
+    "ID": "94809"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "CHERUB IN MARBLE, PART OF A FOUNTAIN", 
     "nItemsStolen": "1", 
     "CrimeRef": "ZY - 4370 - 16", 
-    "Item": "A copy of Verrocchio's cupid - winged cherub standing on one leg holding a dolphin - in white marble which formed the top part of a fountain. approximately 3 foot high. Item has discoloured due to weathering with some lichen growth.", 
-    "Location": "UK > Kent", 
-    "ID": "93578", 
-    "STOLEN :": "CHERUB IN MARBLE, PART OF A FOUNTAIN"
+    "Location": "UK > Kent",
+    "Lat":51.278708,
+    "Lon":-0.521725, 
+    "ID": "93578"
   }, 
   {
     "Category": "FLAGSTONES & FLOOR TILES", 
+    "STOLEN": "OVER 70 ANTIQUE YORK STONE PAVING SLABS", 
     "nItemsStolen": "70", 
     "CrimeRef": "47150140173", 
-    "Item": "Antique York Stone paving slabs stolen from historic landscaped garden overnight. Truck driven through electric gates to gain access.", 
-    "Location": "UK > West Sussex", 
-    "ID": "92311", 
-    "STOLEN :": "OVER 70 ANTIQUE YORK STONE PAVING SLABS"
+    "Location": "UK > West Sussex",
+    "Lat":50.928014,
+    "Lon":-0.461707, 
+    "ID": "92311"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "GARDEN STATUE OF BOY", 
     "nItemsStolen": "2", 
     "CrimeRef": "22FJ59981W15", 
-    "Item": "Small lead,(I think ! ),statue of a boy standing on a stone plinth", 
-    "Location": "UK > Shropshire", 
-    "ID": "91278", 
-    "STOLEN :": "GARDEN STATUE OF BOY"
+    "Location": "UK > Shropshire",
+    "Lat":52.706366,
+    "Lon":-2.741785, 
+    "ID": "91278"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "RED STANDSTONE BIRDBATH", 
     "nItemsStolen": "1", 
     "CrimeRef": "4315016713", 
-    "Item": "A red sandstone bird bath with applied bronze decoration and a central bronze figure of a young girl on a dolphin by Richard Garbe\r\nOverall height 4'3\" (129.5 cm), Figure height 1' 3\" (38 cm)\r\nSquare at bowl 1'3\" (38 cm) Square at base 1'4\" (40.4 cm)", 
     "Location": "UK > Oxfordshire", 
-    "ID": "89824", 
-    "STOLEN :": "RED STANDSTONE BIRDBATH"
+    "Lat":51.761206,
+    "Lon":-1.246467,
+    "ID": "89824"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "STONE SCULPTURE - STATUE IS OF A PROPHET", 
     "nItemsStolen": "1", 
     "CrimeRef": "3046515", 
-    "Item": "Statue is of a Prophet\r\n5ft tall, this has been sympathetically restored by stonemason using a local stone which is very similar to the original stone.\r\n\u0095The statue is 63\" tall and weighs around \u00bd ton", 
-    "Location": "UK > Leicestershire", 
-    "ID": "89030", 
-    "STOLEN :": "STONE SCULPTURE - STATUE IS OF A PROPHET"
+    "Location": "UK > Leicestershire",
+    "Lat":52.772571,
+    "Lon":-1.205213, 
+    "ID": "89030"
   }, 
   {
     "Category": "FURNITURE & MIRRORS", 
+    "STOLEN": "WOOL CARPET/RUG IN VARIOUS COLOURS GEOMETRIC DESIGN", 
     "nItemsStolen": "1", 
     "CrimeRef": "6518176/15", 
-    "Item": "A knotted wool rug or carpet, approx 118 by 76 inches, with a geometric design in light and dark brown, cream, pink and black.", 
-    "Location": "UK > London North West", 
-    "ID": "88924", 
-    "STOLEN :": "WOOL CARPET/RUG IN VARIOUS COLOURS GEOMETRIC DESIGN"
+    "Location": "UK > London North West",
+    "Lat":51.507351,
+    "Lon":-0.127758, 
+    "ID": "88924"
   }, 
   {
     "Category": "Architectural STONE & TERRACOTTA", 
+    "STOLEN": "ANOTHER HISTORIC MILESTONE STOLEN AT REDBOURN, HERTS.", 
     "nItemsStolen": "1", 
     "CrimeRef": "WCR/41/20187/15", 
-    "Item": "Very distinctive square section small Milepost, well-known to local residents and others, and featured in local publications. It was on the A5183 at St.Albans Road at Redbourn, opposite the Chequers Public House. It would originally have been installed by The Dunstable-St. Albans-London Turnpike Trust, established by Act of Parliament in 1722; after the abolition of this and other similar trusts responsibility would have fallen to the Parish Council, later passing to the County Council in the 20th Century.\n\r\nThis milestone has the Milestone Society Identity ref. HE_LH24. Its neighbour HE_LH23 was stolen two years ago.", 
-    "Location": "UK > Warwickshire", 
-    "ID": "88606", 
-    "STOLEN :": "ANOTHER HISTORIC MILESTONE STOLEN AT REDBOURN, HERTS."
+    "Location": "UK > Warwickshire",
+    "Lat":52.267135,
+    "Lon":-1.467522, 
+    "ID": "88606"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "COALBROOKDALE GARDEN BENCH", 
     "nItemsStolen": "1", 
     "CrimeRef": "27th February 2015 No 644", 
-    "Item": "A beautiful (most likely Coalbrookdale) cast iron 'Oak and Ivy' pattern bench. White painted with wooden slatted seat - but could now be a different colour. Approximate size 155 cm wide. Taken from a garden near Lichfield but possibly now in the Kent or South East region or anywhere in the country. Unusual and striking pattern. A \u00a3100 reward for first information which leads to recovery.", 
-    "Location": "UK > North Yorkshire", 
-    "ID": "87846", 
-    "STOLEN :": "COALBROOKDALE GARDEN BENCH"
+    "Location": "UK > North Yorkshire",
+    "Lat":53.991503,
+    "Lon":-1.541201, 
+    "ID": "87846"
   }, 
   {
     "Category": "Architectural STONE & TERRACOTTA", 
+    "STOLEN": "MILESTONE TAKEN FROM THE SIDE OF OLD LONDON ROAD, MALDON, ESSEX", 
     "nItemsStolen": "1", 
     "CrimeRef": "CF0205920315", 
-    "Item": "This is a milestone approximately 30 cms square but only around 90 total height including below surface. It was set into a concrete socket and would probably have needed lifting equipment to extract. It had received damage to one corner and face about six years ago, probably by carelessly operated grass-cutting machinery. It was situated opposite the cemetery in Old London Road (Grid Ref TL83740712) and was registered bythe Milestone Society with the ID ref EX_MGMN37", 
-    "Location": "UK > Essex", 
-    "ID": "88150", 
-    "STOLEN :": "MILESTONE TAKEN FROM THE SIDE OF OLD LONDON ROAD, MALDON, ESSEX"
+    "Location": "UK > Essex",
+    "Lat":51.734331,
+    "Lon":0.469089, 
+    "ID": "88150"
   }, 
   {
     "Category": "Architectural METALWORK", 
+    "STOLEN": "MILESTONE PLATE STOLEN. A420 JUST WEST OF CHIPPENHAM, WILTSHIRE", 
     "nItemsStolen": "1", 
     "CrimeRef": "5410002796 Wiltshire", 
-    "Item": "This stone was involved in a major traffic accident sometime before Christmas 2014 and is now not only leaning over at a worse angle than ever but is in three or more pieces.  The Cast iron plate on its front has disappeared, presumed stolen.", 
-    "Location": "UK > Wiltshire", 
-    "ID": "86859", 
-    "STOLEN :": "MILESTONE PLATE STOLEN. A420 JUST WEST OF CHIPPENHAM, WILTSHIRE"
+    "Location": "UK > Wiltshire",
+    "Lat":51.3492,
+    "Lon":-1.99271, 
+    "ID": "86859"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "A LARGE TAYLORS OF LOUGHBOROUGH BELL", 
     "nItemsStolen": "1", 
     "CrimeRef": "22EJ / 50213D-14", 
-    "Item": "The bell has a diameter of 37 1/2\" is approx 3' tall weighs just shy of half a ton and was made by Taylor's of Loughborough in 1902. It is stamped with the numbers 232 and 11.\n\r\nThe bell had come from Co-operative Wholesale Society's Crumpsall Biscuit Works in Manchester.", 
-    "Location": "UK > Hereford & Worcs", 
-    "ID": "84377", 
-    "STOLEN :": "A LARGE TAYLORS OF LOUGHBOROUGH BELL"
+    "Location": "UK > Hereford & Worcs",
+    "Lat":52.039177,
+    "Lon":-2.424257, 
+    "ID": "84377"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "BRONZE STATUE OF CHRIST", 
     "nItemsStolen": "1", 
     "CrimeRef": "54140020102", 
-    "Item": "Bronze statue of Christ from War Memorial in Wingfield, Trowbridge, Wiltshire.\n\r\nOvernight 28/02/2014 - 01/03/14 The Bronze statue of Christ which had been bolted to the cross since 1917, was undone and stolen . The statues dimensions are 40\" High and 34\" wide.\r\nIt has a great emotional value to the whole village as this is their War Memorial.", 
-    "Location": "UK > Wiltshire", 
-    "ID": "81123", 
-    "STOLEN :": "BRONZE STATUE OF CHRIST"
+    "Location": "UK > Wiltshire",
+    "Lat":51.3492,
+    "Lon":-1.99271, 
+    "ID": "81123"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "ONE LEAD TROUGH AND ONE CAST IRON URN", 
     "nItemsStolen": "2", 
     "CrimeRef": "13", 
-    "Item": "Stolen from Wimborne, Dorset during Nov/Dec 2013. The lead trough has a relief of an urn and scrolling acanthus leaves on at least one side. The cast iron urn was painted white, but had start to change towards a rust colour due to its age. \n\r\nFor any enquiries call 01202 222222 and ask for PCSO 5466.", 
-    "Location": "UK > Dorset", 
-    "ID": "80186", 
-    "STOLEN :": "ONE LEAD TROUGH AND ONE CAST IRON URN"
+    "Location": "UK > Dorset",
+    "Lat":50.748764,
+    "Lon":-2.344479, 
+    "ID": "80186"
   }, 
   {
     "Category": "STONE", 
+    "STOLEN": "MILESTONE FROM NORTH VERGE OF A5183 AT REDBOURN, HERTS", 
     "nItemsStolen": "1", 
     "CrimeRef": "F2/12/1250", 
-    "Item": "This stone is about 30cms square in section, and just over 1 metre high when in ground. It was recumbent on the verge of the A5183 at Redbourn, and stolen in August/September 2012. It had incised letters reading LONDON/23/ST ALBANS 2\u00bd - REDBOURN 1\u00bd", 
-    "Location": "UK > Hertfordshire", 
-    "ID": "77781", 
-    "STOLEN :": "MILESTONE FROM NORTH VERGE OF A5183 AT REDBOURN, HERTS"
+    "Location": "UK > Hertfordshire",
+    "Lat":51.809782,
+    "Lon":-0.237674, 
+    "ID": "77781"
   }, 
   {
     "Category": "STONE", 
+    "STOLEN": "STOLEN CORNISH MILESTONE", 
     "nItemsStolen": "1", 
     "CrimeRef": "BL/07/1101", 
-    "Item": "Launceston Turnpike Trust milestone, rectangular cross section granite monolith with rounded top, inscribed L / 6 on the front face. A square below the main inscription suggests the removal of a bench mark. There is a bench mark near the base on the left face. The milestone is 12ins wide and 7 1/2ins deep. It stood 31ins above the ground, so would be approximately 4 feet tall once removed. It stood at SX2466 8437 on the north side of A395 just west of Coombe Gate Farm. It was grade II listed reference Laneast 68353.", 
-    "Location": "UK > Cornwall", 
-    "ID": "77780", 
-    "STOLEN :": "STOLEN CORNISH MILESTONE"
+    "Location": "UK > Cornwall",
+    "Lat":50.266047,
+    "Lon":-5.052712, 
+    "ID": "77780"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "PAIR OF GARDEN URNS", 
     "nItemsStolen": "2", 
     "CrimeRef": "K74052-2013", 
-    "Item": "Cast iron garden urns, painted white.  approx 18 inches high", 
-    "Location": "UK > South Yorkshire", 
-    "ID": "77206", 
-    "STOLEN :": "PAIR OF GARDEN URNS"
+    "Location": "UK > South Yorkshire",
+    "Lat":53.469697,
+    "Lon":-1.325968, 
+    "ID": "77206"
   }, 
   {
     "Category": "STATUARY", 
-    "CrimeRef": "ZY/12727/13", 
-    "Item": "A pair of Dutch white marble sculpture groups of kissing children by sculptor Albert Xavery with the bases signed and dated \"A Xavery 1711\". The statues are 35 inches high.", 
-    "Location": "UK > Kent", 
     "ID": "76312", 
-    "STOLEN :": "STOLEN XAVERY STATUES OF CHILDREN"
+    "STOLEN": "STOLEN XAVERY STATUES OF CHILDREN", 
+    "CrimeRef": "ZY/12727/13", 
+    "Location": "UK > Kent",
+    "Lat":51.278708,
+    "Lon":0.521725
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "MARBLE FIGURE OF POMONA STOLEN IN KENT", 
     "nItemsStolen": "1", 
     "CrimeRef": "YY/9981/13", 
-    "Item": "Female marble figure scantily draped and bejewelled, leaning on a tree stump, holding cymbals.\n\r\nThe figure is believed to represent Pomona, goddess of fruitful abundance in ancient Roman religion and myth.\n\r\nThe theft is believed to have taken place over night between 26 and 27 May. A number of urns were also damaged, and it is believed that the suspects had tried to remove these as well.", 
-    "Location": "UK > Kent", 
-    "ID": "75409", 
-    "STOLEN :": "MARBLE FIGURE OF POMONA STOLEN IN KENT"
+    "Location": "UK > Kent",
+    "Lat":51.278708,
+    "Lon":0.521725, 
+    "ID": "75409"
   }, 
   {
     "Category": "STONE", 
+    "STOLEN": "FIVE TRADITIONAL MILLSTONES", 
     "nItemsStolen": "5", 
     "CrimeRef": "0326 9 FEB 2012", 
-    "Item": "Millstones stolen from Jill Windmill, Sussex.\n\r\n4 Peak Stones, one with drill holes on the face where a metal plate was attached\n\r\n1 Cullen Stone - inscription on rear \r\nO\r\nIE\r\n1721\n\r\nEach millstone is 4 feet diameter", 
-    "Location": "UK > West Sussex", 
-    "ID": "72879", 
-    "STOLEN :": "FIVE TRADITIONAL MILLSTONES"
+    "Location": "UK > West Sussex",
+    "Lat":"50.928014",
+    "Lon":"-0.461707", 
+    "ID": "72879"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "BRONZE BIRD", 
     "nItemsStolen": "6", 
     "CrimeRef": "44120453501", 
-    "Item": "Bronze bird statue", 
-    "Location": "UK > Hampshire", 
-    "ID": "71358", 
-    "STOLEN :": "BRONZE BIRD"
+    "Location": "UK > Hampshire",
+    "Lat":51.057695,
+    "Lon":-1.308063, 
+    "ID": "71358"
   }, 
   {
     "Category": "LIGHTING", 
+    "STOLEN": "CANDLESTICKS STOLEN FROM KENT", 
     "nItemsStolen": "2", 
     "CrimeRef": "Kent YY2001412", 
-    "Item": "2 brass candlesticks stolen from Shoreham Church in Kent  last week.\r\n45cm high x 13.8 across the base\r\nBoth candlesticks have drip pans with fleur de lys brattishing around the rims which are  damaged (from a previous burglary).", 
-    "Location": "UK > Kent", 
-    "ID": "70755", 
-    "STOLEN :": "CANDLESTICKS STOLEN FROM KENT"
+    "Location": "UK > Kent",
+    "Lat":51.278708,
+    "Lon":0.521725, 
+    "ID": "70755"
   }, 
   {
     "Category": "FLAGSTONES & FLOOR TILES", 
+    "STOLEN": "STOLEN - YORK STONE PAVING", 
     "nItemsStolen": "1", 
     "CrimeRef": "44120371441", 
-    "Item": "Approximately 18 sq meters of old york paving from garden steps and terrace. Slabs of various shapes and sizes, e.g. approximately 24\" x 18\" 30\" x 18\", 27\" x 17\", \"27 x 15\", 30\" x 22\"...", 
-    "Location": "UK > Hampshire", 
-    "ID": "69714", 
-    "STOLEN :": "STOLEN - YORK STONE PAVING"
+    "Location": "UK > Hampshire",
+    "Lat":51.057695,
+    "Lon":-1.308063, 
+    "ID": "69714"
   }, 
   {
     "Category": "Metal scrap", 
+    "STOLEN": "TWO MATCHING BRONZE CANONS", 
     "nItemsStolen": "2", 
     "CrimeRef": "mh3945377/11", 
-    "Item": "Two matching Bronze cannons, measuring approximately 3 feet long with a maximum diameter of around 7 inches.  Heavily carved inscribed with a crest and wording on the top.\nRECOVERED", 
-    "Location": "UK > Berkshire", 
-    "ID": "63135", 
-    "STOLEN :": "TWO MATCHING BRONZE CANONS"
+    "Location": "UK > Berkshire",
+    "Lat":42.30424,
+    "Lon":-76.186596, 
+    "ID": "63135"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "DINING ROOM FIREPLACE", 
     "nItemsStolen": "1", 
     "CrimeRef": "Detective Garda Dave Beale and Dan O\u0092Sullivan at +353(0)53 916 5201 are investigating.", 
-    "Item": "The centre piece frieze - comprising a single plate of marble upon which there is carved a view of a greek charioteer drving four galloping horses - was removed from and stolen from this fireplace.  The piece is flawless and of superb quality.", 
-    "Location": "Ireland (Rep.) > Co Wexford", 
-    "ID": "58315", 
-    "STOLEN :": "DINING ROOM FIREPLACE"
+    "Location": "Ireland (Rep.) > Co Wexford",
+    "Lat":52.465096,
+    "Lon":-6.623413, 
+    "ID": "58315"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "ADAMS STYLE FIREPLACE", 
     "nItemsStolen": "1", 
     "CrimeRef": "Wexford Gardai, Wexford, Ireland", 
-    "Item": "We would be most sincerely grateful for any help you could give in connection with the following. \n\r\n1.\tA study fireplace shown in DSCF 7033, 7035, 7037, 7038 was taken in its entirety - the removal was undertaken by people who came with a generator to power kango hammers and angle grinders.  The fireplace is particularly noteworthy on account of the centre piece frieze fault - the nose of on the cherub face is broken - and the burn marks on some of the marble surrounds.  \r\n2.\tA section comprising the frieze of the charioteer and horses was taken from an Adams dining room fireplace detailed in 7107 above {the whole fireplace is shown in 7012 and 7016 above}.\n\r\nThe matter has been reported to the Gardai in Wexford - Detective Garda Dave Beale and Dan O'Sullivan at +353(0)53 916 5201 +353(0)53 916 5201 are investigating.", 
-    "Location": "Ireland (Rep.) > Co Wexford", 
-    "ID": "58314", 
-    "STOLEN :": "ADAMS STYLE FIREPLACE"
+    "Location": "Ireland (Rep.) > Co Wexford",
+    "Lat":52.465096,
+    "Lon":-6.623413, 
+    "ID": "58314"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "GODDESS OF WATER", 
     "nItemsStolen": "1", 
     "CrimeRef": "DM/005/413/11", 
-    "Item": "Bronze water feature, \"Goddess of Water\", green patina 150cm high. The \"goddess\"  is clinging to a pole, through which water can be pumped to spill over the sculpture. It is edition 4/7 by Laurence Broderick, this information being carried on the hair.", 
-    "Location": "UK > Nottinghamshire", 
-    "ID": "57236", 
-    "STOLEN :": "GODDESS OF WATER"
+    "Location": "UK > Nottinghamshire",
+    "Lat":53.100319,
+    "Lon":-0.993631, 
+    "ID": "57236"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "LEAD PUTTO FOUNTAIN", 
     "nItemsStolen": "1", 
     "CrimeRef": "32100037630", 
-    "Item": "Lead putto fountain circa 1920's signed Ann Acheson about 3ft high", 
-    "Location": "UK > Lincolnshire", 
-    "ID": "54947", 
-    "STOLEN :": "LEAD PUTTO FOUNTAIN"
+    "Location": "UK > Lincolnshire",
+    "Lat":52.945189,
+    "Lon":-0.160125, 
+    "ID": "54947"
   }, 
   {
     "Category": "ROOF SLATES & TILES", 
+    "STOLEN": "STONESFIELD ROOF SLATES", 
     "nItemsStolen": "200", 
     "CrimeRef": "ME3590222/10", 
-    "Item": "stolen overnight 19-20/05/10.\n\r\n200 Stonesfield roof slates (25ft x 5ft  area of roof slates) have been stolen that are approximately 300 years old.", 
-    "Location": "UK > Oxfordshire", 
-    "ID": "52498", 
-    "STOLEN :": "STONESFIELD ROOF SLATES"
+    "Location": "UK > Oxfordshire",
+    "Lat":51.761206,
+    "Lon":-1.246467, 
+    "ID": "52498"
   }, 
   {
     "Category": "FINE ARCHITECTURAL & GARDEN ANTIQUES", 
+    "STOLEN": "LEAD CISTERN", 
     "nItemsStolen": "1", 
     "CrimeRef": "DE/10/3223", 
-    "Item": "Overnight on the 31st March 2010 a lead cistern was stolen from Exeter, Devon UK. The cistern is clearly dated 1724 and lettered RS G.W.B. A double panel has a hunting scene with a deer and three hounds. Two fishes, thistles, vines, daisies, roses and two floral patterns are inscribed. Another cistern from the same location had been overturned but not stolen. The photograph is of this remaining cistern which is identical in shape and size, the design is as described above.", 
-    "Location": "UK > Devon", 
-    "ID": "51574", 
-    "STOLEN :": "LEAD CISTERN"
+    "Location": "UK > Devon",
+    "Lat":50.715559,
+    "Lon":-3.530875, 
+    "ID": "51574"
   }, 
   {
     "Category": "ROOF SLATES & TILES", 
+    "STOLEN": "LARGE EAVES STONE ROOF TILES AND GARDEN MACHINERY", 
     "nItemsStolen": "100", 
     "CrimeRef": "54100027148", 
-    "Item": "Approx 1/2 ton of large eaves, moss covered tiles, painted on underside.  These tiles are very easy to identify.\n\r\nAlso garden machinery consisting of", 
-    "Location": "UK > Wiltshire", 
-    "ID": "51516", 
-    "STOLEN :": "LARGE EAVES STONE ROOF TILES AND GARDEN MACHINERY"
+    "Location": "UK > Wiltshire",
+    "Lat":51.3492,
+    "Lon":-1.99271, 
+    "ID": "51516"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "VICTORIAN MEMORIAL STATUE", 
     "nItemsStolen": "1", 
     "CrimeRef": "Sussex police 01253710", 
-    "Item": "Victorian statue of young woman with head bowed. Shawl over head gathered into hands clasped in front. Standing 4 - 4ft 6ins.\nRECOVERED", 
-    "Location": "UK > East Sussex", 
-    "ID": "50861", 
-    "STOLEN :": "VICTORIAN MEMORIAL STATUE"
+    "Location": "UK > East Sussex",
+    "Lat":50.908596,
+    "Lon":0.249424, 
+    "ID": "50861"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "BRONZE STATUE OF HORSES HEAD", 
     "nItemsStolen": "1", 
     "CrimeRef": "GJ3533369/10", 
-    "Item": "Bronze statue of horses head\r\n6' tall weighs approximately \u00bd a tonne\r\nArtist Nic Fiddian-Green\r\n(Awaiting images)", 
-    "Location": "UK > Buckinghamshire", 
-    "ID": "50727", 
-    "STOLEN :": "BRONZE STATUE OF HORSES HEAD"
+    "Location": "UK > Buckinghamshire",
+    "Lat":51.813707,
+    "Lon":-0.80947, 
+    "ID": "50727"
   }, 
   {
     "Category": "Various, mixed, misc and other", 
+    "STOLEN": "AROUND 80 PIECES OF STOCK", 
     "nItemsStolen": "80", 
     "CrimeRef": "LO11711", 
-    "Item": "Approximately \u00a380k stolen including; 2 19th century lead fountains, 1 bronze dolphin fountain head, 200 to 250 pairs of bronze door handles, 3 brass candelabra, 20 holophane pendant lamps, 16 opaline pendant lamps, 1 18th century dog grate and another 19th century one. 1 marble chimneypeice, 1 teak butlers tidy, 1 coalbrookdale bench, 2 rustic cast benches, 1 bronze stag and doe, and 2 fawns, 1 18th century stone male statue of Hercules, 1 pair of alabaster table lamps, 1 pair of cast garden seats, lead dolphin wall fountain, 1 bronze pheasant statue on base, 2 stained glass panels of birds Victorian, plus smaller ornament and fireside tools, 2 fenders and 2 carved stone urns. Plus a large quantity of power tools and 2 computers and stanav and laptop, cash and my wellies...particularly annoyed about the wellies.", 
-    "Location": "UK > Gwynedd", 
-    "ID": "49972", 
-    "STOLEN :": "AROUND 80 PIECES OF STOCK"
+    "Location": "UK > Gwynedd",
+    "Lat":52.927727,
+    "Lon":-4.133484, 
+    "ID": "49972"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "LATE VICTORIAN LAMPS", 
     "nItemsStolen": "2", 
     "CrimeRef": "CR/003818/10", 
-    "Item": "The thefts occurred overnight on 15/16 January 2010. \n\r\nBoth lamps are late Victorian and were designed by Robert Rowand Anderson, the well known Scottish architect. Both lamps are of cast metal construction and were originally gas lit, so the internal fittings will indicate this.  \n\r\nThe wall lamp (which was recently restored), is about 600mm high, with two wrought  metal scroll bracket supports, and it has the three words, \"Saint Cuthberts Colinton\" cast as perforations on three sides above the glazing of the lantern (one of these words can be seen in the photo).  This lamp is painted black.  \n\r\nThe street lamp lantern is about 450mm high, slightly \"gazebo\" style; it may be damaged as a result of  force used in wrenching it from the column. Note that only the lantern of the free standing \"street lamp\" was stolen, but not the supporting column. This lamp is painted red.", 
-    "Location": "UK > Lothian", 
-    "ID": "49931", 
-    "STOLEN :": "LATE VICTORIAN LAMPS"
+    "Location": "UK > Lothian",
+    "Lat":38.831782,
+    "Lon":-76.611351, 
+    "ID": "49931"
   }, 
   {
     "Category": "Architectural STONE & TERRACOTTA", 
+    "STOLEN": "BUST OF A MAN", 
     "nItemsStolen": "1", 
     "CrimeRef": "MC/3507530/10", 
-    "Item": "The bust was stolen between 11th and 18th January. \n\r\nIt is described in the inventory as 'Bust of a Man. C.F. Fuller 1864, marble, H22 1/2'. Wears a jacket and knotted scarf, short curly hair with wavy ends, moustache and small beard", 
-    "Location": "UK > Oxfordshire", 
-    "ID": "49888", 
-    "STOLEN :": "BUST OF A MAN"
+    "Location": "UK > Oxfordshire",
+    "Lat":51.761206,
+    "Lon":-1.246467, 
+    "ID": "49888"
   }, 
   {
     "Category": "Architectural WOODWORK & Panelling", 
+    "STOLEN": "THREE SETS OF  GATES", 
     "nItemsStolen": "3", 
     "CrimeRef": "ME3292522/09", 
-    "Item": "Three sets of gates from three separate addresses were stolen overnight between 2230hrs Friday 6th and 0145hrs Sat 7th March 2009. From three different properties all in Boars Hill on the outskirts of Oxford City.", 
-    "Location": "UK > Oxfordshire", 
-    "ID": "44396", 
-    "STOLEN :": "THREE SETS OF  GATES"
+    "Location": "UK > Oxfordshire",
+    "Lat":51.761206,
+    "Lon":-1.246467, 
+    "ID": "44396"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "LIFESIZE ANTIQUE TERRACOTTA STATUE OF PRINTEMPS", 
     "nItemsStolen": "1", 
     "CrimeRef": "MV09709", 
-    "Item": "An 18th century terracotta statue of a woman representing Spring  \r\nstanding on base with PRINTEMPS impressed on it. Approx 165cm high and  \r\napprox 50cm wide.", 
-    "Location": "UK > Surrey", 
-    "ID": "43950", 
-    "STOLEN :": "LIFESIZE ANTIQUE TERRACOTTA STATUE OF PRINTEMPS"
+    "Location": "UK > Surrey",
+    "Lat":49.10443,
+    "Lon":-122.801094, 
+    "ID": "43950"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "BRONZE SUNDIAL PLATE BY WHITEHURST", 
     "nItemsStolen": "1", 
     "CrimeRef": "0606 NH 020608", 
-    "Item": "A large horizontal sundial plate with distinctive bats wing gnomon, signed\r\nWhitehurst, Derby, made circa 1777, approx 43cms (17ins) diameter. It was calibrated to the minute, and possibly had the equation of time and the arms of the second Duke of Newcastle.", 
-    "Location": "UK > Nottinghamshire", 
-    "ID": "39961", 
-    "STOLEN :": "BRONZE SUNDIAL PLATE BY WHITEHURST"
+    "Location": "UK > Nottinghamshire",
+    "Lat":53.100319,
+    "Lon":-0.993631, 
+    "ID": "39961"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "TRIPOD LIGHT, COAL SKUTTLE, JELLY PAN, CAST IRON ROMAN NUMERALS", 
     "nItemsStolen": "4", 
     "CrimeRef": "17456/08", 
-    "Item": "ITEM ONE", 
-    "Location": "UK > Somerset", 
-    "ID": "37872", 
-    "STOLEN :": "TRIPOD LIGHT, COAL SKUTTLE, JELLY PAN, CAST IRON ROMAN NUMERALS"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "37872"
   }, 
   {
     "Category": "Architectural STONE & TERRACOTTA", 
+    "STOLEN": "L GALLANDT MARBLE STATUE AND GARDEN URN", 
     "nItemsStolen": "5", 
     "CrimeRef": "2007110600147", 
-    "Item": "1 white marble statue by L Gallandt named ROMA.  This is approx 5ft in height and weighs approx 1/2 tonne.  The figure depicts a young lady with a wresth of flowers on her head.  Her right foot is in front of the left and both arms are outstretched.  This staue is worth approximately \u00a330,000.\n\r\n2 large cast iron urns had been taken from the rear of a house.   These are approx 3ft in height and are quite decorative with figures depcited around the main body of the urn.   Each one of these urns is worth approx \u00a33,000. \n\r\nAnother pair of urns have also been found to be missing.  These are worth approx \u00a33,000 each also, but are less decorative than the other pair.  \n\r\nAll items were stolen during the course of a burglary at a private dwelling in the Lisburn area of Northern Ireland between the 5th and 6th November 2007.  No pictures are available at present.\n\r\nAny information regarding any of these items should be made available to Police at Lisburn PSNI station.", 
-    "Location": "UK > Co Antrim", 
-    "ID": "36191", 
-    "STOLEN :": "L GALLANDT MARBLE STATUE AND GARDEN URN"
+    "Location": "UK > Co Antrim",
+    "Lat":44.973044,
+    "Lon":-85.176909, 
+    "ID": "36191"
   }, 
   {
     "Category": "Architectural METALWORK", 
+    "STOLEN": "140 RADIATORS STOLEN IN SURREY", 
     "nItemsStolen": "140", 
     "CrimeRef": "To be supplied", 
-    "Item": "Stolen on 18 September 2007 from Bookham, Surrey UK\n\r\nApproximately 140no unrestored cast iron neo-classic radiators, 70no 2 column Crane neo-classic and 70no 18ins four column.\n\r\nAny information to 07813293866 begin_of_the_skype_highlighting\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a007813293866\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end_of_the_skype_highlighting", 
-    "Location": "UK > Surrey", 
-    "ID": "34453", 
-    "STOLEN :": "140 RADIATORS STOLEN IN SURREY"
+    "Location": "UK > Surrey",
+    "Lat":49.10443,
+    "Lon":-122.801094, 
+    "ID": "34453"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "LEAD CHERUB HOLDING DOLPHIN AND PAIR OF CHERUB FINIALS", 
     "nItemsStolen": "3", 
     "CrimeRef": "MH9689247/07", 
-    "Item": "Stolen from near Reading, Berkshire, UK on or after Sunday 1 April 2007.\n\r\nITEM ONE", 
-    "Location": "UK > Berkshire", 
-    "ID": "31190", 
-    "STOLEN :": "LEAD CHERUB HOLDING DOLPHIN AND PAIR OF CHERUB FINIALS"
+    "Location": "UK > Berkshire",
+    "Lat":42.30424,
+    "Lon":-76.186596, 
+    "ID": "31190"
   }, 
   {
     "Category": "Architectural METALWORK", 
+    "STOLEN": "CAST IRON BALUSTRADE STOLEN IN WEST MIDLANDS", 
     "nItemsStolen": "7", 
     "CrimeRef": "20LI 15347-06", 
-    "Item": "Stolen from Fen End, West Midlands UK after 29 July 2006.\n\r\nSeven decorative cast iron balustrade panels (photo shows similar left at the scene), approx 7ft long.", 
-    "Location": "UK > West Midlands", 
-    "ID": "27305", 
-    "STOLEN :": "CAST IRON BALUSTRADE STOLEN IN WEST MIDLANDS"
+    "Location": "UK > West Midlands",
+    "Lat":52.475074,
+    "Lon":-1.829833, 
+    "ID": "27305"
   }, 
   {
     "Category": "FURNITURE & MIRRORS", 
+    "STOLEN": "ANTIQUE FURNITURE STOLEN IN BRISBANE", 
     "nItemsStolen": "50", 
     "CrimeRef": "05/13098", 
-    "Item": "Stolen from Brisbane, Queensland, Australia in December 2004.\n\r\nMore than 50 items of antique furniture, vases, chests, boxes, lamps and hats. See website for details and photos.", 
-    "Location": "Australia > Queensland", 
-    "ID": "26936", 
-    "STOLEN :": "ANTIQUE FURNITURE STOLEN IN BRISBANE"
+    "Location": "Australia > Queensland",
+    "Lat":-20.917574,
+    "Lon":142.702796, 
+    "ID": "26936"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "PAIR OF GRIFFIN STOLEN IN LINCOLNSHIRE", 
     "nItemsStolen": "2", 
     "CrimeRef": "BA/06/3999", 
-    "Item": "Stolen from Easton, Lincolnshire UK on 7 August 2006.\n\r\nPair of c1860 carved limestone Griffins holding armorial shields, approx 2ft high. Some damage can be seen in the photos.", 
-    "Location": "UK > Lincolnshire", 
-    "ID": "26475", 
-    "STOLEN :": "PAIR OF GRIFFIN STOLEN IN LINCOLNSHIRE"
+    "Location": "UK > Lincolnshire",
+    "Lat":52.945189,
+    "Lon":-0.160125, 
+    "ID": "26475"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "NEW PORTLAND STONE FIREPLACE", 
     "nItemsStolen": "1", 
     "CrimeRef": "51/7664/06 incident 130 (30/05/06)", 
-    "Item": "Stolen from Warwick, Warwickshire, UK on 29 May 2006. \n\r\nA carved Portland stone tudor arched fire surround with moulded mantle shelf, approx 4ft high by 5ft 6ins wide. \n\r\nAny info to", 
-    "Location": "UK > London West", 
-    "ID": "25462", 
-    "STOLEN :": "NEW PORTLAND STONE FIREPLACE"
+    "Location": "UK > London West",
+    "Lat":51.507351,
+    "Lon":-0.127758, 
+    "ID": "25462"
   }, 
   {
     "Category": "FLOORING", 
+    "STOLEN": "TWO BATCHES OF UNFINISHED NEW OAK", 
     "nItemsStolen": "2", 
     "CrimeRef": "CF0182970606", 
     "Contact": "Stenhousemuir Police (Central inc Stirlingshire, UK) Tel", 
-    "Location": "UK > Central (inc Stirlingshire)", 
-    "ID": "25450", 
-    "STOLEN :": "TWO BATCHES OF UNFINISHED NEW OAK"
+    "Location": "UK > Central (inc Stirlingshire)",
+    "Lat":36.368323,
+    "Lon":-86.602123, 
+    "ID": "25450"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "SHALLOW URN WITH TWO HANDLES", 
     "nItemsStolen": "1", 
     "CrimeRef": "BA/06/2424", 
     "Contact": "Grantham Police Station, Lincolnshire, UK. Tel", 
-    "Location": "UK > Lincolnshire", 
-    "ID": "24426", 
-    "STOLEN :": "SHALLOW URN WITH TWO HANDLES"
+    "Location": "UK > Lincolnshire",
+    "Lat":52.945189,
+    "Lon":-0.160125, 
+    "ID": "24426"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "PAIR OF BRASS BALUSTER ANDIRONS", 
     "nItemsStolen": "2", 
     "CrimeRef": "4609746/06", 
     "Contact": "Metropolitan Police, Stoke Newington Police Station (London, UK) Tel", 
-    "Location": "UK > London East", 
-    "ID": "23379", 
-    "STOLEN :": "PAIR OF BRASS BALUSTER ANDIRONS"
+    "Location": "UK > London East",
+    "Lat":51.507351,
+    "Lon":-0.127758, 
+    "ID": "23379"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "CAST IRON BRAZIER AND TWO FLUTED STADDLE STONES", 
     "nItemsStolen": "3", 
     "CrimeRef": "012706/06", 
     "Contact": "Gloucestershire Police (Gloucestershire, UK) Tel", 
-    "Location": "UK > Gloucestershire", 
-    "ID": "23345", 
-    "STOLEN :": "CAST IRON BRAZIER AND TWO FLUTED STADDLE STONES"
+    "Location": "UK > Gloucestershire",
+    "Lat":51.864211,
+    "Lon":-2.238034, 
+    "ID": "23345"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "PAIR OF EAGLES STOLEN IN DORSET", 
     "nItemsStolen": "2", 
     "CrimeRef": "C06E3999", 
     "Contact": "PC2279 at Shaftesbury Police Station on tel 01202 222222. Dorset Police tel 01747 852231.", 
-    "Location": "UK > Dorset", 
-    "ID": "22915", 
-    "STOLEN :": "PAIR OF EAGLES STOLEN IN DORSET"
+    "Location": "UK > Dorset",
+    "Lat":50.748764,
+    "Lon":-2.344479,
+    "ID": "22915"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "FIREPLACES STOLEN FROM TWICKENHAM", 
     "nItemsStolen": "9", 
     "CrimeRef": "0712423/05", 
     "Contact": "DC 106TW Twickenham Police Station, Metropolitan Police. Tel 020 8607 9199", 
-    "Location": "UK > Middlesex", 
-    "ID": "21280", 
-    "STOLEN :": "FIREPLACES STOLEN FROM TWICKENHAM"
+    "Location": "UK > Middlesex",
+    "Lat":40.572603,
+    "Lon":-74.492654, 
+    "ID": "21280"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "EAGLE STOLEN IN SCOTLAND", 
     "nItemsStolen": "1", 
     "CrimeRef": "PDG0003280106", 
     "Contact": "PC 239 Annan Police Station. Tel 01387 252112.", 
-    "Location": "UK > Dumfries & Galloway", 
-    "ID": "21046", 
-    "STOLEN :": "EAGLE STOLEN IN SCOTLAND"
+    "Location": "UK > Dumfries & Galloway",
+    "Lat":55.068665,
+    "Lon":-3.618801, 
+    "ID": "21046"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "GOTHIC GARDEN BIRD BATH, FONT OR URN STOLEN", 
     "nItemsStolen": "1", 
     "CrimeRef": "JZ/10617/05", 
     "Contact": "DC 10483 Chilham Police Station, Kent Police. Tel 01233 896286.", 
-    "Location": "UK > Kent", 
-    "ID": "20904", 
-    "STOLEN :": "GOTHIC GARDEN BIRD BATH, FONT OR URN STOLEN"
+    "Location": "UK > Kent",
+    "Lat":51.278708,
+    "Lon":0.521725, 
+    "ID": "20904"
   }, 
   {
     "Category": "Architectural METALWORK", 
+    "STOLEN": "PAIR OF MAROON/GOLD GATES AND MATCHING BOLLARDS", 
     "nItemsStolen": "2", 
     "CrimeRef": "44050676237", 
     "Contact": "Andover Police station (Hampshire, UK) Tel", 
-    "Location": "UK > Hampshire", 
-    "ID": "19078", 
-    "STOLEN :": "PAIR OF MAROON/GOLD GATES AND MATCHING BOLLARDS"
+    "Location": "UK > Hampshire",
+    "Lat":51.057695,
+    "Lon":-1.308063, 
+    "ID": "19078"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "CHIMNEYPIECE STOLEN FROM HENLEY", 
     "nItemsStolen": "1", 
     "CrimeRef": "EC8658300/05", 
     "Contact": "Any info to DC 3882 FIB Thame Valley Police. Tel 01865 293956.", 
-    "Location": "UK > Oxfordshire", 
-    "ID": "20831", 
-    "STOLEN :": "CHIMNEYPIECE STOLEN FROM HENLEY"
+    "Location": "UK > Oxfordshire",
+    "Lat":51.761206,
+    "Lon":-1.246467, 
+    "ID": "20831"
   }, 
   {
     "Category": "ROOF SLATES & TILES", 
+    "STOLEN": "COTSWOLD STONE TILES OR SLATES STOLEN", 
     "CrimeRef": "CB597/05", 
     "Contact": "PC 981 Bradford-on-Avon Police Station, Wiltshire Police. Tel 01380 735735.", 
-    "Location": "UK > Wiltshire", 
-    "ID": "20737", 
-    "STOLEN :": "COTSWOLD STONE TILES OR SLATES STOLEN"
+    "Location": "UK > Wiltshire",
+    "Lat":51.3492,
+    "Lon":-1.99271, 
+    "ID": "20737"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "STADDLES STOLEN FROM BEDFORDSHIRE", 
     "nItemsStolen": "2", 
     "CrimeRef": "B/40750/2005", 
     "Contact": "PC220 Riseley Police Station, Bedfordshire Police. Tel 01234 275175", 
-    "Location": "UK > Bedfordshire", 
-    "ID": "20206", 
-    "STOLEN :": "STADDLES STOLEN FROM BEDFORDSHIRE"
+    "Location": "UK > Bedfordshire",
+    "Lat":52.135974,
+    "Lon":-0.466656, 
+    "ID": "20206"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "CARVED STONE GRIFFIN STOLEN", 
     "nItemsStolen": "1", 
     "CrimeRef": "LA9300608/05", 
-    "Location": "UK > Berkshire", 
-    "ID": "19111", 
-    "STOLEN :": "CARVED STONE GRIFFIN STOLEN"
+    "Location": "UK > Berkshire",
+    "Lat":42.30424,
+    "Lon":-76.186596, 
+    "ID": "19111"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "LIMESTONE SUNDIAL STOLEN IN SOMERSET", 
     "nItemsStolen": "1", 
     "CrimeRef": "Case 9127", 
     "Contact": "Any info to Avon & Somerset Police antiques desk. Tel 01275 816730", 
-    "Location": "UK > Somerset", 
-    "ID": "18627", 
-    "STOLEN :": "LIMESTONE SUNDIAL STOLEN IN SOMERSET"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "18627"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "PAIR OF SITTING UP STONE LIONS", 
     "nItemsStolen": "2", 
     "CrimeRef": "XA20422/05", 
     "Contact": "Lichfield Police (West Midlands, UK) Tel", 
-    "Location": "UK > West Midlands", 
-    "ID": "18179", 
-    "STOLEN :": "PAIR OF SITTING UP STONE LIONS"
+    "Location": "UK > West Midlands",
+    "Lat":52.475074,
+    "Lon":-1.829833, 
+    "ID": "18179"
   }, 
   {
     "Category": "LIGHTING", 
+    "STOLEN": "HEXAGONAL LANTERN WITH COPPER TOP", 
     "nItemsStolen": "1", 
     "CrimeRef": "C/05/13041", 
     "Contact": "Guildford Police (Surrey, UK) Tel", 
-    "Location": "UK > Surrey", 
-    "ID": "17904", 
-    "STOLEN :": "HEXAGONAL LANTERN WITH COPPER TOP"
+    "Location": "UK > Surrey",
+    "Lat":49.10443,
+    "Lon":-122.801094, 
+    "ID": "17904"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "PAIR OF LARGE CLAM SHELLS", 
     "nItemsStolen": "2", 
     "CrimeRef": "1051840303", 
     "Contact": "North Yorkshire Police (York, England). Tel", 
-    "Location": "UK > North Yorkshire", 
-    "ID": "17558", 
-    "STOLEN :": "PAIR OF LARGE CLAM SHELLS"
+    "Location": "UK > North Yorkshire",
+    "Lat":53.991503,
+    "Lon":-1.541201, 
+    "ID": "17558"
   }, 
   {
     "Category": "Architectural METALWORK", 
+    "STOLEN": "PAIR OF GATES STOLEN FROM SURREY", 
     "nItemsStolen": "1", 
     "CrimeRef": "C/05/11984", 
     "Contact": "Tel 0845 125 2222. FIN 7734, Surrey Police HQ, Crime Report Bureau, Mount Brown, Guildford UK", 
-    "Location": "UK > Surrey", 
-    "ID": "17436", 
-    "STOLEN :": "PAIR OF GATES STOLEN FROM SURREY"
+    "Location": "UK > Surrey",
+    "Lat":49.10443,
+    "Lon":-122.801094, 
+    "ID": "17436"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "TWO PAIRS OF CAST IRON URNS", 
     "nItemsStolen": "4", 
     "CrimeRef": "B 99890605200501", 
     "Contact": "AVON & SOMERSET POLICE, Bristol, England. Tel", 
-    "Location": "UK > Bristol", 
-    "ID": "17391", 
-    "STOLEN :": "TWO PAIRS OF CAST IRON URNS"
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "17391"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "WHITE MARBLE FIREPLACE STOLEN FROM LEWES", 
     "nItemsStolen": "1", 
     "CrimeRef": "RHT/CTO/230305", 
     "Contact": "Sussex police on 0845 6070999", 
-    "Location": "UK > East Sussex", 
-    "ID": "15875", 
-    "STOLEN :": "WHITE MARBLE FIREPLACE STOLEN FROM LEWES"
+    "Location": "UK > East Sussex",
+    "Lat":50.908596,
+    "Lon":0.249424, 
+    "ID": "15875"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "MARBLE BUST OF VEILED WOMAN", 
     "nItemsStolen": "1", 
     "CrimeRef": "KT05480", 
     "Contact": "Tiverton Police on 0845 2777444 or Devon & Cornwall Police FIB antiques desk on 01932 452444.", 
-    "Location": "UK > Devon", 
-    "ID": "15474", 
-    "STOLEN :": "MARBLE BUST OF VEILED WOMAN"
+    "Location": "UK > Devon",
+    "Lat":50.715559,
+    "Lon":-3.530875, 
+    "ID": "15474"
   }, 
   {
     "Category": "Architectural STONE & TERRACOTTA", 
+    "STOLEN": "90M OLD GREY TRIANGULAR COPING STONES", 
     "CrimeRef": "26G200205", 
     "Contact": "Telford Police Station (Shropshire, UK) Tel", 
-    "Location": "UK > Shropshire", 
-    "ID": "15302", 
-    "STOLEN :": "90M OLD GREY TRIANGULAR COPING STONES"
+    "Location": "UK > Shropshire",
+    "Lat":52.706366,
+    "Lon":-2.741785, 
+    "ID": "15302"
   }, 
   {
     "Category": "Architectural METALWORK", 
+    "STOLEN": "TWO RUNS OF CAST IRON BALUSTRADE", 
     "nItemsStolen": "2", 
     "CrimeRef": "Case no", 
     "Contact": "AVON & SOMERSET POLICE, Bristol, England. Tel", 
-    "Location": "UK > Bristol", 
-    "ID": "14254", 
-    "STOLEN :": "TWO RUNS OF CAST IRON BALUSTRADE"
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "14254"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "MILESTONE STOLEN IN WARWICKSHIRE", 
     "nItemsStolen": "1", 
     "CrimeRef": "S1/16727/04", 
     "Contact": "WPC 696 Stratford on Avon Police. Tel 01789 414111", 
-    "Location": "UK > Warwickshire", 
-    "ID": "14083", 
-    "STOLEN :": "MILESTONE STOLEN IN WARWICKSHIRE"
+    "Location": "UK > Warwickshire",
+    "Lat":52.267135,
+    "Lon":-1.467522, 
+    "ID": "14083"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "TELEPHONE SIGN STOLEN IN DEVON", 
     "nItemsStolen": "1", 
     "CrimeRef": "CL/04/117", 
     "Contact": "PC PB, Lynton Police Station 01598 752209, or Devon & Cornwall Police on 08452 777444", 
-    "Location": "UK > Devon", 
-    "ID": "13085", 
-    "STOLEN :": "TELEPHONE SIGN STOLEN IN DEVON"
+    "Location": "UK > Devon",
+    "Lat":50.715559,
+    "Lon":-3.530875, 
+    "ID": "13085"
   }, 
   {
     "Category": "BRICKS", 
+    "STOLEN": "BLUE BRICK COPING STONES", 
     "nItemsStolen": "1", 
     "CrimeRef": "22DQ / 99344G / 04", 
     "Contact": "West Mercia Constabulary (West Midlands, UK) Tel", 
-    "Location": "UK > West Midlands", 
-    "ID": "13774", 
-    "STOLEN :": "BLUE BRICK COPING STONES"
+    "Location": "UK > West Midlands",
+    "Lat":52.475074,
+    "Lon":-1.829833, 
+    "ID": "13774"
   }, 
   {
     "Category": "DOORS & handles", 
+    "STOLEN": "5 PANELLED DOOR", 
     "nItemsStolen": "1", 
     "CrimeRef": "9092", 
     "Contact": "Antique desk, Avon & Somerset Police. Tel 01275 816730", 
-    "Location": "UK > Gloucestershire", 
-    "ID": "13072", 
-    "STOLEN :": "5 PANELLED DOOR"
+    "Location": "UK > Gloucestershire",
+    "Lat":51.864211,
+    "Lon":-2.238034,  
+    "ID": "13072"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "STONE WINDOW, BRONZE CHILDREN AND MORE", 
     "nItemsStolen": "5", 
     "CrimeRef": "Arched window crime ref", 
     "Contact": "Gloucestershire Constabulary (Glos, UK) Tel", 
-    "Location": "UK > Gloucestershire", 
-    "ID": "13658", 
-    "STOLEN :": "STONE WINDOW, BRONZE CHILDREN AND MORE"
+    "Location": "UK > Gloucestershire",
+    "Lat":51.864211,
+    "Lon":-2.238034,  
+    "ID": "13658"
   }, 
   {
     "Category": "DOORS & handles", 
+    "STOLEN": "MONASTERY DOORS STOLEN FROM GREECE", 
     "nItemsStolen": "3", 
     "CrimeRef": "YPPO/GDACH/DMEEP/G2/F41/72848/1956 (Dir. of Museum", 
     "Contact": "Greek Ministry of Culture. Tel +30 210 825 8673. Fax +30 210 821 2035.", 
-    "Location": "Greece > Attica (Athens)", 
-    "ID": "7688", 
-    "STOLEN :": "MONASTERY DOORS STOLEN FROM GREECE"
+    "Location": "Greece > Attica (Athens)",
+    "Lat":37.983917,
+    "Lon":23.72936, 
+    "ID": "7688"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "CAST IRON CANNON", 
     "nItemsStolen": "1", 
     "CrimeRef": "9083/04", 
     "Contact": "Antique desk, Avon & Somerset Police. Tel 01275 816730", 
-    "Location": "UK > Bristol", 
-    "ID": "13216", 
-    "STOLEN :": "CAST IRON CANNON"
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "13216"
   }, 
   {
     "Category": "Architectural STONE & TERRACOTTA", 
+    "STOLEN": "FOUR STONE BALL FINIALS", 
     "nItemsStolen": "4", 
     "CrimeRef": "C04W47694", 
     "Contact": "Dorset Police. Tel 01305 251212.", 
-    "Location": "UK > Dorset", 
-    "ID": "13061", 
-    "STOLEN :": "FOUR STONE BALL FINIALS"
+    "Location": "UK > Dorset",
+    "Lat":50.748764,
+    "Lon":-2.344479,
+    "ID": "13061"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "SUNDIAL STOLEN IN KENT", 
     "nItemsStolen": "1", 
     "CrimeRef": "BZ/010363/04", 
     "Contact": "DC 5945 West Kent Police, Tonbridge UK. Tel 01732 370644 or 07980683239", 
-    "Location": "UK > Kent", 
-    "ID": "13020", 
-    "STOLEN :": "SUNDIAL STOLEN IN KENT"
+    "Location": "UK > Kent",
+    "Lat":51.278708,
+    "Lon":0.521725, 
+    "ID": "13020"
   }, 
   {
     "Category": "Architectural WOODWORK & Panelling", 
+    "STOLEN": "10FT WIDE OAK GATES", 
     "nItemsStolen": "1", 
     "CrimeRef": "S1/11702/2004", 
     "Contact": "Leamington Spa Police Station. (Warwickshire, UK) Tel", 
-    "Location": "UK > Warwickshire", 
-    "ID": "12572", 
-    "STOLEN :": "10FT WIDE OAK GATES"
+    "Location": "UK > Warwickshire",
+    "Lat":52.267135,
+    "Lon":-1.467522, 
+    "ID": "12572"
   }, 
   {
     "Category": "Architectural STONE & TERRACOTTA", 
+    "STOLEN": "TWO DECORATIVE TERRACOTTA PIER CAPS", 
     "nItemsStolen": "2", 
     "CrimeRef": "j9701-20072004-02", 
-    "Item": "Stolen from Yatton, North Somerset, England on 19 July 2004.\n\r\nTwo decorative terracotta PIER CAPS, beige coloured. Approx size at base 19ins square, height approx 24ins.\nRECOVERED", 
-    "Location": "UK > Somerset", 
-    "ID": "12488", 
-    "STOLEN :": "TWO DECORATIVE TERRACOTTA PIER CAPS"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "12488"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "STONE LION HEAD AND LEAD BOY WITH FISH", 
     "nItemsStolen": "2", 
     "CrimeRef": "crime incident no", 
     "Contact": "Gloucestershire Constabulary (Glos, UK) Tel", 
-    "Location": "UK > Gloucestershire", 
-    "ID": "11902", 
-    "STOLEN :": "STONE LION HEAD AND LEAD BOY WITH FISH"
+    "Location": "UK > Gloucestershire",
+    "Lat":51.864211,
+    "Lon":-2.238034,  
+    "ID": "11902"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "BRONZE STAG", 
     "nItemsStolen": "1", 
     "CrimeRef": "9062/04", 
     "Contact": "Antique desk, Avon & Somerset Police. Tel 01275 816730", 
-    "Location": "UK > Somerset", 
-    "ID": "11691", 
-    "STOLEN :": "BRONZE STAG"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "11691"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "CRUCIFIX SILVER ALTAR CROSS", 
     "nItemsStolen": "1", 
     "CrimeRef": "0512779-04", 
     "Contact": "Sgt 'G' Metropolitan Police Ealing 020 8246 9442", 
-    "Location": "UK > London West", 
-    "ID": "11667", 
-    "STOLEN :": "CRUCIFIX SILVER ALTAR CROSS"
+    "Location": "UK > London West",
+    "Lat":51.507351,
+    "Lon":-0.127758, 
+    "ID": "11667"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "SUNDIAL AND PEDESTAL", 
     "nItemsStolen": "1", 
     "CrimeRef": "20D/7997/04", 
     "Contact": "Sutton Coldfield police station tel (UK) 0845 113 5000", 
-    "Location": "UK > West Midlands", 
-    "ID": "11666", 
-    "STOLEN :": "SUNDIAL AND PEDESTAL"
+    "Location": "UK > West Midlands",
+    "Lat":52.475074,
+    "Lon":-1.829833, 
+    "ID": "11666"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "LEAD FOUNTAIN", 
     "nItemsStolen": "1", 
     "CrimeRef": "C200402334", 
     "Contact": "Antique desk, Avon & Somerset Police. Tel 01275 816730", 
-    "Location": "UK > Bristol", 
-    "ID": "11566", 
-    "STOLEN :": "LEAD FOUNTAIN"
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "11566"
   }, 
   {
     "Category": "Architectural METALWORK", 
+    "STOLEN": "GATES", 
     "nItemsStolen": "1", 
     "CrimeRef": "JS/03/1141", 
     "Contact": "Devon & Cornwall Constabulary, Tel", 
-    "Location": "UK > Devon", 
-    "ID": "11418", 
-    "STOLEN :": "GATES"
+    "Location": "UK > Devon",
+    "Lat":50.715559,
+    "Lon":-3.530875, 
+    "ID": "11418"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "BRASS ARMILLARY SUNDIAL AND STONE PLINTH", 
     "nItemsStolen": "2", 
     "CrimeRef": "A604220", 
     "Contact": "Hertford Police crime desk (Hertfordshire, UK) Tel", 
-    "Location": "UK > Hertfordshire", 
-    "ID": "11385", 
-    "STOLEN :": "BRASS ARMILLARY SUNDIAL AND STONE PLINTH"
+    "Location": "UK > Hertfordshire",
+    "Lat":51.809782,
+    "Lon":-0.237674, 
+    "ID": "11385"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "DECORATIVE FIREPLACE", 
     "nItemsStolen": "1", 
     "CrimeRef": "Ref No", 
     "Contact": "Lurgan Police Station (Co. Down, N. Ireland) Tel", 
-    "Location": "UK > Co Down", 
-    "ID": "11384", 
-    "STOLEN :": "DECORATIVE FIREPLACE"
+    "Location": "UK > Co Down",
+    "Lat":54.327699,
+    "Lon":-5.715767, 
+    "ID": "11384"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "COPPER POTS", 
     "nItemsStolen": "2", 
     "CrimeRef": "9056/04", 
     "Contact": "Antique desk, Avon & Somerset Police. Tel 01275 816730", 
-    "Location": "UK > Somerset", 
-    "ID": "11352", 
-    "STOLEN :": "COPPER POTS"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "11352"
   }, 
   {
     "Category": "Architectural METALWORK", 
+    "STOLEN": "PAIR OF IRON GATES", 
     "nItemsStolen": "2", 
     "CrimeRef": "FB 912 6615-04", 
     "Contact": "Newbury Police (Berkshire, UK) Tel", 
-    "Location": "UK > Berkshire", 
-    "ID": "11278", 
-    "STOLEN :": "PAIR OF IRON GATES"
+    "Location": "UK > Berkshire",
+    "Lat":42.30424,
+    "Lon":-76.186596, 
+    "ID": "11278"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "FIREPLACES", 
     "nItemsStolen": "2", 
     "CrimeRef": "472X", 
     "Contact": "Contact Salvo", 
-    "Location": "UK > Northumberland", 
-    "ID": "10893", 
-    "STOLEN :": "FIREPLACES"
+    "Location": "UK > Northumberland",
+    "Lat":55.208254,
+    "Lon":-2.078414, 
+    "ID": "10893"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "PAIR OF GREYHOUNDS OR WHIPPETS", 
     "nItemsStolen": "2", 
     "CrimeRef": "F907017032000", 
     "Contact": "Antique desk, Avon & Somerset Police. Tel 01275 816730", 
-    "Location": "UK > Somerset", 
-    "ID": "10889", 
-    "STOLEN :": "PAIR OF GREYHOUNDS OR WHIPPETS"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "10889"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "MILLSTONE", 
     "nItemsStolen": "1", 
     "CrimeRef": "12860-04", 
     "Contact": "Wymondham Police Station (Norfolk, England). Tel", 
-    "Location": "UK > Norfolk", 
-    "ID": "10874", 
-    "STOLEN :": "MILLSTONE"
+    "Location": "UK > Norfolk",
+    "Lat":36.850769,
+    "Lon":-76.285873, 
+    "ID": "10874"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "PAIR OF STONE LIONS WITH SHIELDS", 
     "nItemsStolen": "2", 
     "CrimeRef": "Incident No", 
     "Contact": "Wiltshire Police (Devizes, Wiltshire, UK). Tel", 
-    "Location": "UK > Wiltshire", 
-    "ID": "10684", 
-    "STOLEN :": "PAIR OF STONE LIONS WITH SHIELDS"
+    "Location": "UK > Wiltshire",
+    "Lat":51.3492,
+    "Lon":-1.99271, 
+    "ID": "10684"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "BEDALE CAST IRON URN", 
     "nItemsStolen": "1", 
     "CrimeRef": "Incident number 1040120097", 
     "Contact": "North Yorkshire Police. (England). Tel", 
-    "Location": "UK > North Yorkshire", 
-    "ID": "9679", 
-    "STOLEN :": "BEDALE CAST IRON URN"
+    "Location": "UK > North Yorkshire",
+    "Lat":53.991503,
+    "Lon":-1.541201, 
+    "ID": "9679"
   }, 
   {
     "Category": "FURNITURE & MIRRORS", 
+    "STOLEN": "A SERAPI DESIGN CARPET", 
     "nItemsStolen": "1", 
     "CrimeRef": "4603034/04", 
-    "Item": "A Serapi design carpet, Turkish modern, handmade wool\nRECOVERED", 
-    "Location": "UK > London East", 
-    "ID": "10534", 
-    "STOLEN :": "A SERAPI DESIGN CARPET"
+    "Location": "UK > London East",
+    "Lat":51.507351,
+    "Lon":-0.127758, 
+    "ID": "10534"
   }, 
   {
     "Category": "Architectural METALWORK", 
+    "STOLEN": "PAIR OF OLD IRON DRIVE GATES", 
     "nItemsStolen": "1", 
     "CrimeRef": "379", 
     "Contact": "Any info please to Police Service of Northern Ireland at Cushendall police station. Tel (UK) 028 21771 222 or 07932 776107", 
-    "Location": "UK > Co Antrim", 
-    "ID": "10479", 
-    "STOLEN :": "PAIR OF OLD IRON DRIVE GATES"
+    "Location": "UK > Co Antrim",
+    "Lat":44.973044,
+    "Lon":-85.176909, 
+    "ID": "10479"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "BRONZE ADORANTE", 
     "nItemsStolen": "1", 
     "CrimeRef": "C/03/18921", 
     "Contact": "Farnham Police Station (Surrey, England). Tel", 
-    "Location": "UK > Surrey", 
-    "ID": "10478", 
-    "STOLEN :": "BRONZE ADORANTE"
+    "Location": "UK > Surrey",
+    "Lat":49.10443,
+    "Lon":-122.801094, 
+    "ID": "10478"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "PAIR OF STONE FALCONS", 
     "nItemsStolen": "2", 
     "CrimeRef": "CR/090832/03", 
     "Contact": "Cheshire Constabulary (Crewe, Cheshire, England) Tel", 
-    "Location": "UK > Shropshire", 
-    "ID": "10380", 
-    "STOLEN :": "PAIR OF STONE FALCONS"
+    "Location": "UK > Shropshire",
+    "Lat":52.706366,
+    "Lon":-2.741785, 
+    "ID": "10380"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "TWO WIREWORK SEATS AND A STONE TROUGH", 
     "nItemsStolen": "3", 
     "CrimeRef": "Seat 83839/03. Trough 079132/03", 
     "Contact": "PC3838 Wilmslow Police Station. Tel (UK) 01625 610000", 
-    "Location": "UK > Cheshire", 
-    "ID": "10249", 
-    "STOLEN :": "TWO WIREWORK SEATS AND A STONE TROUGH"
+    "Location": "UK > Cheshire",
+    "Lat":41.508367,
+    "Lon":-72.91062, 
+    "ID": "10249"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "ONE STONEWARE URN AND ONE TERRACOTTA URN", 
     "nItemsStolen": "2", 
     "CrimeRef": "1032670199", 
     "Contact": "PC 688, Thirsk Police Station (North Yorkshire, England) Telephone", 
-    "Location": "UK > North Yorkshire", 
-    "ID": "10150", 
-    "STOLEN :": "ONE STONEWARE URN AND ONE TERRACOTTA URN"
+    "Location": "UK > North Yorkshire",
+    "Lat":53.991503,
+    "Lon":-1.541201, 
+    "ID": "10150"
   }, 
   {
-    "nItemsStolen": "4", 
-    "Contact": "Avon and Somerset Police (Bristol, UK) Tel", 
+    "STOLEN": "LAMP BASE, 3NO TERRACOTTA FINIALS", 
     "CrimeRef": "9015\\03", 
-    "STOLEN :": "LAMP BASE, 3NO TERRACOTTA FINIALS"
+    "Contact": "Avon and Somerset Police (Bristol, UK) Tel", 
+    "nItemsStolen": "4"
   }, 
   {
     "Category": "ROOF SLATES & TILES", 
+    "STOLEN": "5000NO WELSH SLATES", 
     "CrimeRef": "Incident no", 
     "Contact": "Romsey Police, Hampshire. Tel", 
-    "Location": "UK > Hampshire", 
-    "ID": "9827", 
-    "STOLEN :": "5000NO WELSH SLATES"
+    "Location": "UK > Hampshire",
+    "Lat":51.057695,
+    "Lon":-1.308063, 
+    "ID": "9827"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "CAST IRON STOVE", 
     "nItemsStolen": "1", 
     "CrimeRef": "JH/03/213", 
     "Contact": "WPC 4091, Devon and Cornwall Police, Exeter. Tel", 
-    "Location": "UK > Devon", 
-    "ID": "9820", 
-    "STOLEN :": "CAST IRON STOVE"
+    "Location": "UK > Devon",
+    "Lat":50.715559,
+    "Lon":-3.530875, 
+    "ID": "9820"
   }, 
   {
-    "nItemsStolen": "9", 
-    "Contact": "Kent Police, Dover. Tel", 
+    "STOLEN": "NINE LOTS OF GARDEN STATUARY", 
     "CrimeRef": "HZ/12069/03", 
-    "STOLEN :": "NINE LOTS OF GARDEN STATUARY"
+    "Contact": "Kent Police, Dover. Tel", 
+    "nItemsStolen": "9"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "BRONZE DEER STOLEN", 
     "nItemsStolen": "2", 
     "CrimeRef": "case 9011/03", 
     "Contact": "Antiques desk, Avon and Somerset police. Tel 01275 816730. Fax 01275 816775.", 
-    "Location": "UK > Somerset", 
-    "ID": "9767", 
-    "STOLEN :": "BRONZE DEER STOLEN"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "9767"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "COMPOSITION STONE FIGURE OF A YOUNG GIRL", 
     "nItemsStolen": "1", 
     "CrimeRef": "FA 0317221", 
     "Contact": "West Yorkshire Police, Halifax. Tel 01422 337059", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "9723", 
-    "STOLEN :": "COMPOSITION STONE FIGURE OF A YOUNG GIRL"
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "9723"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "BRONZE PAN STOLEN FROM BATH", 
     "nItemsStolen": "1", 
     "CrimeRef": "case 9007/03", 
     "Contact": "Antique desk, Avon and Somerset Police. Tel 01275 816730", 
-    "Location": "UK > Somerset", 
-    "ID": "9712", 
-    "STOLEN :": "BRONZE PAN STOLEN FROM BATH"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "9712"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "PAIR OF CARVED RED SANDSTONE LIONS", 
     "nItemsStolen": "2", 
     "CrimeRef": "CR/050657/03", 
     "Contact": "Cheshire Police. Tel 01244 614249 or 01270 500222", 
-    "Location": "UK > Cheshire", 
-    "ID": "9669", 
-    "STOLEN :": "PAIR OF CARVED RED SANDSTONE LIONS"
+    "Location": "UK > Cheshire",
+    "Lat":41.508367,
+    "Lon":-72.91062, 
+    "ID": "9669"
   }, 
   {
     "Category": "BRICKS", 
+    "STOLEN": "60NO HALF ROUND COPING BRICKS", 
     "nItemsStolen": "60", 
     "CrimeRef": "LO/03 2636", 
     "Contact": "PC787 Lowestoft Police Station. Tel 01986 835100.", 
-    "Location": "UK > Suffolk", 
-    "ID": "9279", 
-    "STOLEN :": "60NO HALF ROUND COPING BRICKS"
+    "Location": "UK > Suffolk",
+    "Lat":52.187247,
+    "Lon":0.97078, 
+    "ID": "9279"
   }, 
   {
     "Category": "Architectural WOODWORK & Panelling", 
+    "STOLEN": "PAINTED 15THC CHURCH PANELS STOLEN", 
     "nItemsStolen": "3", 
     "CrimeRef": "No crime ref no given", 
     "Contact": "Antiques desk, Devon & Cornwall police. Tel 01392 452444.", 
-    "Location": "UK > Devon", 
-    "ID": "8851", 
-    "STOLEN :": "PAINTED 15THC CHURCH PANELS STOLEN"
+    "Location": "UK > Devon",
+    "Lat":50.715559,
+    "Lon":-3.530875, 
+    "ID": "8851"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "FIVE CAST IRON FIREPLACES", 
     "nItemsStolen": "8", 
     "CrimeRef": "case 8973/02", 
     "Contact": "Antiques officer, Avon and Somerset police. Tel 01275 816730.", 
-    "Location": "UK > Bristol", 
-    "ID": "8829", 
-    "STOLEN :": "FIVE CAST IRON FIREPLACES"
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "8829"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "SIX STONE URNS STOLEN", 
     "nItemsStolen": "6", 
     "CrimeRef": "case 8974/02", 
     "Contact": "Antiques officer, Avon and Somerset police. Tel 01275 816730.", 
-    "Location": "UK > Somerset", 
-    "ID": "8828", 
-    "STOLEN :": "SIX STONE URNS STOLEN"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "8828"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "METAL BUST OF A VICTORIAN MAN", 
     "nItemsStolen": "1", 
     "CrimeRef": "case 8980/02", 
     "Contact": "Antiques officer, Avon and Somerset Police, FIB. Tel 01275 816730.", 
-    "Location": "UK > Somerset", 
-    "ID": "8826", 
-    "STOLEN :": "METAL BUST OF A VICTORIAN MAN"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "8826"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "TWO OAK BENCHES STOLEN", 
     "nItemsStolen": "2", 
     "CrimeRef": "A/A/03/5166", 
     "Contact": "Staines Police Station, Surrey, UK.  Tel", 
-    "Location": "UK > Surrey", 
-    "ID": "8822", 
-    "STOLEN :": "TWO OAK BENCHES STOLEN"
+    "Location": "UK > Surrey",
+    "Lat":49.10443,
+    "Lon":-122.801094, 
+    "ID": "8822"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "TWO BRONZE DEER STOLEN", 
     "nItemsStolen": "2", 
     "CrimeRef": "011473/03", 
     "Contact": "Gloucestershire Constabulary, UK. Tel", 
-    "Location": "UK > Gloucestershire", 
-    "ID": "8799", 
-    "STOLEN :": "TWO BRONZE DEER STOLEN"
+    "Location": "UK > Gloucestershire",
+    "Lat":51.864211,
+    "Lon":-2.238034,  
+    "ID": "8799"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "TWO BRONZE RESIN CHILDREN STOLEN", 
     "nItemsStolen": "2", 
     "CrimeRef": "3902845/03/B", 
     "Contact": "PC521 RY Bexley Police. Tel 020 8301 1212.", 
-    "Location": "UK > Kent", 
-    "ID": "8777", 
-    "STOLEN :": "TWO BRONZE RESIN CHILDREN STOLEN"
+    "Location": "UK > Kent",
+    "Lat":51.278708,
+    "Lon":0.521725, 
+    "ID": "8777"
   }, 
   {
     "Category": "FURNITURE & MIRRORS", 
+    "STOLEN": "EIGHT ANTIQUE CHAIRS AND A TAPESTRY", 
     "nItemsStolen": "9", 
     "CrimeRef": "03UE-2116Z-03", 
     "Contact": "DC222 at FIB. Tel 01768 217307.", 
-    "Location": "UK > Cumbria", 
-    "ID": "8433", 
-    "STOLEN :": "EIGHT ANTIQUE CHAIRS AND A TAPESTRY"
+    "Location": "UK > Cumbria",
+    "Lat":54.577232,
+    "Lon":-2.797483, 
+    "ID": "8433"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "PAIR OF CARVED SPHINX", 
     "nItemsStolen": "2", 
     "CrimeRef": "B/03/1479", 
     "Contact": "Caterham Police. Tel 01737 765040 ext. 6239.", 
-    "Location": "UK > Surrey", 
-    "ID": "7857", 
-    "STOLEN :": "PAIR OF CARVED SPHINX"
+    "Location": "UK > Surrey",
+    "Lat":49.10443,
+    "Lon":-122.801094, 
+    "ID": "7857"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "STONE CIDER MILL", 
     "nItemsStolen": "1", 
     "CrimeRef": "Case 181103", 
     "Contact": "Stonehouse police station, Gloucestershire. Tel 01452 521201.", 
-    "Location": "UK > Gloucestershire", 
-    "ID": "8743", 
-    "STOLEN :": "STONE CIDER MILL"
+    "Location": "UK > Gloucestershire",
+    "Lat":51.864211,
+    "Lon":-2.238034,  
+    "ID": "8743"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "RELIEF OF THE ASCENSION", 
     "nItemsStolen": "1", 
     "CrimeRef": "Case 8967/02", 
     "Contact": "Antiques desk, Avon and Somerset Police. Tel 01275 816730.", 
-    "Location": "UK > Somerset", 
-    "ID": "7702", 
-    "STOLEN :": "RELIEF OF THE ASCENSION"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "7702"
   }, 
   {
     "Category": "Architectural METALWORK", 
+    "STOLEN": "BLUE GATES STOLEN IN NORFOLK", 
     "nItemsStolen": "2", 
     "CrimeRef": "60069-02", 
     "Contact": "Norfolk Police. Tel (UK) 01953 424242.", 
-    "Location": "UK > Norfolk", 
-    "ID": "8731", 
-    "STOLEN :": "BLUE GATES STOLEN IN NORFOLK"
+    "Location": "UK > Norfolk",
+    "Lat":36.850769,
+    "Lon":-76.285873,
+    "ID": "8731"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "TWO LONG LEGGED BIRDS AND A GIRL", 
     "nItemsStolen": "3", 
     "CrimeRef": "Case no 624", 
     "Contact": "PC797 at Great Dunmow police station. Telephone 01371 872208.", 
-    "Location": "UK > Essex", 
-    "ID": "8454", 
-    "STOLEN :": "TWO LONG LEGGED BIRDS AND A GIRL"
+    "Location": "UK > Essex",
+    "Lat":51.734331,
+    "Lon":0.469089, 
+    "ID": "8454"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "PAIR OF CAST IRON URNS", 
     "nItemsStolen": "2", 
     "CrimeRef": "0123 270 769", 
     "Contact": "DC1200 Northallerton police station. Tel 01609 783131", 
-    "Location": "UK > North Yorkshire", 
-    "ID": "8729", 
-    "STOLEN :": "PAIR OF CAST IRON URNS"
+    "Location": "UK > North Yorkshire",
+    "Lat":53.991503,
+    "Lon":-1.541201, 
+    "ID": "8729"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "EAGLE", 
     "nItemsStolen": "1", 
     "CrimeRef": "Case no 8952/02", 
     "Contact": "Avon and Somerset police antiques desk. Tel 01275 816730.", 
-    "Location": "UK > Somerset", 
-    "ID": "8718", 
-    "STOLEN :": "EAGLE"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "8718"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "SEVEN STADDLE STONE TOPS", 
     "nItemsStolen": "7", 
     "CrimeRef": "Case no 8951/02", 
     "Contact": "Avon and Somerset police antiques desk. Tel 01275 816730.", 
-    "Location": "UK > Somerset", 
-    "ID": "8717", 
-    "STOLEN :": "SEVEN STADDLE STONE TOPS"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "8717"
   }, 
   {
     "Category": "FURNITURE & MIRRORS", 
+    "STOLEN": "LECTERN, CHANDELIER, COFFER, CHAIRS", 
     "nItemsStolen": "5", 
     "CrimeRef": "136 B 021102", 
     "Contact": "PC1060 Penrith police station 01768 891999 or DC1579 FIB Cumbria Police 01768 217342.", 
-    "Location": "UK > Cumbria", 
-    "ID": "8713", 
-    "STOLEN :": "LECTERN, CHANDELIER, COFFER, CHAIRS"
+    "Location": "UK > Cumbria",
+    "Lat":54.577232,
+    "Lon":-2.797483, 
+    "ID": "8713"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "VILLAGE WAR MEMORIAL CRUCIFIX STOLEN", 
     "nItemsStolen": "1", 
     "CrimeRef": "none given", 
     "Contact": "Chairman of Earls Croome Parish Council. West Mercia police may also be able to help. Tel 08457 444888", 
-    "Location": "UK > Hereford & Worcs", 
-    "ID": "8694", 
-    "STOLEN :": "VILLAGE WAR MEMORIAL CRUCIFIX STOLEN"
+    "Location": "UK > Hereford & Worcs",
+    "Lat":52.039177,
+    "Lon":-2.424257, 
+    "ID": "8694"
   }, 
   {
     "Category": "Architectural WOODWORK & Panelling", 
+    "STOLEN": "CARVED PANEL FROM A MEDIEVAL ROOD SCREEN", 
     "nItemsStolen": "1", 
     "CrimeRef": "case no 8931/02", 
     "Contact": "Antiques desk, Avon and Somerset Police. Tel 01275 816730.", 
-    "Location": "UK > Somerset", 
-    "ID": "8684", 
-    "STOLEN :": "CARVED PANEL FROM A MEDIEVAL ROOD SCREEN"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "8684"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "SIX MARBLE CHIMNEYPIECES", 
     "nItemsStolen": "2", 
     "CrimeRef": "6318848/02E", 
     "Contact": "DC Richard Jones, Crime Unit, Marylebone Burglary Squad. Tel (UK) 020 7321 9408/9457", 
-    "Location": "UK > London West", 
-    "ID": "8681", 
-    "STOLEN :": "SIX MARBLE CHIMNEYPIECES"
+    "Location": "UK > London West",
+    "Lat":51.507351,
+    "Lon":-0.127758, 
+    "ID": "8681"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "SIX MARBLE CHIMNEYPIECES", 
     "nItemsStolen": "2", 
     "CrimeRef": "6318848/02E", 
     "Contact": "DC Richard Jones, Crime Unit, Marylebone Burglary Squad. Tel (UK) 020 7321 9408/9457", 
-    "Location": "UK > London West", 
-    "ID": "8680", 
-    "STOLEN :": "SIX MARBLE CHIMNEYPIECES"
+    "Location": "UK > London West",
+    "Lat":51.507351,
+    "Lon":-0.127758, 
+    "ID": "8680"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "SIX MARBLE CHIMNEYPIECES", 
     "nItemsStolen": "2", 
     "CrimeRef": "6318848/02E", 
     "Contact": "DC Richard Jones, Crime Unit, Marylebone Burglary Squad. Tel (UK) 020 7321 9408/9457", 
-    "Location": "UK > London West", 
-    "ID": "8679", 
-    "STOLEN :": "SIX MARBLE CHIMNEYPIECES"
+    "Location": "UK > London West",
+    "Lat":51.507351,
+    "Lon":-0.127758, 
+    "ID": "8679"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "A PAIR OF WEATHERED EAGLES", 
     "nItemsStolen": "2", 
     "CrimeRef": "1022850663", 
-    "Item": "Stolen from Thirsk, North Yorkshire, England on 11 October 2002. \n\r\nA pair of eagles (possibly composition stone by Austin and Sealey) approx 38ins high, stone grey colour with some lichen\nRECOVERED", 
-    "Location": "UK > North Yorkshire", 
-    "ID": "8676", 
-    "STOLEN :": "A PAIR OF WEATHERED EAGLES"
+    "Location": "UK > North Yorkshire",
+    "Lat":53.991503,
+    "Lon":-1.541201, 
+    "ID": "8676"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "ITALIAN CARVED MARBLE LION ON A SHAFT", 
     "nItemsStolen": "1", 
     "CrimeRef": "DA/02/22917", 
     "Contact": "DC1000, Antiques section, West Yorkshire police. Tel (UK) 01924 292531.", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8675", 
-    "STOLEN :": "ITALIAN CARVED MARBLE LION ON A SHAFT"
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8675"
   }, 
   {
     "Category": "FINE ARCHITECTURAL & GARDEN ANTIQUES", 
+    "STOLEN": "C1200 BRONZE DOOR HANDLE", 
     "nItemsStolen": "1", 
     "CrimeRef": "AA/02/16571", 
     "Contact": "DC 1000, Antiques section, West Yorkshire police. Tel (UK) 01924 292531.", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8674", 
-    "STOLEN :": "C1200 BRONZE DOOR HANDLE"
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8674"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "TWO TORSO, STONE AND MARBLE", 
     "nItemsStolen": "2", 
     "CrimeRef": "DA/02/22917", 
     "Contact": "DC1000, Antiques section, West Yorkshire police. Tel (UK) 01924 292531.", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "7726", 
-    "STOLEN :": "TWO TORSO, STONE AND MARBLE"
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "7726"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "LEAD FOUNTAIN STOLEN", 
     "nItemsStolen": "1", 
     "CrimeRef": "C/02/44418", 
     "Contact": "Guildford Police. Tel 01483 531111.", 
-    "Location": "UK > Surrey", 
-    "ID": "8655", 
-    "STOLEN :": "LEAD FOUNTAIN STOLEN"
+    "Location": "UK > Surrey",
+    "Lat":49.10443,
+    "Lon":-122.801094, 
+    "ID": "8655"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "SEVEN MATCHING URNS STOLEN", 
     "nItemsStolen": "7", 
     "CrimeRef": "03UE/20660F/02", 
     "Contact": "DC 222 Cumbria Force Intelligence Bureau. Tel", 
-    "Location": "UK > Cumbria", 
-    "ID": "8628", 
-    "STOLEN :": "SEVEN MATCHING URNS STOLEN"
+    "Location": "UK > Cumbria",
+    "Lat":54.577232,
+    "Lon":-2.797483, 
+    "ID": "8628"
   }, 
   {
-    "nItemsStolen": "1", 
-    "Contact": "Antiques desk, Avon and Somerset Police. Tel (UK) 01275 816730.", 
+    "STOLEN": "SUNDIAL PLATE - COGGS OF FLEET STREET", 
     "CrimeRef": "Case 8912/02", 
-    "STOLEN :": "SUNDIAL PLATE - COGGS OF FLEET STREET"
+    "Contact": "Antiques desk, Avon and Somerset Police. Tel (UK) 01275 816730.", 
+    "nItemsStolen": "1"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "BIRD BATHS, PLANTERS AND STATUARY", 
     "nItemsStolen": "5", 
     "CrimeRef": "1021780092", 
     "Contact": "North Yorkshire police. Tel 01756 793377.", 
-    "Location": "UK > North Yorkshire", 
-    "ID": "8481", 
-    "STOLEN :": "BIRD BATHS, PLANTERS AND STATUARY"
+    "Location": "UK > North Yorkshire",
+    "Lat":53.991503,
+    "Lon":-1.541201, 
+    "ID": "8481"
   }, 
   {
     "Category": "FINE ARCHITECTURAL & GARDEN ANTIQUES", 
+    "STOLEN": "STOLEN MONUMENTAL BRASS EFFIGY", 
     "nItemsStolen": "1", 
     "CrimeRef": "Case 8917/02", 
     "Contact": "Antiques desk, Avon and Somerset Police. Tel 01275 816730.", 
-    "Location": "UK > Somerset", 
-    "ID": "8482", 
-    "STOLEN :": "STOLEN MONUMENTAL BRASS EFFIGY"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "8482"
   }, 
   {
     "Category": "FLAGSTONES & FLOOR TILES", 
+    "STOLEN": "BRISTOL PENNANT PAVEMENT FLAGSTONE THEFTS", 
     "nItemsStolen": "100", 
     "CrimeRef": "B77361652002", 
     "Contact": "Avon and Somerset police. Tel 0117 945 5466.", 
-    "Location": "UK > Bristol", 
-    "ID": "8485", 
-    "STOLEN :": "BRISTOL PENNANT PAVEMENT FLAGSTONE THEFTS"
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "8485"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "HORNED DEVIL PIG BEAST WITH HANDBAG", 
     "nItemsStolen": "1", 
     "CrimeRef": "Case 8926/02", 
     "Contact": "Antiques desk, Avon & Somerset Police. Tel 01275 816730.", 
-    "Location": "UK > Somerset", 
-    "ID": "8487", 
-    "STOLEN :": "HORNED DEVIL PIG BEAST WITH HANDBAG"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "8487"
   }, 
   {
     "Category": "Architectural STONE & TERRACOTTA", 
+    "STOLEN": "PINEAPPLE FINIAL", 
     "nItemsStolen": "1", 
     "CrimeRef": "unknown", 
     "Contact": "Stroud Police. Tel 01452 521201.", 
-    "Location": "UK > Gloucestershire", 
-    "ID": "8491", 
-    "STOLEN :": "PINEAPPLE FINIAL"
+    "Location": "UK > Gloucestershire",
+    "Lat":51.864211,
+    "Lon":-2.238034,  
+    "ID": "8491"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "LEAD FIGURE OF A YOUNG GIRL", 
     "nItemsStolen": "1", 
     "CrimeRef": "032033/02", 
     "Contact": "Sgt183 Stow on the Wold police station. Tel Gloucestershire Police HQ 01242 276653.", 
-    "Location": "UK > Gloucestershire", 
-    "ID": "8493", 
-    "STOLEN :": "LEAD FIGURE OF A YOUNG GIRL"
+    "Location": "UK > Gloucestershire",
+    "Lat":51.864211,
+    "Lon":-2.238034,  
+    "ID": "8493"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "PAIR OF STONE OR CONCRETE LIONS", 
     "nItemsStolen": "2", 
     "CrimeRef": "CA/02/13291", 
     "Contact": "Antiques section, West Yorkshire Police. Tel 01924 292469.", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8469", 
-    "STOLEN :": "PAIR OF STONE OR CONCRETE LIONS"
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8469"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "INCISED BRASS EFFIGY OF A MEDIEVAL LADY", 
     "nItemsStolen": "1", 
     "CrimeRef": "E36450507200201", 
     "Contact": "Antiques desk, Avon and Somerset Police. Tel 01275 816730.", 
-    "Location": "UK > Bristol", 
-    "ID": "8462", 
-    "STOLEN :": "INCISED BRASS EFFIGY OF A MEDIEVAL LADY"
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "8462"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "TWO OLD STONE SCULPTURES STOLEN", 
     "nItemsStolen": "2", 
     "CrimeRef": "J45991306200202", 
     "Contact": "Antiques Desk, FIB, Avon & Somerset Police. Tel 01275 816730.", 
-    "Location": "UK > Bristol", 
-    "ID": "8417", 
-    "STOLEN :": "TWO OLD STONE SCULPTURES STOLEN"
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "8417"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "FIVE CHINESE TOMB FIGURES", 
     "nItemsStolen": "5", 
     "CrimeRef": "G04722505200201", 
     "Contact": "Antiques Desk, FIB, Avon and Somerset Police. Tel 01275 816730", 
-    "Location": "UK > Bristol", 
-    "ID": "8418", 
-    "STOLEN :": "FIVE CHINESE TOMB FIGURES"
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "8418"
   }, 
   {
     "Category": "FLOORING", 
+    "STOLEN": "OAK FLOORING OBTAINED BY DECEPTION", 
     "nItemsStolen": "1", 
     "CrimeRef": "167/140602", 
     "Contact": "CID Spalding Police Station, Lincolnshire Police. Tel 01205 366222.", 
-    "Location": "UK > Lincolnshire", 
-    "ID": "8405", 
-    "STOLEN :": "OAK FLOORING OBTAINED BY DECEPTION"
+    "Location": "UK > Lincolnshire",
+    "Lat":52.945189,
+    "Lon":-0.160125, 
+    "ID": "8405"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "SUNDIAL", 
     "nItemsStolen": "1", 
     "CrimeRef": "177399T02", 
     "Contact": "Manchester Police on 0161 872 5050", 
-    "Location": "UK > Greater Manchester", 
-    "ID": "8403", 
-    "STOLEN :": "SUNDIAL"
+    "Location": "UK > Greater Manchester",
+    "Lat":53.457596,
+    "Lon":-2.157838, 
+    "ID": "8403"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "COALBROOKDALE 'RUSTIC' CAST IRON GARDEN SEAT", 
     "nItemsStolen": "1", 
     "CrimeRef": "AA028672", 
     "Contact": "Antiques section, West Yorkshire Police. Tel 01924 292531. Fax 01924 292573.", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8401", 
-    "STOLEN :": "COALBROOKDALE 'RUSTIC' CAST IRON GARDEN SEAT"
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8401"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "PAIR OF LARGE COMPOSITION STONE LIDDED URNS", 
     "nItemsStolen": "2", 
     "CrimeRef": "AA029628", 
     "Contact": "Antiques section, West Yorkshire Police. Tel 01924 292531. Fax 01924 292573.", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8400", 
-    "STOLEN :": "PAIR OF LARGE COMPOSITION STONE LIDDED URNS"
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8400"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "STOLEN BEDROOM FIREPLACE INSERT", 
     "nItemsStolen": "1", 
     "CrimeRef": "E580 0205200201", 
     "Contact": "Antiques section, Avon and Somerset Police. Tel 01275 816730.", 
-    "Location": "UK > Bristol", 
-    "ID": "8391", 
-    "STOLEN :": "STOLEN BEDROOM FIREPLACE INSERT"
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "8391"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "TWO MARBLE FIRE SURROUNDS", 
     "nItemsStolen": "2", 
     "CrimeRef": "BA/02/6996", 
-    "Item": "Stolen from Leeds, West Yorkshire, England on 5 April 2002.\n\r\nITEM 1", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8381", 
-    "STOLEN :": "TWO MARBLE FIRE SURROUNDS"
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8381"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "LARGE COPPER", 
     "nItemsStolen": "1", 
     "CrimeRef": "F27802903200201", 
     "Contact": "Antiques desk, Avon and Somerset Police. Tel 01275 816730", 
-    "Location": "UK > Bristol", 
-    "ID": "8355", 
-    "STOLEN :": "LARGE COPPER"
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "8355"
   }, 
   {
     "Category": "STAIRCASES parts & accessories", 
+    "STOLEN": "250 CAST IRON STAIRCASE BALUSTERS", 
     "CrimeRef": "EC/02/6446", 
     "Contact": "West Yorkshire Police. Tel 08456 060606", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8353", 
-    "STOLEN :": "250 CAST IRON STAIRCASE BALUSTERS"
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8353"
   }, 
   {
     "Category": "BATHROOM & accessories", 
+    "STOLEN": "SEVEN ITEMS STOLEN", 
     "CrimeRef": "03ZA/36287/02", 
     "Contact": "DC JR of Windermere CID on 01539 818733", 
-    "Location": "UK > Cumbria", 
-    "ID": "8321", 
-    "STOLEN :": "SEVEN ITEMS STOLEN"
+    "Location": "UK > Cumbria",
+    "Lat":54.577232,
+    "Lon":-2.797483, 
+    "ID": "8321"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "FIREPLACES AND FIRE SURROUNDS STOLEN", 
     "nItemsStolen": "11", 
     "CrimeRef": "91042R02", 
     "Contact": "Greater Manchester Police telephone 0161 872 5050", 
-    "Location": "UK > Greater Manchester", 
-    "ID": "8322", 
-    "STOLEN :": "FIREPLACES AND FIRE SURROUNDS STOLEN"
+    "Location": "UK > Greater Manchester",
+    "Lat":53.457596,
+    "Lon":-2.157838, 
+    "ID": "8322"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "BRONZE SCULPTURE OF TWO PLAYFUL LABRADORS", 
     "nItemsStolen": "1", 
     "CrimeRef": "F22990803200201. Cas", 
     "Contact": "PC2299, Chard Police Station, Avon and Somerset Police. Tel 01935 402166", 
-    "Location": "UK > Somerset", 
-    "ID": "8284", 
-    "STOLEN :": "BRONZE SCULPTURE OF TWO PLAYFUL LABRADORS"
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "8284"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "MARBLE FIGURE OF SCANTILY-CLAD YOUNG FEMALE", 
     "nItemsStolen": "1", 
     "CrimeRef": "GD4606879-02B", 
     "Contact": "Hackney Police Station. Tel 020 7253 1212", 
-    "Location": "UK > London East", 
-    "ID": "8274", 
-    "STOLEN :": "MARBLE FIGURE OF SCANTILY-CLAD YOUNG FEMALE"
+    "Location": "UK > London East",
+    "Lat":51.507351,
+    "Lon":-0.127758, 
+    "ID": "8274"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "WARWICK VASE", 
     "nItemsStolen": "1", 
     "CrimeRef": "C", 
     "Contact": "Dorset Police. Tel 01305 251212", 
-    "Location": "UK > Dorset", 
-    "ID": "8241", 
-    "STOLEN :": "WARWICK VASE"
+    "Location": "UK > Dorset",
+    "Lat":50.748764,
+    "Lon":-2.344479, 
+    "ID": "8241"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "AA/01/18917", 
     "Contact": "DC1000, West Yorkshire FIU. Tel 01924 292531", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8242", 
-    "STOLEN :": ""
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8242"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "SHEPHERDESS", 
     "nItemsStolen": "1", 
     "CrimeRef": "ME1519644/02", 
     "Contact": "P.C. J.M., Abingdon Crime Desk, Thames Valley Police. Tel 01235 556888", 
-    "Location": "UK > Berkshire", 
-    "ID": "8243", 
-    "STOLEN :": "SHEPHERDESS"
+    "Location": "UK > Berkshire",
+    "Lat":42.30424,
+    "Lon":-76.186596, 
+    "ID": "8243"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "2", 
     "CrimeRef": "J460021012002/03 885", 
     "Contact": "Antiques Desk, Avon and Somerset Police. Tel (Somerset, UK) 01275 816730", 
-    "Location": "UK > Bristol", 
-    "ID": "8238", 
-    "STOLEN :": ""
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "8238"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "PUTTI AND ELK", 
     "CrimeRef": "004472-02", 
     "Contact": "Cambridgeshire Police. Tel 01223 358966", 
-    "Location": "UK > Cambridgeshire", 
-    "ID": "8239", 
-    "STOLEN :": "PUTTI AND ELK"
+    "Location": "UK > Cambridgeshire",
+    "Lat":52.205297,
+    "Lon":0.12182, 
+    "ID": "8239"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "MARBLE SUNDIAL PEDESTAL", 
     "nItemsStolen": "1", 
     "CrimeRef": "MD02687", 
     "Contact": "Surrey Police Crime Reporting Bureau. Tel 01483 482640", 
-    "Location": "UK > Surrey", 
-    "ID": "8240", 
-    "STOLEN :": "MARBLE SUNDIAL PEDESTAL"
+    "Location": "UK > Surrey",
+    "Lat":49.10443,
+    "Lon":-122.801094,
+    "ID": "8240"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "STONE PLANTER", 
     "nItemsStolen": "1", 
     "CrimeRef": "AA/01/19638", 
-    "Item": "Stone planter, c1900, approx 3ft 6ins high, the bowl dia approx 18ins-20ins, the pedestal decorated with 'Adam-style' swags and the bowl with a foliate design.\n\r\nStolen from Leeds, West Yorkshire, England on 2 December 2001", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8237", 
-    "STOLEN :": "STONE PLANTER"
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8237"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "", 
     "nItemsStolen": "6", 
     "CrimeRef": "03YA/400J/02 and 03Y", 
     "Contact": "Penrith Police Rural Section on 01768 217580 or Penrith Crime Desk on 01768 217520", 
-    "Location": "UK > Cumbria", 
-    "ID": "8236", 
-    "STOLEN :": ""
+    "Location": "UK > Cumbria",
+    "Lat":54.577232,
+    "Lon":-2.797483, 
+    "ID": "8236"
   }, 
   {
     "Category": "FURNITURE & MIRRORS", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "52-Y-231201", 
     "Contact": "PC20 of Penrith Rural Section on 01768 217580 or to the Penrith Crime Desk 01768 217520", 
-    "Location": "UK > Cumbria", 
-    "ID": "8235", 
-    "STOLEN :": ""
+    "Location": "UK > Cumbria",
+    "Lat":54.577232,
+    "Lon":-2.797483, 
+    "ID": "8235"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "8847/22039", 
     "Contact": "Antiques desk, Avon and Somerset Police. Tel (Somerset, UK) 01275 816730", 
-    "Location": "UK > Bristol", 
-    "ID": "8234", 
-    "STOLEN :": ""
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "8234"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "66130/1", 
     "Contact": "Peterborough Police Station. Tel 01733 563232", 
-    "Location": "UK > Cambridgeshire", 
-    "ID": "8233", 
-    "STOLEN :": ""
+    "Location": "UK > Cambridgeshire",
+    "Lat":52.205297,
+    "Lon":0.12182, 
+    "ID": "8233"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "SUNDIAL AND FINIALS", 
     "nItemsStolen": "2", 
     "CrimeRef": "A601605 and A601625", 
     "Contact": "Salvo, UK. Tel", 
-    "Location": "UK > Hertfordshire", 
-    "ID": "8232", 
-    "STOLEN :": "SUNDIAL AND FINIALS"
+    "Location": "UK > Hertfordshire",
+    "Lat":51.809782,
+    "Lon":-0.237674, 
+    "ID": "8232"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "2", 
     "CrimeRef": "EC/01/10798", 
     "Contact": "DC 1000, Force Intelligence, West Yorkshire Police. Tel 01924 292531", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8231", 
-    "STOLEN :": ""
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8231"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "01-062556", 
     "Contact": "Grand Junction police station. Tel 970-242-6707", 
-    "Location": "USA > Georgia", 
-    "ID": "8230", 
-    "STOLEN :": ""
+    "Location": "USA > Georgia",
+    "Lat":32.165622,
+    "Lon":-82.900075, 
+    "ID": "8230"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "A PAIR OF CARRON BENCHES", 
     "nItemsStolen": "2", 
     "CrimeRef": "#01-14081235", 
     "Contact": "Detective LG (Badge #977), Philadelphia Police Department. Tel 215-686-3352/3353/3354.", 
-    "Location": "USA > Pennsylvania", 
-    "ID": "8229", 
-    "STOLEN :": "A PAIR OF CARRON BENCHES"
+    "Location": "USA > Pennsylvania",
+    "Lat":41.203322,
+    "Lon":-77.194525, 
+    "ID": "8229"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "A20718-01", 
     "Contact": "DC156 FIB Nottinghamshire Police. Tel 01623 483062", 
-    "Location": "UK > Nottinghamshire", 
-    "ID": "8227", 
-    "STOLEN :": ""
+    "Location": "UK > Nottinghamshire",
+    "Lat":53.100319,
+    "Lon":-0.993631, 
+    "ID": "8227"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "CA/01/3523", 
     "Contact": "Skegness Police Station, Lincolnshire Police. Tel 01754 762222 (Ext 4311)", 
-    "Location": "UK > Lincolnshire", 
-    "ID": "8225", 
-    "STOLEN :": ""
+    "Location": "UK > Lincolnshire",
+    "Lat":52.945189,
+    "Lon":-0.160125, 
+    "ID": "8225"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "", 
     "nItemsStolen": "6", 
     "CrimeRef": "63602-01", 
     "Contact": "PC 1466, Bakewell Police Station. Tel 01629 812504. Derbyshire Police", 
-    "Location": "UK > Derbyshire", 
-    "ID": "8224", 
-    "STOLEN :": ""
+    "Location": "UK > Derbyshire",
+    "Lat":53.104678,
+    "Lon":-1.562388, 
+    "ID": "8224"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "", 
     "nItemsStolen": "4", 
     "CrimeRef": "922", 
     "Contact": "South west area command, Prudhoe CID, Northumbria Police, Holyoake Street, Prudhoe, Northumberland N", 
-    "Location": "UK > Northumberland", 
-    "ID": "8223", 
-    "STOLEN :": ""
+    "Location": "UK > Northumberland",
+    "Lat":55.208254,
+    "Lon":-2.078414, 
+    "ID": "8223"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "", 
     "nItemsStolen": "3", 
     "CrimeRef": "03ZB/24225F/01", 
     "Contact": "PC232 or DC 1579, Antiques Officer, Cumbria Police. Tel 01768 891999 ext 7342", 
-    "Location": "UK > Cumbria", 
-    "ID": "8221", 
-    "STOLEN :": ""
+    "Location": "UK > Cumbria",
+    "Lat":54.577232,
+    "Lon":-2.797483, 
+    "ID": "8221"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "2", 
     "CrimeRef": "37392/01", 
     "Contact": "Gloucester Police. Tel 01452 521201 or Antiques Officer at 01242 276653", 
-    "Location": "UK > Gloucestershire", 
-    "ID": "8222", 
-    "STOLEN :": ""
+    "Location": "UK > Gloucestershire",
+    "Lat":51.864211,
+    "Lon":-2.238034,  
+    "ID": "8222"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "HB/006447/01", 
     "Contact": "PC 1324 Meon Valley Police Station, Hampshire Police. Tel 08450 454545", 
-    "Location": "UK > Hampshire", 
-    "ID": "8220", 
-    "STOLEN :": ""
+    "Location": "UK > Hampshire",
+    "Lat":51.057695,
+    "Lon":-1.308063, 
+    "ID": "8220"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "2", 
     "CrimeRef": "6825/01J", 
     "Contact": "Antique section, Avon & Somerset Police HQ. Tel 01275 816730. Fax 01275 816775.", 
-    "Location": "UK > Bristol", 
-    "ID": "8218", 
-    "STOLEN :": ""
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "8218"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "2333045/01", 
     "Contact": "Camden Police. Tel 020 7388 1212", 
-    "Location": "UK > London North", 
-    "ID": "8219", 
-    "STOLEN :": ""
+    "Location": "UK > London North",
+    "Lat":51.507351,
+    "Lon":-0.127758, 
+    "ID": "8219"
   }, 
   {
     "Category": "Architectural METALWORK", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "161209082001/01", 
     "Contact": "Avon & Somerset Police. Tel 01275 816868 (ext 71612)", 
-    "Location": "UK > Bristol", 
-    "ID": "8217", 
-    "STOLEN :": ""
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "8217"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "HD/01/5877", 
     "Contact": "Antiques Section, West Yorkshire Police. Tel 01924 292531", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8215", 
-    "STOLEN :": ""
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8215"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "E200105006(Y)", 
     "Contact": "CMU Bath Police Station, Avon & Somerset Police. Tel 01225 842481", 
-    "Location": "UK > Somerset", 
-    "ID": "8216", 
-    "STOLEN :": ""
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "8216"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "20F2/5513/01", 
     "Contact": "PC1029, West Midlands Police. Tel 0121 428 6020", 
-    "Location": "UK > West Midlands", 
-    "ID": "8214", 
-    "STOLEN :": ""
+    "Location": "UK > West Midlands",
+    "Lat":52.475074,
+    "Lon":-1.829833, 
+    "ID": "8214"
   }, 
   {
     "Category": "Architectural METALWORK", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "2717660-01B", 
     "Contact": "Islington Police Station, Metropolitan Police. Tel 020 7704 1212", 
-    "Location": "UK > London North", 
-    "ID": "8213", 
-    "STOLEN :": ""
+    "Location": "UK > London North",
+    "Lat":51.507351,
+    "Lon":-0.127758, 
+    "ID": "8213"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "WW0317943/01B", 
     "Contact": "Metropolitan Police. Tel 020 8247 8610", 
-    "Location": "UK > London West", 
-    "ID": "8212", 
-    "STOLEN :": ""
+    "Location": "UK > London West",
+    "Lat":51.507351,
+    "Lon":-0.127758, 
+    "ID": "8212"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "", 
     "nItemsStolen": "2", 
     "CrimeRef": "03UE/12292K/01", 
     "Contact": "Penrith CID, Cumbria Police. Tel 01768 217537", 
-    "Location": "UK > Cumbria", 
-    "ID": "8211", 
-    "STOLEN :": ""
+    "Location": "UK > Cumbria",
+    "Lat":54.577232,
+    "Lon":-2.797483, 
+    "ID": "8211"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "F2/01/853", 
     "Contact": "Harpenden Police Station, Hertfordshire Police. Tel 01727 796000", 
-    "Location": "UK > Hertfordshire", 
-    "ID": "8210", 
-    "STOLEN :": ""
+    "Location": "UK > Hertfordshire",
+    "Lat":51.809782,
+    "Lon":-0.237674, 
+    "ID": "8210"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "CARVED WOOD GEORGIAN FIRE SURROUND", 
     "nItemsStolen": "1", 
     "CrimeRef": "F2/01/590", 
-    "Item": "Large carved wood (and gesso?) FIRE SURROUND in the Georgian style, scrolling foliage to the eared jamb outgrounds, heavily moulded frieze with two floral panels, breakfront tablet with landscape scene inc house to left with smoking chimney, heavily moulded mantle\n\r\nStolen from Redbourn, Hertfordshire, England on 11 April 2001\nRECOVERED", 
-    "Location": "UK > Hertfordshire", 
-    "ID": "8209", 
-    "STOLEN :": "CARVED WOOD GEORGIAN FIRE SURROUND"
+    "Location": "UK > Hertfordshire",
+    "Lat":51.809782,
+    "Lon":-0.237674, 
+    "ID": "8209"
   }, 
   {
+    "STOLEN": "FOUR CARVED STONE URNS AND PLINTHS", 
     "nItemsStolen": "4", 
     "CrimeRef": "AC/01/4385", 
     "Contact": "Antiques Section, West Yorkshire Police. Tel 01924 821528", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8207", 
-    "STOLEN :": "FOUR CARVED STONE URNS AND PLINTHS"
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8207"
   }, 
   {
     "Category": "CHIMNEYPIECES, FIREPLACES & GRATES", 
+    "STOLEN": "", 
     "nItemsStolen": "10", 
     "CrimeRef": "2972", 
     "Contact": "Stoke Newington Police. Tel 020 7739 1212. Or Mr J. Carrington on 020 7490 1000", 
-    "Location": "UK > London North", 
-    "ID": "8208", 
-    "STOLEN :": ""
+    "Location": "UK > London North",
+    "Lat":51.507351,
+    "Lon":-0.127758, 
+    "ID": "8208"
   }, 
   {
     "Category": "STATUARY", 
-    "CrimeRef": "F91002505200101", 
-    "Item": "Carved white marble BUST OF CALIGULA, as a Roman soldier with damascened armour, wreath on his head, the inscribed socle with a foliate border, cracked through with three metal armatures, possibly French 17th century.\n\r\nStolen from Chantry, Frome, Somerset, England on 25 May 2001\nRECOVERED", 
-    "Location": "UK > Somerset", 
     "ID": "8206", 
-    "STOLEN :": "BUST OF CALIGULA (RECOVERED 31 MAY 2001 TI)"
+    "STOLEN": "BUST OF CALIGULA (RECOVERED 31 MAY 2001 TI)", 
+    "CrimeRef": "F91002505200101", 
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "", 
     "nItemsStolen": "3", 
     "CrimeRef": "7284/01", 
     "Contact": "Antiques Section, Nottinghamshire Police. Tel 0115 953 3991", 
-    "Location": "UK > Nottinghamshire", 
-    "ID": "8205", 
-    "STOLEN :": ""
+    "Location": "UK > Nottinghamshire",
+    "Lat":53.100319,
+    "Lon":-0.993631, 
+    "ID": "8205"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "EA/01/3773", 
     "Contact": "Antiques Section, West Yorkshire Police. Tel 01924 292531", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8203", 
-    "STOLEN :": ""
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8203"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "8770/21534", 
     "Contact": "Antiques Section, Avon & Somerset Police. Tel 01275 816730", 
-    "Location": "UK > Somerset", 
-    "ID": "8204", 
-    "STOLEN :": ""
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "8204"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "F37052604200101", 
     "Contact": "Avon & Somerset Police, Taunton Police Station. Tel 01823 363766", 
-    "Location": "UK > Somerset", 
-    "ID": "8202", 
-    "STOLEN :": ""
+    "Location": "UK > Somerset",
+    "Lat":51.105097,
+    "Lon":-2.926231, 
+    "ID": "8202"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "", 
     "nItemsStolen": "6", 
     "CrimeRef": "F/2001/215 Case 8752", 
     "Contact": "Antiques desk, Avon & Somerset Police. Tel 01275 816730", 
-    "Location": "UK > Bristol", 
-    "ID": "8201", 
-    "STOLEN :": ""
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "8201"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "2", 
     "CrimeRef": "AC/01/2155", 
     "Contact": "Antique Section, West Yorkshire Police. Tel 01924 292520", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8199", 
-    "STOLEN :": ""
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8199"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "AA/01/294", 
     "Contact": "Antiques section, West Yorkshire Police. Tel 01924 292531", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8200", 
-    "STOLEN :": ""
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8200"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "31E/1238/01", 
     "Contact": "Antiques section, Nottinghamshire Police. Tel 0115 953 3991", 
-    "Location": "UK > Nottinghamshire", 
-    "ID": "8197", 
-    "STOLEN :": ""
+    "Location": "UK > Nottinghamshire",
+    "Lat":53.100319,
+    "Lon":-0.993631, 
+    "ID": "8197"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "E13688/00", 
     "Contact": "Antiques section, Nottinghamshire Police. Tel 0115 953 3991", 
-    "Location": "UK > Nottinghamshire", 
-    "ID": "8198", 
-    "STOLEN :": ""
+    "Location": "UK > Nottinghamshire",
+    "Lat":53.100319,
+    "Lon":-0.993631, 
+    "ID": "8198"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "FD/01/444", 
     "Contact": "Antiques section, Force Intelligence, West Yorkshire Police. Tel 01924 292531", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8196", 
-    "STOLEN :": ""
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8196"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "4", 
     "CrimeRef": "AA/01/2484", 
     "Contact": "Antique Section, Force Intelligence, West Yorkshire Police. Tel 01924 292520", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8194", 
-    "STOLEN :": ""
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8194"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "03UB/3651T/01", 
     "Contact": "Cockermouth Police Station, Tel 01900 823212 OR DC Tony Fitzpatrick, Force Intelligence, Cumbria Pol", 
-    "Location": "UK > Cumbria", 
-    "ID": "8195", 
-    "STOLEN :": ""
+    "Location": "UK > Cumbria",
+    "Lat":54.577232,
+    "Lon":-2.797483, 
+    "ID": "8195"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "", 
     "nItemsStolen": "4", 
     "CrimeRef": "GG1329524/01 (URN 33", 
     "Contact": "Amersham Police Station. Tel 01494 736736.", 
-    "Location": "UK > Buckinghamshire", 
-    "ID": "8193", 
-    "STOLEN :": ""
+    "Location": "UK > Buckinghamshire",
+    "Lat":51.813707,
+    "Lon":-0.80947, 
+    "ID": "8193"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "004904-01", 
     "Contact": "Painswick Police or Antiques Desk, Gloucestershire Police HQ. Tel 01242 276653. Fax 01242 224089", 
-    "Location": "UK > Gloucestershire", 
-    "ID": "8192", 
-    "STOLEN :": ""
+    "Location": "UK > Gloucestershire",
+    "Lat":51.864211,
+    "Lon":-2.238034,  
+    "ID": "8192"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "1431-01", 
     "Contact": "Bangor Police Station. Tel 028 9145 4444", 
-    "Location": "UK > Dyfed", 
-    "ID": "8191", 
-    "STOLEN :": ""
+    "Location": "UK > Dyfed",
+    "Lat":32.118246,
+    "Lon":-96.946885, 
+    "ID": "8191"
   }, 
   {
     "Category": "STATUARY", 
+    "STOLEN": "", 
     "nItemsStolen": "2", 
     "CrimeRef": "G17505/00 case8709", 
     "Contact": "Antiques desk, Avon & Somerset Police. Tel 01275 816730", 
-    "Location": "UK > Bristol", 
-    "ID": "8190", 
-    "STOLEN :": ""
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "8190"
   }, 
   {
     "Category": "Shop, Pub, Church, Telephone Boxes & Bygones", 
+    "STOLEN": "", 
     "nItemsStolen": "1", 
     "CrimeRef": "GM/1051/00 case 8704", 
     "Contact": "Antiques section, Avon & Somerset Police. Tel 01275 816730", 
-    "Location": "UK > Bristol", 
-    "ID": "8188", 
-    "STOLEN :": ""
+    "Location": "UK > Bristol",
+    "Lat":51.454513,
+    "Lon":-2.58791, 
+    "ID": "8188"
   }, 
   {
     "Category": "GARDEN", 
+    "STOLEN": "CAST IRON URN", 
     "nItemsStolen": "1", 
     "CrimeRef": "CB/00/12102", 
-    "Item": "Cast iron URN with loop handles and body cast with relief of procession of people playing musical instruments and dancing, painted white with rust showing through, approx 3ft high by 18ins wide\n\r\nStolen from Bramley, Leeds, West Yorkshire on 15 November 2000\nRECOVERED IN U.S.A.", 
-    "Location": "UK > West Yorkshire", 
-    "ID": "8189", 
-    "STOLEN :": "CAST IRON URN"
+    "Location": "UK > West Yorkshire",
+    "Lat":53.810818,
+    "Lon":-1.76261, 
+    "ID": "8189"
+  }
+    ],
+    "citiesList": "List of cities in the Netherlands"
   }
 ]
