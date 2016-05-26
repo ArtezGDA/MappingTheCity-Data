@@ -1,0 +1,30 @@
+import json
+
+size(512, 512)
+background(0.8, 0.8, 0.8)
+
+# Read all JSON as data
+with open('allData_philly.json', 'r') as inputFile:
+	data = json.load(inputFile)
+
+# Print number of years
+print len(data)
+
+# Repeat with each year (temporary limited to the first 10 years)
+# Do for all years by removing the [:10]
+for yearData in data[:10]:
+	
+	# Print the year
+	print yearData['year']
+	
+	# Get all the months data
+	months = yearData['months']
+	
+	# Repeat with each month
+	for month in months:
+		
+		# Print the month (preceded by a tab)
+		print "\t%s" % (month['month'])
+		
+		# Get the weatherdata
+		wData = month['weather']
