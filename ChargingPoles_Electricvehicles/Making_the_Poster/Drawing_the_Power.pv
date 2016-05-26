@@ -1,6 +1,6 @@
 import json
 
-size(512, 512)
+size(1000, 1000)
 background(1)
 
 def mapValue(value, fromMin, fromMax, toMin, toMax):
@@ -23,10 +23,34 @@ def yOfDot(lat):
 with open("netherlands-chargingpoles.json", 'r') as inputFile:
     data = json.load(inputFile)
 
-for chargingpole in data:
+for chargingpole in data[::10]:
     addresInfo = chargingpole['AddressInfo']
     x = xOfDot(addresInfo['Longitude'])
     y = yOfDot(addresInfo['Latitude'])
-    diameter = 1.0
+    diameter = 3.0
     oval(x, y, diameter, diameter)
-
+    fill("black")
+    
+    connections = chargingpole['Connections']
+    totalPower = 0
+    for connection in connections:
+        thisPower = connection['PowerKW']
+        if thisPower:
+            totalPower = totalPower + thisPower
+    power = totalPower
+    diameter = power
+    # if power == 0 <= number <= 10:
+    #     diameter = 5
+    #     oval(x,y,diameter,diameter)
+    # elif power == 11 <= number <= 20:
+    #     diameter = 10
+    #     oval(x,y,diameter,diameter)
+    # elif power == 21 <= number <= 40:
+    #     diameter = 10
+    #     oval(x,y,diameter,diameter)
+    # elif power == 41 <= number <= 60:
+    #     diameter = 10
+    oval(x,y,diameter,diameter)
+    
+        
+  

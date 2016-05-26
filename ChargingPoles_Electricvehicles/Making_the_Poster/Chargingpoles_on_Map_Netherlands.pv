@@ -20,14 +20,14 @@ def xOfDot(lon):
 def yOfDot(lat):
     return mapValue(lat, 50.5, 54, HEIGHT, 0)
 
-with open("40000resultscharging_poles.json", 'r') as inputFile:
+with open("netherlands-chargingpoles.json", 'r') as inputFile:
     data = json.load(inputFile)
 
-for chargingpole in data:
+for chargingpole in data[::10]:
     addresInfo = chargingpole['AddressInfo']
     x = xOfDot(addresInfo['Longitude'])
     y = yOfDot(addresInfo['Latitude'])
     diameter = 1.0
     oval(x, y, diameter, diameter)
     fill("#ffa500")
-
+  
