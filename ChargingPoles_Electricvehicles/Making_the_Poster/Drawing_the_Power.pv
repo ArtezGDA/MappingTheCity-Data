@@ -32,25 +32,17 @@ for chargingpole in data[::10]:
     fill("black")
     
     connections = chargingpole['Connections']
-    totalPower = 0
+    totalPower = -30
     for connection in connections:
         thisPower = connection['PowerKW']
         if thisPower:
             totalPower = totalPower + thisPower
     power = totalPower
     diameter = power
-    # if power == 0 <= number <= 10:
-    #     diameter = 5
-    #     oval(x,y,diameter,diameter)
-    # elif power == 11 <= number <= 20:
-    #     diameter = 10
-    #     oval(x,y,diameter,diameter)
-    # elif power == 21 <= number <= 40:
-    #     diameter = 10
-    #     oval(x,y,diameter,diameter)
-    # elif power == 41 <= number <= 60:
-    #     diameter = 10
+    color = fill('white', .05)
+    stroke('deeppink')
     oval(x,y,diameter,diameter)
+
     
         
   

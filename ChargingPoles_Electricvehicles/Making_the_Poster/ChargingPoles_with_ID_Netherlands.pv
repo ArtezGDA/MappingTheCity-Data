@@ -28,10 +28,10 @@ for chargingpole in data[::10]:
     x = xOfDot(addresInfo['Longitude'])
     y = yOfDot(addresInfo['Latitude'])
     fill("orange")
-    diameter = 3.0
+    diameter = 4.0
     oval(x, y, diameter, diameter)
     fill("black")
-    font("Helvetica",5)
+    font("courier",6)
     naam = str(chargingpole["ID"])
     text(naam,x,y)
     
