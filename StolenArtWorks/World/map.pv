@@ -1,6 +1,6 @@
 import json
 
-size(400, 400)
+size(1200, 1200)
 fill(0)
 background(1)
 
@@ -41,9 +41,10 @@ for stolenArt in data:
 				# Create new key with new value
 				artworksPerCity[city] = numbersStolen
 			# Draw circle on the map
-			radius = artworksPerCity[city]
+			radius = artworksPerCity[city] / 10
 			x = xOfDot(stolenArt['Lon'])
 			y = yOfDot(stolenArt['Lat'])
 			arc(x, y, radius)
+			text(city, x, y)
 
 print artworksPerCity
