@@ -1,0 +1,99 @@
+{
+  "exampleArray":[
+  {
+    "count": 90, 
+    "hour": 0
+  }, 
+  {
+    "count": 72, 
+    "hour": 1
+  }, 
+  {
+    "count": 75, 
+    "hour": 2
+  }, 
+  {
+    "count": 84, 
+    "hour": 3
+  }, 
+  {
+    "count": 98, 
+    "hour": 4
+  }, 
+  {
+    "count": 70, 
+    "hour": 5
+  }, 
+  {
+    "count": 60, 
+    "hour": 6
+  }, 
+  {
+    "count": 104, 
+    "hour": 7
+  }, 
+  {
+    "count": 158, 
+    "hour": 8
+  }, 
+  {
+    "count": 176, 
+    "hour": 9
+  }, 
+  {
+    "count": 137, 
+    "hour": 10
+  }, 
+  {
+    "count": 110, 
+    "hour": 11
+  }, 
+  {
+    "count": 128, 
+    "hour": 12
+  }, 
+  {
+    "count": 120, 
+    "hour": 13
+  }, 
+  {
+    "count": 131, 
+    "hour": 14
+  }, 
+  {
+    "count": 129, 
+    "hour": 15
+  }, 
+  {
+    "count": 159, 
+    "hour": 16
+  }, 
+  {
+    "count": 175, 
+    "hour": 17
+  }, 
+  {
+    "count": 145, 
+    "hour": 18
+  }, 
+  {
+    "count": 124, 
+    "hour": 19
+  }, 
+  {
+    "count": 114, 
+    "hour": 20
+  }, 
+  {
+    "count": 88, 
+    "hour": 21
+  }, 
+  {
+    "count": 96, 
+    "hour": 22
+  }, 
+  {
+    "count": 94, 
+    "hour": 23
+  }
+]}
