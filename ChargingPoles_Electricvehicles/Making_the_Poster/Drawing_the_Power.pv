@@ -1,7 +1,9 @@
 import json
 
 size(1000, 1000)
-background(1)
+
+background("white")
+
 
 def mapValue(value, fromMin, fromMax, toMin, toMax):
     # Figure out how 'wide' each range is
@@ -39,8 +41,7 @@ for chargingpole in data[::10]:
             totalPower = totalPower + thisPower
     power = totalPower
     diameter = power
-    color = fill('white', .05)
-    stroke('deeppink')
+    color = fill('green', 0.4)
     oval(x,y,diameter,diameter)
 
     
