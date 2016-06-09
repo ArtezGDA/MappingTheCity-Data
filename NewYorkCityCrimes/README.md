@@ -12,8 +12,7 @@ https://data.cityofnewyork.us/Public-Safety/NYPD-7-Major-Felony-Incidents/hyij-8
 <br>
 The purpose of this research is to discover what kind of crime is most common in which borough. We have decided to focus on three neighborhoods that are very different from each other in terms of amount of tourism in that area and the general image of the wealth in that area. Manhattan is the paragon of an upperclass neighborhood with heaps of tourism while Bronx on the other hand contains one of the five poorest districts in the US and has relatively high crime rates. We chose Brooklyn as a third borough because it seems like the in between category. Lively area’s with nice living areas. 
 
-The file we found focuses on 7 felonies:<br> 
-- grand larceny <br>
+The file we found focuses on 6 felonies:<br> 
 - rape <br>
 - burglary<br>
 - robbery<br>
