@@ -39,7 +39,7 @@ Our source data contains, as stated before, the information of 6 different felon
 - open the terminal and type in (image): cat (the place where your .json file is restord) |grep "(the thing you want to filter out, like MANHATTAN)" >(newfilename).json 
 - so now the terminal made a new file where only manhattan is part of it. And you have your new, smaller file. 
 
-![NewYorkCityCrimes](terminal.png)
+![NewYorkCityCrimes](Stap_1_Opzet/Analyzing_data/terminal.png)
 
 
 ##1st itteration
@@ -48,22 +48,22 @@ Our source data contains, as stated before, the information of 6 different felon
 - The next step was to visualise how we wanted the posters to look. 
 - we made a sketch in illustrator
 
-![NewYorkCityCrimes](poster1.pdf)
-![NewYorkCityCrimes](poster2.pdf)
-![NewYorkCityCrimes](poster3.pdf)
+![NewYorkCityCrimes](Stap_1_Opzet/Schetsen/poster1.pdf)
+![NewYorkCityCrimes](Stap_1_Opzet/Schetsen/poster2.pdf)
+![NewYorkCityCrimes](Stap_1_Opzet/Schetsen/poster3.pdf)
 
 ##code / 2nd itteration
 
 - we stared in plotdivce trying to create a bargraph.
 - this was the result
 
-![NewYorkCityCrimes](brooklyn_bulglary.png)
+![NewYorkCityCrimes](Stap_2_Plotdevice/brooklyn/brooklyn_fellonyassault.png)
 
  - the code was good enough because the data wasnt clear what what was. 
  - the next step was to inlcude the hours and make it orginized
  
  
- ![NewYorkCityCrimes]( brooklyn_bulglary_2.png)
+![NewYorkCityCrimes](Stap_2_Plotdevice/brooklyn/brooklyn_bulglary_2.png)
 
 - because of the big file we had we again made a selection of the data we eventually needed. This we did by making a extra part of code in the plotdevice file, where the data we needed exported to a new json file. 
 
