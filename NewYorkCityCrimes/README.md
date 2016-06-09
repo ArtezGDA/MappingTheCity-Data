@@ -69,6 +69,36 @@ Our source data contains, as stated before, the information of 6 different felon
 
 
 
+##3th itteration
+
+
+We found a example of a code that would work better for our idea. 
+
+-next step illustrator codering
+for this you need:
+- illustrator (adobe)
+- extended tool kid (adobe)
+
+in the file: Stap 3 illustrator are all the files you need
+
+1. We worked with a illustrator file that has 24 hours in a clock. 
+2. From there on you need to use the code that is final_code_jsx
+3. you load the json file into the final_code_jsx than save it.
+4. go to the shapeToModify24.ai file open it in illustror
+5. then under fil you click stripting and click on final_code_jsx
+6. now the code that is linked to one crime date will be seen in the illustrator file
+7. continue with all the six crimes.
+
+
+
+These are examples of how the illustrot file should look like:
+
+
+![NewYorkCityCrimes](Stap_3_illustrator/Bronx/circle_graphs-01.png)
+![NewYorkCityCrimes](Stap_3_illustrator/Bronx/circle_graphs-02.png)
+![NewYorkCityCrimes](Stap_3_illustrator/Bronx/circle_graphs-03.png)
+![NewYorkCityCrimes](Stap_3_illustrator/Bronx/circle_graphs-04.png)
+![NewYorkCityCrimes](Stap_3_illustrator/Bronx/circle_graphs-05.png)
 
 
 
