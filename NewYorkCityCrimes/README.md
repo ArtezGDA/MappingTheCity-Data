@@ -39,7 +39,7 @@ Our source data contains, as stated before, the information of 6 different felon
 - open the terminal and type in (image): cat (the place where your .json file is restord) |grep "(the thing you want to filter out, like MANHATTAN)" >(newfilename).json 
 - so now the terminal made a new file where only manhattan is part of it. And you have your new, smaller file. 
 
-![NewYorkCityCrimes](terminal.png)
+![NewYorkCityCrimes](Stap_1_Opzet/Analyzing_data/terminal.png)
 
 
 ##1st itteration
@@ -48,39 +48,61 @@ Our source data contains, as stated before, the information of 6 different felon
 - The next step was to visualise how we wanted the posters to look. 
 - we made a sketch in illustrator.
 
-![NewYorkCityCrimes](poster1.pdf)
-![NewYorkCityCrimes](poster2.pdf)
-![NewYorkCityCrimes](poster3.pdf)
+![NewYorkCityCrimes](Stap_1_Opzet/Schetsen/poster1.png)
+![NewYorkCityCrimes](Stap_1_Opzet/Schetsen/poster2.png)
+![NewYorkCityCrimes](Stap_1_Opzet/Schetsen/poster3.png)
 
-##Data analysis
+##code / 2nd itteration
 
-- Using plot device, we started analysing the data we had collected.
-- The first element we analysed was the which crimes had happened in the boroughs by writing a code in which the json files were scanned on crime.  
-- As outcome we got the list of crimes with the amount of occurrences.
-- Our main question then became: What crime happens most often at which hour? So instead of filtering the json file on amount per crime we wrote a code which filtered the crimes on hours en lister their counts. Now we had exactly the data we needed. 
+- we stared in plotdivce trying to create a bargraph.
+- this was the result
 
-
-
-##Stap 2 Plotdevice 
-
-- With the relevant data we started sketching with the help of the example of the visualising the long tail. 
-- In Plotdevice we used the same code as we had used for the analysis; only now we added the part of code that visualised this data. [graph code](stap_2_plotdevice/brooklyn/brooklyn_bulglary_grafiek.pv)
--The first part of the code consisted of the analysis, of which the results are printed in the box below
-![NewYorkCityCrimes](brooklyn_bulglary.png)
--The second part adds the hours underneath the bargraph
--The third part draws the bargraph 
-- The fourth part draws the horizontal lines which indicate the amount of crimes, every bar stands for 50 crimes 
-
-
-
+![NewYorkCityCrimes](Stap_2_Plotdevice/brooklyn/brooklyn_fellonyassault.png)
 
  - the code was good enough because the data wasnt clear what what was. 
  - the next step was to inlcude the hours and make it orginized
  
  
- ![NewYorkCityCrimes]( brooklyn_bulglary_2.png)
+![NewYorkCityCrimes](Stap_2_Plotdevice/brooklyn/brooklyn_bulglary_2.png)
 
 - because of the big file we had we again made a selection of the data we eventually needed. This we did by making a extra part of code in the plotdevice file, where the data we needed exported to a new json file. 
+
+
+
+##3th itteration
+
+
+We found a example of a code that would work better for our idea. 
+
+-next step illustrator codering
+for this you need:
+- illustrator (adobe)
+- extended tool kid (adobe)
+
+in the file: Stap 3 illustrator are all the files you need
+
+1. We worked with a illustrator file that has 24 hours in a clock. 
+2. From there on you need to use the code that is final_code_jsx
+3. you load the json file into the final_code_jsx than save it.
+4. go to the shapeToModify24.ai file open it in illustror
+5. then under fil you click stripting and click on final_code_jsx
+6. now the code that is linked to one crime date will be seen in the illustrator file
+7. continue with all the six crimes.
+
+
+
+These are examples of how the illustrator file should look like:
+
+
+![NewYorkCityCrimes](Stap_3_illustrator/Bronx/circle_graphs-01.png)
+![NewYorkCityCrimes](Stap_3_illustrator/Bronx/circle_graphs-02.png)
+![NewYorkCityCrimes](Stap_3_illustrator/Bronx/circle_graphs-03.png)
+![NewYorkCityCrimes](Stap_3_illustrator/Bronx/circle_graphs-04.png)
+![NewYorkCityCrimes](Stap_3_illustrator/Bronx/circle_graphs-05.png)
+
+
+
+
 
 
 ## Collaborators
@@ -89,4 +111,16 @@ Our source data contains, as stated before, the information of 6 different felon
 - Lola Beumer
 - Nikki Gersen
 
+
+##License (MIT License)
+
+Apeace Leaflet is released under the MIT license.
+
+Copyright © 2016 GDA Artez Lola Beumer, Nikki Gersen, Isabel zoetbrood.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <br><br><br>
