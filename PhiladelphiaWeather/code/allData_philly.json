@@ -44856,7 +44856,7 @@
           "Heating Degree Days (base 65)": {}, 
           "Dew Point": {
             "max": "17", 
-            "avg": "8", 
+            "avg": "7", 
             "min": "-6"
           }, 
           "Growing Degree Days (base 50)": {}, 
@@ -44873,7 +44873,7 @@
           "Max Temperature": {
             "max": "24", 
             "avg": "17", 
-            "min": "11"
+            "min": "12"
           }, 
           "Precipitation": {
             "max": "29.2", 
@@ -44883,7 +44883,7 @@
           }, 
           "Wind": {
             "max": "58", 
-            "avg": "13", 
+            "avg": "14", 
             "min": "0"
           }, 
           "Mean Temperature": {
