@@ -1,0 +1,77 @@
+import json
+
+
+size(800, 510)
+background(1)
+
+def mapValue(value, fromMin, fromMax, toMin, toMax):
+	# Figure out how 'wide' each range is
+	fromSpan = fromMax - fromMin
+	toSpan = toMax - toMin
+	
+	# Convert the from range into a 0-1 range (float)
+	valueScaled = float(value - fromMin) / float(fromSpan)
+	
+	# Convert the 0-1 range into a value in the to range.
+	return toMin + (valueScaled * toSpan)
+
+def xOfDot(lon):
+	return mapValue(lon, 82, 131, 0, WIDTH)
+
+def yOfDot(lat):
+	return mapValue(lat, 17, 49, HEIGHT, 0)
+
+with open("province_accidents2.json", 'r') as inputFile:
+	citiesData = json.load(inputFile)
+
+
+for accidents in citiesData:
+	if accidents.has_key('provinces'):
+		for factory in accidents['provinces']:
+			if factory.has_key('name'):
+				# convert lat / lon
+				x = xOfDot(factory['lon'])
+				y = yOfDot(factory['lat'])
+				
+
+				
+				
+				
+				diameter=factory['count']/3 
+				fill(1)
+				stroke(0)
+				pen(3)
+				rect(x, y, diameter*1.7, diameter*1.7)
+				
+				
+				font("Helvetica", 15)
+				fill(1)
+				stroke(1)	
+				
+				print factory['count']
+				fill(1)
+				stroke(1)
+				text(x, y, width=None, height=None, xml='count')
+				
+				
+				# image("death.jpg", x, y, width=diameter*2, height=diameter*2)
+				# fill(0)
+				# ellipse(104.066801, 30.572816, 10, 10) # Chengdu
+				# ellipse(117.200983, 39.084158, 10, 10) # Tjianjin
+				# ellipse(106.551556, 29.563010, 10, 10) # Chongqing
+				# ellipse(121.473701, 31.230416, 10, 10) # Shanghai
+				# ellipse(113.264385, 23.129110, 10, 10) # Guangzhou
+				
+				
+				
+				
+				# rotate(60)
+
+				# poly(x, y, diameter,sides=3,fill=('black', 0),stroke=(0,0,0)  )
+				# rotate(60)
+				
+
+
+				
+				
+				

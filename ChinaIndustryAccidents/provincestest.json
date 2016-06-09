@@ -1,0 +1,39 @@
+[
+  {
+    "count": 44, 
+    "name": "Zhejiang",
+    "lat": 30.2674,
+    "lon": 120.1528,
+  }, 
+  {
+    "count": 17, 
+    "name": "Beijing",
+    "lat": 39.904,
+    "lon": 116.4075,
+  }, 
+  {
+    "count": 28, 
+    "name": "Henan",
+    "lat": 34.7655,
+    "lon": 113.7537,
+
+  }, 
+  {
+    "count": 33, 
+    "name": "Shaanxi",
+    "lat": 34.2655,
+    "lon": 108.9542,
+  }, 
+  {
+    "count": 61, 
+    "name": "Guangdong",
+    "lat": 23.1322,
+    "lon": 113.2665,
+  }, 
+  {
+    "count": 42, 
+    "name": "Jiangsu",
+    "lat": 32.0617,
+    "lon": 118.7632,
+  }
+]

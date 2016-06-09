@@ -1,0 +1,38 @@
+[
+  {
+    "count": 82, 
+    "name": "Sanitation"
+  }, 
+  {
+    "count": 254, 
+    "name": "Construction"
+  }, 
+  {
+    "count": 45, 
+    "name": "Repair/maintenance"
+  }, 
+  {
+    "count": 65, 
+    "name": "Coal mining"
+  }, 
+  {
+    "count": 50, 
+    "name": "Industrial (e.g. iron & steel)"
+  }, 
+  {
+    "count": 86, 
+    "name": "Manufacturing"
+  }, 
+  {
+    "count": 98, 
+    "name": 0
+  }, 
+  {
+    "count": 21, 
+    "name": "Storage / Logistics"
+  }, 
+  {
+    "count": 35, 
+    "name": "Other mining industry"
+  }
+]

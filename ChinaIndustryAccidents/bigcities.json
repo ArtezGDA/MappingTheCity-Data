@@ -1,0 +1,36 @@
+[{
+	"accidents": "china",
+	"cities": [{
+		"count": 20,
+		"name": "Beijing",
+		"lat": 39.904211,
+		"lon": 116.407395
+	}, {
+		"count": 20,
+		"name": "Chengdu",
+		"lat": 30.572816,
+		"lon": 104.066801
+	},  {
+		"count": 20,
+		"name": "Tjianjin",
+		"lat": 39.084158,
+		"lon": 117.200983
+	},  {
+		"count": 20,
+		"name": "Chongqing",
+		"lat": 29.563010,
+		"lon": 106.551556
+	},  {
+		"count": 20,
+		"name": "Shanghai",
+		"lat": 31.230416,
+		"lon": 121.473701
+	{
+		"count": 20,
+		"name": "Guangzhou",
+		"lat": 23.129110,
+		"lon": 113.264385
+	},
+	}],
+	"citiesList": "List of cities and towns in Zimbabwe"
+}]
