@@ -38,6 +38,7 @@ Our source data contains, as stated before, the information of 6 different felon
 - now you have a .json file but it is way to big to open it. So you need to contain the information you need. We choose for the tree boroughs. 
 - open the terminal and type in (image): cat (the place where your .json file is restord) |grep "(the thing you want to filter out, like MANHATTAN)" >(newfilename).json 
 - so now the terminal made a new file where only manhattan is part of it. And you have your new, smaller file. 
+- We greped the files on fellony because we wanted te files to be smaller. 
 
 ![NewYorkCityCrimes](Stap_1_Opzet/Analyzing_data/terminal.png)
 
