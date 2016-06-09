@@ -8,7 +8,7 @@ The following is the description of the data scraper Weather Poster Philadelphia
 
 - the data set contains all monthly data from 1941-2016
 
-- structure scrapped data: <br>[{{months{data},year{}},{},{},...]
+- structure scrapped data: <br>[<br>{<br>{months<br>{data},<br>year{}<br>},<br>{},<br>{},<br>...]
 		<br>- tools: scraper
 		<br>- contributors: Sietske Bartens, Bella Naag, Shirin Pfisterer
 	- [LallData_philly.json](allData_philly.json): find all scrapped data here
