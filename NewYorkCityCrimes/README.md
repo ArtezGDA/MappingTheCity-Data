@@ -48,9 +48,9 @@ Our source data contains, as stated before, the information of 6 different felon
 - The next step was to visualise how we wanted the posters to look. 
 - we made a sketch in illustrator
 
-![NewYorkCityCrimes](Stap_1_Opzet/Schetsen/poster1.pdf)
-![NewYorkCityCrimes](Stap_1_Opzet/Schetsen/poster2.pdf)
-![NewYorkCityCrimes](Stap_1_Opzet/Schetsen/poster3.pdf)
+![NewYorkCityCrimes](Stap_1_Opzet/Schetsen/poster1.png)
+![NewYorkCityCrimes](Stap_1_Opzet/Schetsen/poster2.png)
+![NewYorkCityCrimes](Stap_1_Opzet/Schetsen/poster3.png)
 
 ##code / 2nd itteration
 
