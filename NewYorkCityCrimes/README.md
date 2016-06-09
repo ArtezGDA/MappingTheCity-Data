@@ -29,7 +29,7 @@ Our source data contains, as stated before, the information of 6 different felon
 
 
 
-## How did we get it?
+## Stap 1 opzet - Data collecting
 
 - download the file from the page as .csv file 
 - open the file in excel and indicate that every comma need to be a new collom
@@ -42,7 +42,7 @@ Our source data contains, as stated before, the information of 6 different felon
 ![NewYorkCityCrimes](Stap_1_Opzet/Analyzing_data/terminal.png)
 
 
-##1st itteration
+## Stap 1 opzet - first iteration
 
 - We now knew what data we wanted to work with.
 - The next step was to visualise how we wanted the posters to look. 
@@ -52,24 +52,34 @@ Our source data contains, as stated before, the information of 6 different felon
 ![NewYorkCityCrimes](Stap_1_Opzet/Schetsen/poster2.png)
 ![NewYorkCityCrimes](Stap_1_Opzet/Schetsen/poster3.png)
 
-##code / 2nd itteration
+##Stap 2 plotdevice- data analysis
 
-- we stared in plotdivce trying to create a bargraph.
-- this was the result
+- Using plot device, we started analysing the data we had collected.
+The first element we analysed was the which crimes had happened in the boroughs. In our code we let the json files be filtered on crime, so the the amount of crimes were counted one by one.
+- As outcome we got the list of crimes with the amount of occurrences. 
+- Our main question then became: What crime happens most often at which hour? 
+- We grepped our json files again: this time to seperate the crimes. We ended up with 6 different files with the date of the different crimes.
+- Now we changed the analysis file: we filtered on the hour, so our end result was the list of hours (from 0 till 23) with the corresponding amount. 
+- Now we had exactly the data we needed. 
+
+##Stap 3 Illustrator- drawing circle graphs
+
+- With the relevant data we started sketching with the help of the example of the visualising the long tail.
+- In Plotdevice we used the same code as we had used to the analysis; only now we added the part of code that visualised this data. 
+- The first part of the code consisted of the analysis, of which the results are printed in the box below
+- The second part draws the bargraph 
+- The third part draws the horizontal lines which indicate the amount of crimes, every bar stands for 50 crimes 
+-After some difficulty we manages to add the hours underneath the bar graph. <br>
+[analysis file](Stap_2_Plotdevice/manhattan/MANHATTAN-ASSAULT.pv)
 
 ![NewYorkCityCrimes](Stap_2_Plotdevice/brooklyn/brooklyn_fellonyassault.png)
 
- - the code was good enough because the data wasnt clear what what was. 
- - the next step was to inlcude the hours and make it orginized
- 
- 
 ![NewYorkCityCrimes](Stap_2_Plotdevice/brooklyn/brooklyn_bulglary_2.png)
 
-- because of the big file we had we again made a selection of the data we eventually needed. This we did by making a extra part of code in the plotdevice file, where the data we needed exported to a new json file. 
+ 
 
 
-
-##3th itteration
+##Stap 4 Eindresultaat - Final Posters
 
 
 We found a example of a code that would work better for our idea. 
@@ -91,6 +101,7 @@ in the file: Stap 3 illustrator are all the files you need
 
 
 
+
 These are examples of how the illustrator file should look like:
 
 
@@ -99,6 +110,8 @@ These are examples of how the illustrator file should look like:
 ![NewYorkCityCrimes](Stap_3_illustrator/Bronx/circle_graphs-03.png)
 ![NewYorkCityCrimes](Stap_3_illustrator/Bronx/circle_graphs-04.png)
 ![NewYorkCityCrimes](Stap_3_illustrator/Bronx/circle_graphs-05.png)
+
+![NewYorkCityCrimes](Stap_4_eindresultaat/Bronx/4_logaritmisch.png)
 
 
 
