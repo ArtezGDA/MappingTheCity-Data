@@ -41,6 +41,33 @@ Our source data contains, as stated before, the information of 6 different felon
 
 ![NewYorkCityCrimes](terminal.png)
 
+
+##1st itteration
+
+- We now knew what data we wanted to work with.
+- The next step was to visualise how we wanted the posters to look. 
+- we made a sketch in illustrator
+
+![NewYorkCityCrimes](poster1.pdf)
+![NewYorkCityCrimes](poster2.pdf)
+![NewYorkCityCrimes](poster3.pdf)
+
+##code / 2nd itteration
+
+- we stared in plotdivce trying to create a bargraph.
+- this was the result
+
+![NewYorkCityCrimes](brooklyn_bulglary.png)
+
+ - the code was good enough because the data wasnt clear what what was. 
+ - the next step was to inlcude the hours and make it orginized
+ 
+ 
+ ![NewYorkCityCrimes]( brooklyn_bulglary_2.png)
+
+- because of the big file we had we again made a selection of the data we eventually needed. This we did by making a extra part of code in the plotdevice file, where the data we needed exported to a new json file. 
+
+
 ## Collaborators
 
 - Isabel Zoetbrood
