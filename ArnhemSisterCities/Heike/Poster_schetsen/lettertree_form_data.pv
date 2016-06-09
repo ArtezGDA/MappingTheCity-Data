@@ -1,0 +1,155 @@
+size(1500, 1300)
+background(1)
+stroke (0)
+fontsize(16)
+
+color(HSV)
+
+data = {'city': "Arnhem",
+    'children': [
+        {'city': "Coventry",
+        'children': [
+            {'city': "Dresden"},
+            {'city': "Ostrava",
+             'children': [
+                {'city': "Wolgograd"},
+                {'city': "Split",
+                    'children': [
+                        {'city': "Punta Arenas",
+                            'children': [
+                                {'city': "Bellingham"}]
+                        }]
+                },
+                {'city': "Piraeus"},
+                {'city': "Kosice"},
+                {'city': "Miskolc"}
+                ]
+            },
+            {'city': "Saint-Étienne",
+            'children': [
+                {'city': "Annaba"},
+                {'city': "Ben Arous"},
+                {'city': "Des Moines"},
+                {'city': "Fererra",
+                'children': [
+                    {'city': "Tartu"},
+                    {'city': "Krasnodar"},
+                    {'city': "Koper"},
+                    {'city': "Lerida"},
+                    {'city': "Swansea"},
+                    {'city': "Zilina"}]
+                },
+                {'city': "Fez",
+                 'children': [
+                    {'city': "Bobo Dioulasso"},
+                    {'city': "Córdoba"},
+                    {'city': "Kairouan"},
+                    {'city': "Lahore",
+                    'children':[
+                        {'city': "Sariwŏn",
+                        'children':[
+                            {'city': "Székesfehérvár"}]
+                        }]
+                    },
+                    {'city': "Montpellier"},
+                    {'city': "Puebla"},
+                    {'city': "Saint Louis"},
+                    {'city': "Straatsburg"},
+                    {'city': "Suwon"},
+                    {'city': "Antwerpen",
+                    'children': [
+                        {'city': "Mullhouse",
+                        'children': [
+                            {'city': "Bergamo"},
+                            {'city': "Givatayim"},
+                            {'city': "Kassel"}]
+                        },
+                    {'city': "Ludwigshafen",
+                    'children': [
+                        {'city': "Pasadena",
+                        'children': [
+                            {'city': "Ludwigshafen am Rhein"},
+                            {'city': "Vanadzor"}]
+                            }]
+                        }
+                        ]}
+                    ]},
+                {'city': "Geltendorf"},
+                {'city': "Katowice",
+                'children': [
+                    {'city': "Mobile"}]
+                },
+                {'city': "Loehansk"},
+                {'city': "Nazareth Illit"},
+                {'city': "Oeiras"},
+                {'city': "Patras",
+                'children': [
+                    {'city': "Limasol",
+                    'children': [
+                        {'city': "Bergisch Gladbach"},
+                        {'city': "Niederkassel"},
+                        {'city': "Rodos"}]
+                    }]
+                },
+                {'city': "Toamasina"},
+                {'city': "Wuppertal"},
+                {'city': "Xuzhou"}
+            ]
+            }
+        ]},
+        {'city': "Hradec Kralove",
+        'children': [
+            {'city': "Alessandria"},
+            {'city': "Banska Bystrica"},
+            {'city': "Gießen"},
+            {'city': "Kastela",
+            'children': [
+                {'city': "Bardejov"}
+                ]
+            }]
+        }
+    ]
+    }
+
+
+# start position
+x = WIDTH / 2
+y = HEIGHT - 50
+
+def segment(x, y, x_direction, height, data):
+    x2 = x + x_direction
+    y2 = y - height
+    city = data['city']
+    text (city, x2, y2)
+    
+    stroke(1, 1, 0.0)
+    pen (3)
+    line (x, y, x2, y2)
+    
+    stroke(0.0 + (x / y), 0.8, 0.0 + (y / y2), 0.1)
+    print  (0.0+ (x / y))
+    print  (0.0 + (y / y2))
+    pen (1000)
+    line(x, y, x2, y2)
+
+    if data.has_key('children'):
+        childs = data['children']
+        if len(childs) > 0:
+            spacing = height - 50
+            total = (len(childs) -1) * spacing
+            x1 = x2 -(total / 2)
+            new_h_l = height - 5 + random(50)
+            #new_h_r = height - 5 
+            #left = x_direction - 10 
+            #right = x_direction + 20 
+            i = 0.1
+            
+            for c in childs:
+                segment(x2, y2, x2 - (x1 + (i * spacing)), new_h_l, c)
+                i = i+1
+            
+            
+            
+        return (x2, y2)
+
+segment(x, y, 0, 100, data)
