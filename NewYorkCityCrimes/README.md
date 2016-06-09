@@ -46,7 +46,7 @@ Our source data contains, as stated before, the information of 6 different felon
 
 - We now knew what data we wanted to work with.
 - The next step was to visualise how we wanted the posters to look. 
-- we made a sketch in illustrator
+- we made a sketch in illustrator.
 
 ![NewYorkCityCrimes](poster1.pdf)
 ![NewYorkCityCrimes](poster2.pdf)
