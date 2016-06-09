@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import urllib
 import json
 import os
-jaren = [str("2010"), str("2012")]
+jaren = [str("2012")]
 DESIRED_COLUMNS = {1, 2, 5} #scrapes only afk, aantal & zetels
 verkiezingsData = []
 

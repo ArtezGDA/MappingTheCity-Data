@@ -1,6 +1,6 @@
 [
     {
-        "Tweede-Kamerverkiezingen - 12 september 2012": [
+        "verkiezingen2012": [
             {
                 "aantal": "Aantal",
                 "afk": "Afk.",
@@ -167,62 +167,8 @@
                 "aantal": "122317",
                 "afk": "PvdD",
                 "zetels": "2"
-            },
-            {
-                "aantal": "52937",
-                "afk": "TROTS",
-                "zetels": ""
-            },
-            {
-                "aantal": "26196",
-                "afk": "MenS",
-                "zetels": ""
-            },
-            {
-                "aantal": "10471",
-                "afk": "Piraten",
-                "zetels": ""
-            },
-            {
-                "aantal": "7456",
-                "afk": "Lijst17",
-                "zetels": ""
-            },
-            {
-                "aantal": "2042",
-                "afk": "\u00e9\u00e9n",
-                "zetels": ""
-            },
-            {
-                "aantal": "2010",
-                "afk": "NwNed",
-                "zetels": ""
-            },
-            {
-                "aantal": "1255",
-                "afk": "HeelNL",
-                "zetels": ""
-            },
-            {
-                "aantal": "924",
-                "afk": "EPN",
-                "zetels": ""
-            },
-            {
-                "aantal": "",
-                "afk": "",
-                "zetels": ""
-            },
-            {
-                "aantal": "9416001",
-                "afk": "",
-                "zetels": "150"
-            },
-            {
-                "aantal": "18147",
-                "afk": "",
-                "zetels": ""
             }
+            
         ]
     }
 ]
