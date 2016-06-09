@@ -25,7 +25,7 @@ Our hypothesis that more serious felonies such as murder and rape happen more of
 <br>
 ## The contents of the source data
 <br>
-Our source data contains, as stated before, the information of 7 different felonies in five different boroughs in New York City District.  
+Our source data contains, as stated before, the information of 6 different felonies in five different boroughs in New York City District.  
 
 
 
